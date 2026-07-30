@@ -1,0 +1,3001 @@
+ticket_date,channel,region,issue_type,resolution_hours,csat_score,first_contact_resolution,churned_within_90d
+2024-07-26,Chat,North America,Billing,3.8,4.0,False,False
+2024-09-10,Chat,North America,Account Access,3.7,4.0,True,False
+2024-07-03,Chat,APAC,Account Access,4.9,3.0,False,False
+2024-10-18,Chat,EMEA,Feature Request,3.4,4.0,False,False
+2024-05-17,Email,EMEA,Billing,22.6,3.4,False,False
+2025-02-20,Chat,North America,Account Access,7.8,4.5,False,False
+2025-08-06,Self-Service,APAC,Account Access,0.6,4.1,False,False
+2024-08-08,Email,APAC,Feature Request,23.0,2.7,True,True
+2025-05-22,Email,EMEA,Feature Request,18.9,4.0,False,False
+2024-12-08,Email,EMEA,Technical Issue,11.8,4.2,True,False
+2024-09-24,Email,APAC,General Inquiry,17.5,3.5,True,False
+2025-08-29,Email,North America,General Inquiry,21.1,5.0,True,False
+2024-04-30,Chat,North America,Technical Issue,3.1,4.8,False,False
+2024-01-02,Email,APAC,General Inquiry,30.9,3.4,True,False
+2025-11-03,Chat,APAC,Feature Request,6.5,4.7,True,False
+2024-10-18,Email,LATAM,Account Access,16.2,4.0,False,False
+2025-10-05,Chat,EMEA,General Inquiry,2.0,5.0,False,False
+2025-10-07,Phone,APAC,Feature Request,2.4,4.3,True,False
+2025-12-31,Chat,LATAM,Account Access,4.9,4.2,True,True
+2024-12-31,Chat,North America,Account Access,5.4,5.0,False,False
+2025-10-12,Chat,APAC,General Inquiry,3.0,4.0,True,False
+2024-12-27,Phone,LATAM,Feature Request,0.6,4.4,False,False
+2025-03-27,Chat,APAC,Technical Issue,2.4,3.6,False,False
+2024-03-26,Email,APAC,Billing,21.8,4.6,True,False
+2024-08-08,Email,North America,Billing,25.8,3.3,False,False
+2024-05-01,Self-Service,North America,Technical Issue,0.4,3.3,False,False
+2024-12-05,Phone,EMEA,Technical Issue,3.4,5.0,True,False
+2025-07-26,Chat,APAC,Technical Issue,2.2,5.0,False,False
+2024-02-04,Chat,EMEA,Billing,3.9,3.8,True,False
+2025-02-15,Self-Service,EMEA,Feature Request,0.3,3.2,True,True
+2024-11-29,Chat,EMEA,Billing,1.1,4.5,True,False
+2025-05-13,Phone,APAC,General Inquiry,2.7,3.9,True,False
+2024-08-16,Chat,EMEA,Billing,3.7,3.7,False,False
+2025-12-08,Self-Service,EMEA,Feature Request,0.2,3.3,True,False
+2024-09-02,Email,APAC,Billing,20.9,4.0,False,False
+2024-11-21,Chat,LATAM,Feature Request,8.1,3.7,True,False
+2025-06-01,Email,APAC,Billing,34.4,4.6,False,False
+2025-04-19,Chat,North America,Billing,2.1,4.8,False,False
+2025-12-20,Email,LATAM,Feature Request,25.7,2.7,False,True
+2025-08-20,Chat,APAC,Billing,5.7,4.0,True,False
+2024-03-25,Chat,LATAM,Feature Request,3.0,5.0,True,False
+2025-05-29,Email,LATAM,Billing,17.2,5.0,False,False
+2025-09-12,Email,EMEA,Technical Issue,26.4,4.2,False,False
+2024-04-08,Chat,EMEA,General Inquiry,2.2,5.0,False,False
+2024-11-27,Phone,APAC,Billing,1.6,3.0,True,False
+2025-05-11,Email,LATAM,Account Access,16.1,2.9,False,False
+2025-10-01,Email,North America,Billing,14.3,3.7,True,False
+2024-02-23,Chat,North America,Billing,4.1,3.4,False,False
+2025-08-29,Phone,EMEA,Technical Issue,1.8,4.2,True,False
+2024-10-07,Self-Service,LATAM,Account Access,0.6,3.9,False,False
+2024-03-27,Self-Service,North America,Technical Issue,0.5,4.3,True,False
+2025-08-21,Self-Service,LATAM,General Inquiry,0.8,3.4,False,False
+2025-02-17,Phone,EMEA,Feature Request,2.1,4.3,True,False
+2024-08-02,Self-Service,LATAM,Technical Issue,0.5,4.6,False,False
+2025-09-20,Self-Service,North America,Technical Issue,0.5,4.4,True,False
+2024-06-08,Phone,LATAM,Technical Issue,0.3,4.4,False,False
+2024-05-13,Phone,LATAM,Feature Request,1.4,3.7,True,False
+2024-06-03,Chat,EMEA,Billing,3.6,4.2,False,False
+2024-10-03,Self-Service,LATAM,Feature Request,0.9,4.8,False,False
+2024-04-25,Chat,North America,Account Access,6.0,4.6,False,False
+2025-10-18,Self-Service,North America,General Inquiry,0.3,3.4,True,False
+2025-12-27,Chat,LATAM,Technical Issue,3.2,5.0,True,False
+2024-07-19,Self-Service,North America,Technical Issue,0.3,4.3,True,False
+2025-02-08,Chat,APAC,Feature Request,4.4,3.7,True,False
+2025-07-23,Self-Service,LATAM,General Inquiry,0.6,4.5,True,False
+2024-09-21,Email,North America,Feature Request,9.9,4.1,True,False
+2025-09-13,Self-Service,APAC,Billing,0.3,3.0,False,False
+2025-04-09,Chat,EMEA,Billing,3.9,4.4,False,False
+2025-04-29,Phone,EMEA,Technical Issue,0.6,3.5,False,False
+2024-03-02,Phone,LATAM,General Inquiry,3.7,5.0,True,False
+2024-08-16,Chat,North America,General Inquiry,2.8,2.4,True,False
+2025-05-21,Email,EMEA,Billing,11.5,2.9,False,False
+2025-08-26,Chat,LATAM,Account Access,3.9,5.0,False,True
+2025-09-22,Email,EMEA,Feature Request,20.9,2.6,True,False
+2025-07-23,Phone,EMEA,Account Access,1.3,4.6,True,False
+2025-05-17,Email,EMEA,Account Access,10.4,3.3,False,False
+2025-02-19,Chat,EMEA,Feature Request,3.2,4.0,False,False
+2025-07-18,Chat,EMEA,Billing,7.4,3.4,True,False
+2024-08-08,Self-Service,North America,General Inquiry,0.9,3.1,False,False
+2024-02-01,Phone,LATAM,Technical Issue,2.0,3.5,True,False
+2025-03-07,Chat,LATAM,Technical Issue,4.4,3.8,False,False
+2025-12-30,Chat,EMEA,Account Access,4.9,3.0,True,False
+2024-04-01,Chat,APAC,General Inquiry,4.0,4.3,True,False
+2025-06-08,Chat,North America,Feature Request,4.6,4.1,True,False
+2024-11-04,Chat,EMEA,Feature Request,4.4,2.6,False,False
+2025-10-30,Email,EMEA,Billing,25.6,3.7,False,False
+2024-11-16,Chat,LATAM,Feature Request,2.6,4.2,True,False
+2025-12-29,Self-Service,LATAM,Billing,0.3,3.2,False,False
+2025-03-05,Chat,APAC,Billing,4.9,4.3,True,True
+2024-05-15,Email,EMEA,Feature Request,21.5,4.4,False,False
+2025-03-08,Chat,APAC,Feature Request,2.2,4.3,True,False
+2025-02-22,Chat,EMEA,Technical Issue,5.9,4.0,True,False
+2024-12-04,Phone,EMEA,Billing,1.8,3.6,True,False
+2024-06-10,Email,APAC,General Inquiry,22.1,3.0,True,False
+2024-07-23,Chat,LATAM,Technical Issue,3.5,4.1,False,False
+2024-08-14,Email,North America,Account Access,1.7,3.7,True,False
+2025-06-09,Chat,APAC,Technical Issue,3.8,4.7,True,False
+2024-01-14,Phone,EMEA,Feature Request,1.7,4.0,True,False
+2025-08-02,Email,EMEA,Technical Issue,10.2,2.8,False,False
+2025-07-29,Email,North America,Feature Request,12.0,4.6,False,False
+2024-03-15,Self-Service,North America,Feature Request,0.4,3.2,True,False
+2024-01-06,Self-Service,EMEA,Billing,0.4,4.3,False,False
+2024-01-03,Email,EMEA,Technical Issue,25.2,3.8,False,False
+2025-07-16,Self-Service,EMEA,Technical Issue,0.7,2.5,True,False
+2025-06-13,Chat,APAC,Feature Request,4.1,4.2,False,False
+2025-03-04,Email,LATAM,Account Access,24.4,3.4,True,False
+2024-01-08,Chat,EMEA,Technical Issue,6.9,3.7,False,False
+2024-07-14,Email,APAC,General Inquiry,21.2,3.6,False,False
+2024-02-21,Phone,EMEA,Account Access,2.7,3.0,False,False
+2024-04-30,Chat,LATAM,Account Access,3.1,4.4,False,False
+2025-04-12,Phone,LATAM,Billing,0.4,3.2,True,False
+2025-12-23,Email,APAC,General Inquiry,18.5,3.5,True,False
+2025-01-30,Email,LATAM,Technical Issue,23.8,3.7,True,False
+2025-11-27,Phone,North America,Account Access,1.8,4.9,True,False
+2025-08-17,Self-Service,LATAM,Account Access,0.8,2.5,False,False
+2024-02-06,Email,APAC,Account Access,17.0,3.3,False,False
+2025-05-25,Phone,North America,Feature Request,2.2,4.3,True,False
+2024-08-13,Self-Service,LATAM,Technical Issue,0.1,3.8,True,False
+2025-10-04,Chat,North America,Feature Request,2.2,3.3,False,False
+2024-08-26,Phone,EMEA,Billing,4.1,4.8,False,False
+2025-10-18,Chat,EMEA,Account Access,1.7,5.0,True,False
+2025-07-08,Self-Service,APAC,Billing,0.8,3.7,False,False
+2025-02-18,Chat,APAC,Billing,3.2,3.7,True,False
+2024-07-11,Phone,LATAM,Account Access,3.1,4.2,True,False
+2024-07-23,Self-Service,APAC,Feature Request,0.4,4.7,False,False
+2024-05-29,Chat,APAC,Feature Request,4.5,4.8,False,False
+2025-04-05,Phone,LATAM,Account Access,1.1,4.0,False,False
+2025-04-26,Phone,LATAM,Billing,2.3,5.0,False,False
+2024-01-28,Email,EMEA,Account Access,27.9,4.1,True,False
+2024-07-17,Chat,APAC,Account Access,4.3,4.9,True,False
+2024-03-13,Self-Service,North America,Technical Issue,0.7,3.4,True,False
+2024-03-05,Self-Service,APAC,Feature Request,0.3,3.9,False,False
+2025-03-03,Chat,EMEA,Technical Issue,4.4,4.3,False,False
+2024-11-09,Chat,APAC,General Inquiry,4.5,4.5,False,True
+2024-08-04,Self-Service,APAC,Billing,0.7,4.3,True,False
+2025-05-26,Chat,EMEA,Technical Issue,4.1,5.0,True,True
+2024-11-04,Chat,EMEA,Account Access,0.1,4.0,False,False
+2025-04-16,Email,EMEA,Feature Request,18.4,3.1,True,False
+2024-10-23,Self-Service,EMEA,Feature Request,0.4,3.9,True,False
+2025-06-10,Chat,North America,Feature Request,4.1,4.1,True,False
+2025-03-16,Chat,APAC,Account Access,3.3,4.7,False,False
+2025-02-20,Phone,APAC,Account Access,0.3,5.0,True,False
+2024-09-13,Self-Service,North America,Technical Issue,0.5,2.8,False,True
+2024-04-03,Chat,APAC,Billing,5.2,4.9,True,False
+2025-02-01,Self-Service,EMEA,Billing,0.3,4.2,False,False
+2025-03-23,Self-Service,APAC,Technical Issue,0.3,1.9,True,False
+2024-01-09,Email,LATAM,General Inquiry,19.7,3.8,False,False
+2024-11-19,Chat,North America,Feature Request,4.3,4.8,True,False
+2025-08-21,Phone,LATAM,Account Access,3.9,4.8,True,False
+2025-10-12,Email,LATAM,Technical Issue,24.0,3.8,False,False
+2024-08-04,Chat,EMEA,Technical Issue,1.2,3.4,True,False
+2025-09-27,Chat,EMEA,Feature Request,3.9,4.4,False,False
+2025-09-23,Phone,APAC,Account Access,0.7,4.4,False,False
+2024-07-13,Email,APAC,General Inquiry,12.2,3.2,False,False
+2024-04-15,Chat,APAC,Technical Issue,5.0,3.9,False,False
+2025-11-02,Chat,North America,Billing,3.1,4.5,True,False
+2025-08-22,Phone,North America,Feature Request,2.4,3.9,True,False
+2024-11-05,Phone,LATAM,Technical Issue,2.3,4.5,True,False
+2024-01-06,Chat,LATAM,Technical Issue,5.7,4.7,True,False
+2025-01-11,Self-Service,LATAM,Account Access,0.6,3.2,False,False
+2024-02-18,Chat,APAC,Account Access,6.7,3.9,False,False
+2024-07-24,Self-Service,North America,General Inquiry,0.3,5.0,True,False
+2024-12-10,Chat,APAC,Feature Request,4.9,3.4,False,False
+2025-12-23,Chat,LATAM,Account Access,2.4,4.5,False,False
+2024-12-30,Self-Service,North America,Billing,0.7,2.8,True,False
+2024-11-13,Self-Service,North America,Technical Issue,0.7,4.6,False,True
+2024-08-11,Chat,EMEA,Account Access,3.7,4.4,False,False
+2025-03-24,Chat,LATAM,Billing,3.8,4.3,True,False
+2025-07-22,Phone,North America,Billing,2.0,3.2,True,False
+2025-03-25,Phone,APAC,Billing,1.6,5.0,True,False
+2024-01-02,Self-Service,APAC,Billing,0.2,4.1,True,False
+2025-06-13,Phone,North America,General Inquiry,0.5,4.9,True,False
+2025-03-29,Chat,LATAM,Feature Request,0.9,3.5,True,False
+2024-09-09,Chat,EMEA,Billing,3.1,3.0,False,False
+2025-05-02,Self-Service,EMEA,Account Access,0.8,3.6,False,False
+2025-11-04,Email,EMEA,Feature Request,22.5,3.6,False,False
+2024-11-03,Email,LATAM,Feature Request,24.5,4.3,True,False
+2024-03-18,Phone,LATAM,General Inquiry,1.2,4.2,False,False
+2025-09-19,Self-Service,EMEA,Feature Request,0.3,2.6,True,False
+2025-10-29,Chat,EMEA,Feature Request,2.5,4.0,False,False
+2025-01-10,Email,LATAM,General Inquiry,20.9,3.0,False,True
+2024-05-19,Email,LATAM,Billing,13.0,4.1,False,False
+2024-09-24,Email,LATAM,Billing,21.3,1.7,False,False
+2025-05-12,Self-Service,North America,Feature Request,0.4,4.1,True,False
+2025-06-28,Self-Service,APAC,Feature Request,0.3,4.1,True,False
+2024-09-21,Chat,LATAM,Technical Issue,5.1,5.0,True,False
+2025-05-06,Chat,LATAM,Feature Request,2.1,2.7,True,False
+2024-11-04,Phone,North America,Technical Issue,1.4,4.3,True,False
+2025-10-13,Chat,LATAM,Feature Request,3.8,4.6,True,False
+2025-07-24,Self-Service,North America,Account Access,0.2,3.8,True,False
+2024-07-21,Phone,APAC,General Inquiry,2.6,3.8,True,False
+2025-06-18,Self-Service,North America,Feature Request,0.3,4.0,True,False
+2025-02-25,Phone,EMEA,Account Access,1.4,3.8,True,False
+2024-11-09,Self-Service,North America,Feature Request,0.5,3.3,False,False
+2024-04-22,Self-Service,North America,General Inquiry,0.3,3.8,True,False
+2025-10-06,Phone,North America,Account Access,1.0,3.4,True,False
+2024-09-18,Self-Service,EMEA,Billing,0.7,5.0,True,False
+2024-05-30,Phone,EMEA,Technical Issue,2.3,4.8,True,False
+2024-02-07,Phone,North America,General Inquiry,2.3,5.0,True,False
+2024-06-05,Self-Service,EMEA,Billing,0.7,3.2,False,False
+2024-04-03,Email,LATAM,Technical Issue,20.2,3.9,True,False
+2024-03-24,Chat,LATAM,Feature Request,5.8,3.9,True,False
+2025-01-13,Chat,LATAM,Feature Request,2.6,4.5,False,False
+2024-11-25,Chat,North America,Account Access,3.3,4.6,True,False
+2025-06-13,Self-Service,North America,General Inquiry,0.4,4.3,True,False
+2025-01-23,Email,APAC,Account Access,25.2,3.5,False,False
+2024-08-09,Chat,APAC,Account Access,5.0,3.9,True,False
+2024-03-15,Chat,EMEA,Billing,2.3,3.6,True,False
+2024-05-27,Chat,LATAM,Account Access,2.1,4.3,True,False
+2024-10-29,Email,EMEA,Account Access,18.4,2.8,False,False
+2025-12-29,Phone,LATAM,Feature Request,1.7,5.0,False,False
+2025-06-10,Chat,EMEA,Feature Request,4.4,4.8,True,False
+2025-11-14,Self-Service,LATAM,Feature Request,0.5,3.5,False,False
+2024-10-30,Phone,EMEA,General Inquiry,1.4,3.8,True,False
+2024-02-18,Self-Service,LATAM,Account Access,0.4,3.6,True,False
+2025-08-05,Email,APAC,General Inquiry,9.6,2.5,True,False
+2025-06-01,Phone,EMEA,Feature Request,2.8,3.2,True,False
+2024-01-27,Email,LATAM,Billing,25.6,3.9,False,False
+2024-10-26,Self-Service,EMEA,Account Access,0.4,3.1,False,False
+2025-08-05,Chat,LATAM,Technical Issue,2.0,4.0,False,False
+2025-05-07,Phone,LATAM,Feature Request,1.4,5.0,False,False
+2025-02-06,Chat,EMEA,General Inquiry,5.0,4.8,True,False
+2024-01-23,Email,APAC,Account Access,22.2,3.7,True,False
+2025-08-21,Email,North America,Account Access,16.3,3.9,False,True
+2024-04-18,Self-Service,LATAM,Account Access,0.6,4.5,True,False
+2024-01-21,Phone,APAC,Feature Request,3.2,4.0,True,False
+2025-04-24,Self-Service,LATAM,Feature Request,0.7,4.3,True,False
+2024-08-21,Phone,APAC,Account Access,1.0,4.3,True,False
+2024-08-13,Email,EMEA,General Inquiry,21.5,4.1,True,False
+2024-12-23,Chat,LATAM,General Inquiry,1.9,4.5,True,False
+2024-12-11,Self-Service,North America,Billing,0.3,4.1,True,False
+2024-09-28,Self-Service,APAC,General Inquiry,0.6,3.5,False,False
+2024-02-20,Self-Service,APAC,Feature Request,0.1,3.8,True,False
+2025-05-28,Chat,North America,Feature Request,4.0,3.9,True,False
+2024-08-12,Email,EMEA,General Inquiry,13.9,4.5,True,False
+2025-08-02,Phone,EMEA,Technical Issue,2.0,5.0,True,False
+2024-08-24,Email,North America,Feature Request,8.2,5.0,False,False
+2025-10-29,Self-Service,APAC,Billing,0.7,3.7,True,False
+2024-07-17,Chat,APAC,Account Access,3.8,4.2,False,False
+2025-05-15,Chat,EMEA,Technical Issue,3.0,5.0,False,False
+2025-11-06,Chat,EMEA,Feature Request,3.1,5.0,False,False
+2025-08-17,Chat,APAC,General Inquiry,5.0,5.0,True,False
+2025-08-12,Email,APAC,General Inquiry,17.6,4.2,False,False
+2025-01-09,Phone,EMEA,Technical Issue,1.4,4.3,True,False
+2025-01-01,Email,APAC,Technical Issue,7.7,5.0,False,False
+2025-03-30,Phone,APAC,Account Access,1.5,4.9,True,False
+2024-06-13,Email,North America,Feature Request,16.6,3.6,False,False
+2025-09-18,Email,North America,Feature Request,26.7,5.0,False,False
+2025-07-06,Phone,EMEA,Technical Issue,2.9,3.9,True,False
+2024-06-15,Phone,North America,Feature Request,1.3,2.6,True,False
+2025-02-22,Email,APAC,General Inquiry,25.8,4.6,True,False
+2024-01-18,Chat,LATAM,Technical Issue,2.6,3.5,True,False
+2024-09-11,Chat,EMEA,General Inquiry,4.7,4.9,True,False
+2025-10-31,Self-Service,North America,Account Access,0.2,3.4,True,False
+2024-03-09,Chat,APAC,Feature Request,2.9,4.9,True,False
+2024-11-10,Chat,EMEA,Account Access,0.9,4.0,True,False
+2024-11-11,Self-Service,APAC,Billing,0.4,3.7,False,False
+2024-06-10,Email,EMEA,General Inquiry,17.1,3.7,False,True
+2025-02-03,Email,LATAM,Billing,17.0,5.0,True,False
+2025-12-04,Phone,EMEA,Account Access,2.9,4.9,True,False
+2025-06-28,Self-Service,EMEA,Account Access,0.4,4.9,True,False
+2025-12-01,Self-Service,North America,Account Access,0.3,3.9,False,False
+2024-06-01,Self-Service,LATAM,Technical Issue,0.5,3.7,True,False
+2024-01-10,Email,EMEA,Account Access,17.6,3.4,False,False
+2024-09-22,Email,North America,Technical Issue,11.6,3.9,True,False
+2024-04-01,Self-Service,LATAM,General Inquiry,0.4,4.1,True,False
+2024-07-26,Chat,LATAM,Technical Issue,0.7,3.9,False,False
+2024-12-04,Phone,North America,General Inquiry,1.6,5.0,True,False
+2024-04-22,Phone,LATAM,Account Access,0.2,3.6,True,False
+2025-12-06,Phone,EMEA,Feature Request,2.0,4.0,True,False
+2024-10-06,Phone,EMEA,Billing,2.7,4.0,True,False
+2024-01-16,Email,LATAM,Technical Issue,0.1,3.0,False,False
+2025-07-20,Self-Service,LATAM,Account Access,0.4,4.9,True,False
+2024-07-10,Self-Service,APAC,Feature Request,0.1,5.0,True,False
+2024-08-19,Self-Service,EMEA,General Inquiry,0.7,5.0,True,False
+2024-08-21,Chat,APAC,General Inquiry,7.2,4.9,False,False
+2024-04-25,Self-Service,North America,Technical Issue,0.4,3.9,False,False
+2024-05-26,Chat,North America,General Inquiry,3.6,4.1,False,False
+2024-10-21,Self-Service,APAC,Account Access,0.3,3.6,False,False
+2024-08-10,Self-Service,EMEA,Billing,0.6,4.8,True,False
+2025-02-11,Self-Service,LATAM,Account Access,0.3,4.7,False,False
+2025-12-25,Chat,LATAM,Account Access,4.5,4.2,True,False
+2024-04-01,Phone,North America,Feature Request,1.6,3.7,False,False
+2024-05-05,Phone,LATAM,Billing,1.2,3.9,True,False
+2025-05-01,Self-Service,APAC,Billing,0.6,5.0,True,False
+2024-02-21,Self-Service,LATAM,Billing,0.7,4.0,False,False
+2025-11-03,Chat,North America,Billing,5.4,4.0,False,False
+2024-10-28,Chat,APAC,Account Access,3.5,5.0,False,True
+2024-04-14,Chat,LATAM,Billing,6.2,3.6,False,False
+2025-11-27,Chat,North America,General Inquiry,6.9,3.3,False,False
+2024-01-02,Chat,EMEA,Account Access,2.3,3.4,False,False
+2024-05-09,Email,LATAM,Feature Request,26.0,3.3,True,False
+2025-03-14,Email,APAC,Account Access,17.9,3.7,True,False
+2025-11-07,Self-Service,APAC,Billing,0.3,3.7,False,False
+2024-07-14,Self-Service,LATAM,Account Access,0.6,4.2,True,False
+2025-09-22,Self-Service,APAC,General Inquiry,0.6,3.4,True,False
+2025-08-20,Email,North America,Technical Issue,15.8,3.5,False,False
+2024-03-14,Phone,LATAM,Feature Request,2.1,4.9,True,False
+2025-12-24,Email,EMEA,Technical Issue,34.1,3.4,True,False
+2025-07-04,Email,EMEA,Feature Request,21.0,3.0,True,False
+2024-06-08,Self-Service,LATAM,Feature Request,0.6,4.5,True,False
+2025-12-09,Email,North America,Technical Issue,19.0,4.1,False,False
+2025-10-07,Self-Service,EMEA,Billing,0.7,5.0,False,False
+2025-11-04,Chat,EMEA,Feature Request,4.1,4.3,True,False
+2024-12-02,Self-Service,EMEA,General Inquiry,0.3,3.7,True,False
+2024-02-29,Email,APAC,Technical Issue,2.1,4.0,True,False
+2025-10-27,Chat,North America,General Inquiry,6.0,4.0,True,False
+2024-06-12,Phone,EMEA,Billing,2.5,4.4,True,False
+2024-07-09,Phone,North America,Account Access,1.5,3.4,True,False
+2025-06-18,Chat,EMEA,Billing,4.3,4.2,True,False
+2025-03-05,Self-Service,North America,Technical Issue,0.5,4.3,True,False
+2024-12-05,Chat,North America,General Inquiry,1.9,3.9,True,False
+2025-05-20,Self-Service,APAC,Feature Request,0.6,4.2,True,False
+2025-06-21,Chat,LATAM,Account Access,1.9,4.8,False,False
+2024-04-24,Chat,APAC,Billing,3.7,3.7,True,False
+2025-07-06,Phone,EMEA,Billing,1.8,3.9,True,False
+2025-12-17,Self-Service,EMEA,Account Access,0.6,4.4,True,False
+2025-03-18,Email,LATAM,Technical Issue,19.0,4.2,True,False
+2025-05-30,Phone,North America,Account Access,0.9,3.9,False,False
+2024-03-28,Phone,APAC,Billing,2.4,3.7,True,False
+2025-05-25,Chat,North America,Billing,4.1,3.6,False,False
+2025-12-25,Email,EMEA,Feature Request,14.0,3.7,False,False
+2024-08-23,Chat,LATAM,Account Access,8.0,5.0,False,False
+2025-10-17,Phone,EMEA,General Inquiry,1.4,3.3,True,False
+2024-06-03,Self-Service,North America,Technical Issue,0.1,3.4,False,False
+2024-06-23,Self-Service,APAC,Feature Request,0.5,4.4,True,False
+2025-09-12,Email,North America,General Inquiry,7.3,4.6,True,False
+2025-10-26,Chat,LATAM,Account Access,2.4,4.0,True,False
+2024-09-28,Chat,EMEA,Account Access,3.5,4.2,False,False
+2025-04-28,Self-Service,North America,Account Access,0.3,4.0,True,False
+2025-01-31,Chat,North America,Account Access,3.9,4.9,True,False
+2024-11-02,Chat,LATAM,General Inquiry,5.5,4.9,True,False
+2025-12-30,Chat,EMEA,Feature Request,4.3,4.9,False,False
+2024-07-22,Phone,LATAM,Billing,3.0,3.9,True,False
+2024-02-10,Self-Service,LATAM,Billing,0.5,3.3,False,False
+2025-02-16,Chat,North America,General Inquiry,2.5,4.5,False,False
+2024-01-26,Email,EMEA,Feature Request,5.1,3.2,True,False
+2024-06-10,Self-Service,North America,General Inquiry,0.6,4.2,False,False
+2025-02-28,Self-Service,North America,General Inquiry,0.5,4.0,False,False
+2024-06-20,Self-Service,LATAM,Billing,0.3,3.6,False,False
+2024-05-05,Chat,APAC,Account Access,6.6,4.8,True,False
+2024-11-01,Self-Service,North America,Billing,0.6,3.8,False,False
+2025-01-21,Self-Service,North America,Feature Request,0.5,4.3,True,False
+2025-12-13,Phone,APAC,General Inquiry,2.8,3.8,True,False
+2025-07-21,Self-Service,EMEA,Feature Request,0.9,4.8,True,False
+2024-10-24,Self-Service,LATAM,Feature Request,0.4,4.2,False,False
+2024-03-21,Self-Service,North America,Billing,0.5,3.5,False,False
+2025-07-31,Phone,EMEA,General Inquiry,1.6,3.6,True,False
+2024-06-27,Email,APAC,General Inquiry,17.9,4.9,True,False
+2025-06-25,Phone,North America,Technical Issue,2.8,4.5,True,False
+2025-05-09,Self-Service,North America,General Inquiry,0.4,4.4,True,False
+2025-04-27,Self-Service,LATAM,Technical Issue,0.5,3.9,True,False
+2025-08-16,Email,North America,Feature Request,19.9,3.0,False,False
+2024-06-14,Chat,LATAM,Billing,4.0,3.7,True,False
+2024-12-25,Chat,EMEA,Feature Request,2.7,4.0,False,False
+2025-11-02,Phone,North America,Technical Issue,0.8,4.8,True,True
+2024-12-03,Email,EMEA,Billing,27.6,4.6,False,False
+2025-10-22,Email,LATAM,Feature Request,22.6,1.4,False,False
+2025-02-09,Phone,EMEA,Account Access,2.0,3.5,True,False
+2024-09-09,Email,North America,Account Access,18.7,4.6,False,False
+2024-09-10,Chat,EMEA,Feature Request,5.0,4.3,True,False
+2025-12-14,Email,APAC,Billing,10.2,3.0,True,False
+2025-02-26,Self-Service,North America,Feature Request,0.5,4.4,True,False
+2025-11-07,Chat,LATAM,Billing,5.7,4.3,True,False
+2025-08-09,Phone,EMEA,Account Access,2.4,3.0,True,False
+2024-11-25,Self-Service,North America,Account Access,0.5,3.5,True,False
+2024-07-30,Email,EMEA,Billing,14.4,4.4,True,False
+2024-12-31,Email,North America,Account Access,0.1,4.0,True,False
+2025-06-27,Self-Service,LATAM,Technical Issue,0.4,5.0,False,False
+2024-12-18,Phone,LATAM,Billing,1.8,3.7,True,False
+2025-05-24,Chat,APAC,Feature Request,3.2,3.4,True,False
+2024-10-29,Chat,APAC,Feature Request,1.7,4.8,True,False
+2025-10-02,Self-Service,LATAM,General Inquiry,0.1,3.8,False,False
+2025-10-27,Email,North America,Feature Request,3.3,4.2,False,False
+2024-05-16,Phone,LATAM,Billing,1.9,3.8,False,False
+2024-03-24,Email,North America,Billing,21.5,3.2,True,False
+2024-10-07,Phone,EMEA,Feature Request,1.9,5.0,True,False
+2025-12-25,Chat,North America,Account Access,3.2,4.9,True,False
+2025-10-22,Phone,EMEA,Billing,2.5,2.7,False,False
+2024-12-15,Chat,North America,General Inquiry,4.8,4.8,False,False
+2025-06-11,Chat,LATAM,Account Access,4.9,3.3,True,False
+2024-06-14,Email,EMEA,Billing,11.5,5.0,False,False
+2025-06-28,Phone,EMEA,Feature Request,0.1,3.6,True,False
+2025-10-08,Email,North America,Account Access,29.0,4.5,False,False
+2025-12-13,Phone,EMEA,Account Access,2.1,4.1,False,False
+2025-05-30,Email,EMEA,General Inquiry,21.2,3.5,True,False
+2025-07-17,Chat,North America,Billing,6.8,3.7,False,False
+2024-03-19,Self-Service,EMEA,Technical Issue,0.5,4.5,True,False
+2024-07-08,Chat,North America,Billing,5.4,5.0,False,False
+2024-06-06,Chat,North America,Billing,3.2,4.5,False,False
+2024-12-02,Email,LATAM,Billing,20.0,2.7,True,True
+2025-03-30,Chat,EMEA,General Inquiry,5.0,3.9,False,False
+2025-12-18,Phone,North America,Feature Request,2.4,4.3,False,False
+2024-11-27,Email,EMEA,General Inquiry,20.7,4.1,False,False
+2024-08-26,Phone,North America,Account Access,1.5,3.6,False,True
+2024-04-26,Chat,North America,General Inquiry,2.7,3.7,True,False
+2024-06-06,Self-Service,LATAM,Billing,0.4,3.5,True,False
+2025-04-16,Phone,North America,General Inquiry,2.5,4.7,False,False
+2024-07-28,Self-Service,North America,General Inquiry,0.5,3.3,False,False
+2024-01-06,Phone,North America,Technical Issue,1.2,4.3,True,True
+2024-08-08,Self-Service,EMEA,Account Access,0.3,3.2,True,False
+2025-01-03,Chat,APAC,Feature Request,2.9,4.6,False,False
+2025-04-02,Chat,North America,Billing,3.9,4.4,True,False
+2024-08-20,Chat,LATAM,General Inquiry,4.9,4.6,True,False
+2024-03-06,Phone,LATAM,Technical Issue,1.4,4.7,True,False
+2025-12-15,Self-Service,APAC,Technical Issue,0.4,3.8,False,False
+2025-05-07,Chat,LATAM,Technical Issue,6.6,4.7,False,False
+2024-08-06,Chat,LATAM,Technical Issue,1.7,4.5,True,False
+2024-01-07,Chat,APAC,Billing,1.7,4.0,False,False
+2025-11-07,Email,North America,Billing,21.6,2.6,True,True
+2024-05-30,Phone,LATAM,General Inquiry,1.6,5.0,True,False
+2024-05-22,Self-Service,EMEA,Technical Issue,0.5,5.0,False,False
+2024-07-07,Email,EMEA,Billing,27.4,3.8,False,False
+2025-02-11,Self-Service,LATAM,General Inquiry,0.6,3.4,True,False
+2024-03-17,Chat,APAC,Technical Issue,5.6,4.1,False,False
+2024-02-19,Phone,EMEA,Feature Request,1.9,3.4,True,False
+2024-10-18,Chat,APAC,Billing,5.6,2.9,True,False
+2024-07-20,Chat,APAC,General Inquiry,4.1,3.1,False,False
+2025-11-06,Self-Service,APAC,Account Access,0.9,3.4,False,False
+2025-02-05,Chat,EMEA,Billing,3.4,3.4,False,False
+2025-03-01,Self-Service,EMEA,General Inquiry,0.9,5.0,False,False
+2024-03-08,Email,APAC,Billing,17.7,2.8,False,False
+2025-02-05,Email,APAC,Billing,32.1,3.8,False,False
+2025-01-01,Email,North America,Account Access,19.2,3.7,True,False
+2025-03-09,Phone,North America,General Inquiry,1.7,4.3,True,False
+2024-11-04,Email,EMEA,Billing,18.7,3.7,False,False
+2024-01-13,Email,LATAM,Feature Request,32.5,4.1,False,False
+2025-08-06,Email,LATAM,Feature Request,6.2,3.6,True,False
+2024-06-03,Self-Service,EMEA,Technical Issue,0.6,2.3,True,True
+2025-08-07,Chat,EMEA,Billing,3.0,4.7,False,False
+2025-12-16,Email,EMEA,General Inquiry,21.4,2.7,False,False
+2025-06-11,Email,North America,Account Access,10.1,4.0,True,False
+2024-10-04,Chat,APAC,Technical Issue,4.6,3.9,False,False
+2025-08-20,Chat,EMEA,General Inquiry,2.6,4.6,True,False
+2024-05-26,Email,EMEA,General Inquiry,24.1,4.5,True,False
+2025-12-15,Email,North America,Billing,27.6,3.5,False,False
+2024-09-21,Self-Service,North America,Technical Issue,0.7,3.9,True,False
+2025-05-04,Chat,North America,Feature Request,2.5,3.7,True,False
+2024-08-11,Self-Service,APAC,Feature Request,0.2,4.1,True,False
+2025-11-23,Self-Service,LATAM,General Inquiry,0.4,3.9,True,False
+2025-04-26,Phone,North America,Account Access,1.1,4.9,False,False
+2025-08-01,Phone,North America,Technical Issue,2.2,4.7,False,False
+2025-08-15,Chat,APAC,Billing,4.9,3.7,True,False
+2025-10-28,Chat,LATAM,Billing,2.0,3.4,False,False
+2024-04-30,Chat,North America,Account Access,4.1,3.8,True,False
+2025-04-11,Email,APAC,Technical Issue,24.9,4.5,True,False
+2025-12-13,Chat,EMEA,Feature Request,4.1,4.8,True,False
+2025-06-11,Phone,APAC,General Inquiry,0.1,4.0,True,False
+2025-10-16,Chat,North America,Feature Request,4.0,3.8,True,False
+2025-07-12,Phone,APAC,Technical Issue,0.9,5.0,True,False
+2024-06-30,Self-Service,LATAM,Feature Request,0.5,4.8,False,False
+2025-11-02,Email,North America,Account Access,20.3,3.6,True,False
+2025-06-13,Chat,LATAM,Technical Issue,5.2,4.6,True,False
+2025-12-14,Email,EMEA,Account Access,31.2,4.1,True,False
+2025-08-08,Phone,APAC,Feature Request,1.5,4.3,True,False
+2025-10-18,Email,APAC,Billing,13.2,4.8,True,False
+2025-12-03,Phone,APAC,Account Access,2.4,4.6,False,True
+2024-01-11,Email,APAC,Account Access,6.1,4.2,True,True
+2025-06-20,Chat,APAC,Feature Request,3.6,4.2,False,False
+2024-04-14,Email,North America,Billing,33.1,5.0,False,False
+2024-04-22,Chat,EMEA,Technical Issue,3.2,5.0,False,False
+2024-10-31,Email,EMEA,General Inquiry,19.5,4.1,False,False
+2025-05-21,Self-Service,LATAM,Feature Request,0.4,3.4,False,False
+2025-04-12,Chat,North America,Feature Request,2.8,4.2,True,False
+2025-02-25,Phone,North America,Technical Issue,1.3,5.0,False,False
+2025-05-10,Self-Service,North America,Billing,0.4,3.0,True,False
+2024-01-08,Self-Service,APAC,Feature Request,0.4,2.9,True,False
+2025-07-06,Chat,North America,Billing,2.7,3.2,False,False
+2025-03-29,Self-Service,LATAM,Account Access,0.4,4.4,True,False
+2025-05-01,Chat,EMEA,Account Access,4.9,4.6,True,False
+2025-02-28,Self-Service,EMEA,Account Access,0.4,3.8,True,False
+2024-02-23,Email,EMEA,Technical Issue,15.8,3.7,False,False
+2025-07-19,Email,LATAM,Feature Request,15.7,2.9,True,False
+2025-09-06,Email,APAC,Technical Issue,8.8,3.5,False,False
+2025-11-27,Email,APAC,Technical Issue,12.3,4.1,True,False
+2025-07-06,Chat,APAC,Feature Request,2.6,4.1,False,False
+2024-01-09,Email,EMEA,Feature Request,21.8,4.1,False,False
+2024-12-27,Self-Service,LATAM,Account Access,0.5,4.1,True,False
+2025-05-30,Chat,APAC,Technical Issue,2.7,4.0,True,False
+2024-11-07,Self-Service,EMEA,Billing,0.9,3.6,True,False
+2024-04-04,Email,North America,General Inquiry,5.9,3.7,True,False
+2025-04-15,Email,North America,Account Access,15.9,3.1,True,False
+2024-12-22,Phone,EMEA,Account Access,1.5,4.1,True,False
+2025-12-31,Email,LATAM,Feature Request,1.0,3.7,True,False
+2025-05-07,Self-Service,EMEA,Account Access,0.6,4.4,False,False
+2025-07-22,Email,LATAM,Account Access,13.6,4.5,True,False
+2025-11-16,Chat,LATAM,Billing,6.2,4.6,True,False
+2024-03-01,Chat,North America,Billing,1.6,5.0,False,False
+2024-10-29,Chat,LATAM,Billing,3.6,4.4,True,False
+2025-04-30,Email,APAC,General Inquiry,21.9,4.5,True,True
+2024-11-18,Chat,LATAM,Feature Request,7.3,4.2,True,False
+2024-08-14,Chat,North America,General Inquiry,4.7,4.5,True,False
+2024-04-21,Self-Service,EMEA,Technical Issue,0.4,4.4,True,False
+2025-05-28,Chat,LATAM,Account Access,5.6,3.2,False,False
+2024-08-25,Email,EMEA,Billing,18.6,3.9,True,False
+2024-06-12,Self-Service,APAC,Billing,0.5,5.0,True,False
+2024-04-14,Email,LATAM,Technical Issue,18.9,4.9,True,False
+2024-05-29,Email,EMEA,Technical Issue,35.1,4.5,False,False
+2024-11-26,Email,EMEA,General Inquiry,23.1,5.0,True,False
+2025-12-26,Phone,APAC,Billing,2.6,5.0,True,False
+2024-02-18,Email,LATAM,General Inquiry,37.6,3.0,True,False
+2024-09-14,Chat,APAC,Account Access,3.3,3.1,True,False
+2025-06-27,Chat,North America,General Inquiry,6.5,5.0,True,False
+2025-08-06,Self-Service,EMEA,Account Access,0.5,5.0,False,False
+2024-04-16,Chat,LATAM,Billing,1.0,4.3,True,False
+2024-08-27,Chat,EMEA,Billing,3.1,4.0,False,False
+2024-11-15,Self-Service,North America,Account Access,0.4,3.5,False,False
+2025-03-25,Chat,North America,Billing,6.8,4.1,True,True
+2024-04-13,Phone,LATAM,Technical Issue,2.2,3.9,True,False
+2025-06-08,Chat,EMEA,General Inquiry,3.5,4.7,True,False
+2024-10-15,Phone,EMEA,General Inquiry,1.8,5.0,False,False
+2025-07-05,Chat,LATAM,Feature Request,3.4,4.5,True,False
+2024-12-26,Self-Service,APAC,Account Access,0.4,3.9,True,False
+2025-03-10,Self-Service,North America,Account Access,0.7,3.8,False,False
+2024-12-14,Email,EMEA,Account Access,26.7,3.3,False,False
+2024-03-11,Chat,APAC,General Inquiry,1.7,4.4,True,False
+2025-11-21,Email,APAC,General Inquiry,14.0,5.0,False,False
+2025-10-12,Phone,North America,General Inquiry,1.4,5.0,False,False
+2024-07-08,Phone,LATAM,Feature Request,3.2,3.7,False,False
+2024-01-16,Self-Service,EMEA,Billing,0.8,2.7,True,False
+2024-04-03,Email,LATAM,Technical Issue,26.7,3.3,True,False
+2024-03-04,Email,North America,Feature Request,16.3,4.3,True,False
+2025-05-02,Chat,EMEA,Feature Request,4.2,4.5,True,False
+2025-03-04,Email,LATAM,Feature Request,14.1,3.6,False,False
+2024-04-12,Chat,EMEA,Account Access,5.9,3.2,False,False
+2024-01-30,Email,EMEA,Billing,24.6,2.7,True,False
+2024-04-25,Email,EMEA,Technical Issue,22.4,4.3,False,False
+2025-12-12,Self-Service,LATAM,Technical Issue,0.8,4.1,False,False
+2024-03-11,Self-Service,LATAM,Feature Request,1.0,3.0,True,False
+2025-06-19,Phone,APAC,Technical Issue,0.7,4.9,False,False
+2025-02-05,Email,North America,Account Access,19.6,3.1,False,False
+2024-12-12,Chat,EMEA,Technical Issue,3.7,4.3,True,False
+2024-10-02,Email,APAC,Feature Request,2.9,2.9,True,False
+2025-10-11,Phone,APAC,Feature Request,0.3,4.5,True,False
+2024-05-03,Chat,North America,General Inquiry,3.7,3.6,False,False
+2025-11-08,Email,APAC,Account Access,2.1,2.4,True,False
+2024-02-20,Self-Service,APAC,Feature Request,0.7,4.2,True,False
+2025-07-16,Self-Service,APAC,Technical Issue,0.1,3.8,True,False
+2025-05-24,Chat,North America,Feature Request,3.0,4.0,False,False
+2024-03-14,Phone,EMEA,Technical Issue,1.5,5.0,False,False
+2025-07-08,Chat,LATAM,Billing,1.8,4.1,True,False
+2024-02-03,Email,North America,Billing,18.0,4.2,False,False
+2025-06-19,Email,North America,Billing,23.2,4.0,False,False
+2025-11-11,Email,North America,Billing,28.4,3.1,False,False
+2025-09-17,Email,EMEA,Account Access,20.1,1.6,True,False
+2024-02-11,Chat,APAC,Feature Request,3.7,4.2,False,False
+2025-01-22,Self-Service,North America,Technical Issue,0.3,2.9,True,False
+2025-04-09,Chat,EMEA,Billing,6.5,4.4,True,False
+2025-07-06,Phone,EMEA,Account Access,2.9,5.0,True,False
+2024-04-07,Phone,APAC,Technical Issue,1.8,3.8,True,False
+2024-10-20,Email,LATAM,Billing,24.3,2.8,False,False
+2025-01-17,Email,LATAM,General Inquiry,21.7,4.0,True,False
+2024-02-28,Email,LATAM,Feature Request,23.2,3.2,False,False
+2024-01-15,Email,North America,Billing,21.7,4.4,True,False
+2025-10-28,Chat,North America,Billing,1.9,3.9,True,False
+2024-07-04,Phone,North America,Technical Issue,0.3,3.8,True,True
+2025-04-24,Phone,LATAM,Account Access,0.9,4.5,True,False
+2024-04-15,Phone,North America,Technical Issue,2.7,3.8,True,False
+2024-09-22,Chat,EMEA,Billing,4.6,4.4,False,False
+2025-02-26,Self-Service,APAC,Feature Request,0.5,3.5,False,False
+2024-08-27,Email,LATAM,Technical Issue,23.0,5.0,True,False
+2025-11-06,Self-Service,North America,Account Access,0.5,4.1,True,False
+2024-06-12,Self-Service,LATAM,Technical Issue,0.2,3.3,False,False
+2025-10-09,Chat,EMEA,Account Access,4.7,3.7,True,False
+2025-02-23,Email,EMEA,Account Access,12.9,3.2,True,False
+2024-08-23,Email,EMEA,General Inquiry,25.2,2.6,True,False
+2024-11-18,Phone,LATAM,General Inquiry,2.3,4.0,True,False
+2024-06-10,Chat,EMEA,General Inquiry,5.7,3.7,False,False
+2024-05-29,Email,North America,Account Access,16.8,3.2,False,False
+2024-06-25,Chat,EMEA,Technical Issue,3.4,5.0,True,False
+2025-02-18,Chat,North America,Billing,5.4,4.5,False,False
+2025-02-22,Chat,LATAM,Technical Issue,4.3,4.6,False,True
+2024-01-07,Self-Service,LATAM,Technical Issue,0.6,3.7,False,False
+2024-08-18,Email,LATAM,Account Access,28.3,4.0,True,False
+2025-02-08,Email,North America,Technical Issue,22.5,4.4,True,False
+2024-12-05,Email,EMEA,Billing,21.0,4.5,False,False
+2025-09-10,Email,LATAM,Account Access,13.5,4.1,True,False
+2024-07-31,Phone,LATAM,General Inquiry,2.4,5.0,False,True
+2025-03-17,Self-Service,North America,General Inquiry,0.7,3.8,False,False
+2024-04-03,Self-Service,North America,Billing,0.8,4.1,False,False
+2024-02-29,Email,EMEA,Technical Issue,25.2,4.0,True,False
+2025-09-24,Chat,LATAM,Account Access,2.9,3.7,True,False
+2024-12-31,Self-Service,LATAM,General Inquiry,0.3,4.4,False,False
+2025-01-23,Email,APAC,Billing,21.3,4.4,True,False
+2025-11-26,Chat,North America,Billing,1.0,4.1,True,False
+2025-03-22,Chat,EMEA,Technical Issue,2.0,4.0,True,False
+2025-11-20,Chat,EMEA,Feature Request,4.5,3.7,True,False
+2024-04-08,Chat,LATAM,Feature Request,4.4,3.4,True,False
+2024-10-09,Phone,APAC,Technical Issue,2.2,4.7,True,False
+2024-06-21,Self-Service,LATAM,Technical Issue,0.4,4.3,True,False
+2024-09-09,Self-Service,LATAM,Technical Issue,0.5,3.0,True,False
+2024-09-11,Phone,North America,Feature Request,1.6,4.6,True,False
+2025-08-30,Phone,APAC,Feature Request,0.4,5.0,True,False
+2024-03-12,Email,LATAM,Technical Issue,24.5,4.2,False,False
+2025-08-16,Email,EMEA,Feature Request,21.1,4.0,True,False
+2025-07-28,Email,North America,Technical Issue,19.9,3.1,True,False
+2024-08-01,Chat,APAC,General Inquiry,3.1,4.5,True,False
+2024-11-20,Chat,EMEA,Feature Request,4.3,3.5,False,False
+2025-05-10,Chat,North America,General Inquiry,0.8,4.7,True,False
+2025-12-31,Phone,EMEA,Feature Request,0.5,5.0,True,False
+2025-03-01,Self-Service,LATAM,General Inquiry,0.5,4.2,True,False
+2024-06-02,Email,APAC,Billing,27.1,3.5,False,False
+2025-11-18,Email,APAC,General Inquiry,15.1,4.3,True,False
+2024-03-30,Chat,LATAM,General Inquiry,4.1,3.5,True,False
+2025-11-16,Self-Service,EMEA,Billing,0.8,3.7,False,False
+2024-09-12,Self-Service,EMEA,Account Access,0.2,4.1,False,False
+2025-03-27,Email,EMEA,Billing,21.9,3.6,False,False
+2024-09-28,Self-Service,EMEA,Billing,0.5,3.3,False,False
+2025-05-13,Phone,APAC,Billing,3.0,4.5,True,False
+2025-02-06,Self-Service,EMEA,Technical Issue,0.9,2.5,False,False
+2024-05-24,Email,LATAM,Account Access,8.2,3.2,False,True
+2025-11-27,Chat,LATAM,General Inquiry,5.6,5.0,True,False
+2024-11-12,Chat,North America,Billing,4.0,4.7,False,False
+2024-01-30,Chat,EMEA,Feature Request,2.3,5.0,True,False
+2025-02-23,Phone,EMEA,Billing,2.1,5.0,True,False
+2025-01-26,Self-Service,LATAM,Technical Issue,0.3,3.5,False,False
+2025-11-11,Email,EMEA,General Inquiry,16.1,4.0,False,False
+2025-03-10,Chat,EMEA,Billing,4.6,4.3,True,False
+2025-05-16,Email,APAC,Technical Issue,21.8,2.8,False,False
+2025-02-07,Email,North America,Feature Request,15.4,4.2,True,False
+2025-03-02,Phone,North America,Account Access,2.6,4.8,True,False
+2025-11-25,Email,North America,Feature Request,22.8,2.7,False,False
+2024-07-06,Chat,EMEA,Feature Request,4.6,3.6,True,True
+2024-03-31,Phone,APAC,General Inquiry,1.6,4.5,True,False
+2024-06-24,Self-Service,LATAM,General Inquiry,0.5,3.6,False,False
+2024-10-19,Phone,North America,General Inquiry,0.9,3.6,True,False
+2025-05-25,Self-Service,APAC,Account Access,0.4,4.4,False,False
+2025-06-29,Self-Service,EMEA,General Inquiry,0.3,5.0,False,False
+2025-11-06,Phone,APAC,Account Access,1.5,3.7,True,False
+2025-01-12,Chat,LATAM,Technical Issue,5.5,4.3,True,False
+2025-01-14,Chat,North America,Billing,1.1,3.9,True,False
+2025-12-30,Chat,APAC,Feature Request,4.4,3.2,True,False
+2025-04-01,Chat,EMEA,Feature Request,3.9,4.6,False,False
+2024-02-13,Email,North America,General Inquiry,11.6,3.3,False,False
+2025-08-06,Email,LATAM,Billing,21.1,3.9,True,False
+2024-09-24,Phone,LATAM,Technical Issue,3.0,3.9,True,False
+2025-02-20,Chat,APAC,Feature Request,3.7,3.3,False,False
+2024-06-07,Chat,North America,Account Access,0.1,4.5,True,False
+2024-06-17,Self-Service,EMEA,Account Access,0.4,3.1,False,False
+2024-05-30,Self-Service,APAC,Account Access,0.8,4.4,False,False
+2024-08-04,Phone,North America,Technical Issue,0.7,4.8,True,False
+2024-06-13,Chat,North America,Account Access,6.4,3.4,False,False
+2024-08-09,Email,APAC,Feature Request,26.1,3.6,False,False
+2025-01-09,Chat,LATAM,Billing,4.1,4.4,False,False
+2025-01-07,Self-Service,LATAM,Technical Issue,0.3,4.8,True,False
+2024-12-25,Email,LATAM,Technical Issue,17.6,3.2,False,False
+2025-02-22,Chat,North America,Technical Issue,5.7,4.5,False,False
+2025-12-05,Chat,EMEA,Technical Issue,2.5,4.4,True,False
+2024-02-28,Email,EMEA,Account Access,9.3,4.5,True,False
+2025-01-23,Email,North America,Billing,20.1,3.6,False,False
+2025-10-24,Email,North America,General Inquiry,20.1,2.5,True,False
+2025-07-20,Chat,North America,Technical Issue,3.5,3.8,True,False
+2024-01-09,Phone,North America,Feature Request,1.1,4.9,False,False
+2025-09-12,Self-Service,LATAM,Technical Issue,0.3,4.3,True,False
+2024-04-27,Self-Service,North America,Feature Request,0.8,3.5,False,False
+2024-06-27,Phone,North America,Account Access,4.0,4.8,True,False
+2025-03-21,Email,LATAM,Account Access,9.2,4.2,True,False
+2024-02-12,Chat,North America,Technical Issue,2.4,3.4,False,False
+2024-04-11,Phone,EMEA,Technical Issue,3.0,5.0,False,False
+2025-03-20,Chat,EMEA,General Inquiry,3.8,3.3,True,False
+2024-03-26,Chat,EMEA,General Inquiry,3.1,4.3,True,False
+2025-07-02,Email,LATAM,Technical Issue,10.7,5.0,False,False
+2025-07-13,Phone,LATAM,Billing,2.4,3.7,True,False
+2024-02-10,Email,EMEA,Technical Issue,14.7,4.1,True,False
+2025-10-19,Self-Service,EMEA,Feature Request,0.7,3.8,False,False
+2025-08-07,Self-Service,LATAM,Technical Issue,0.4,4.9,False,False
+2025-07-19,Chat,EMEA,Technical Issue,3.5,4.0,True,False
+2024-09-13,Self-Service,EMEA,Feature Request,0.6,4.6,False,False
+2025-02-18,Email,LATAM,Billing,17.0,3.8,False,False
+2025-07-09,Chat,North America,Billing,5.7,4.4,False,False
+2025-03-04,Email,APAC,Technical Issue,18.1,3.6,False,False
+2025-10-07,Phone,LATAM,Feature Request,2.4,3.8,True,False
+2024-08-06,Chat,EMEA,Billing,6.2,4.4,True,False
+2025-02-02,Self-Service,North America,Feature Request,0.8,3.8,True,False
+2025-10-28,Chat,EMEA,Billing,3.4,4.8,True,False
+2024-03-31,Email,APAC,Feature Request,22.7,3.2,False,False
+2024-07-15,Email,LATAM,General Inquiry,32.4,3.6,True,False
+2024-05-13,Self-Service,EMEA,Billing,0.6,4.2,True,True
+2024-11-03,Email,LATAM,Feature Request,4.8,4.5,True,False
+2024-06-21,Phone,EMEA,Technical Issue,2.2,4.1,True,False
+2024-04-14,Email,EMEA,Billing,11.0,4.3,False,False
+2024-06-25,Email,LATAM,General Inquiry,5.6,4.0,False,False
+2024-08-13,Self-Service,EMEA,Billing,0.6,4.6,False,False
+2025-11-10,Chat,LATAM,General Inquiry,7.6,5.0,True,False
+2024-09-23,Chat,EMEA,General Inquiry,3.8,5.0,True,False
+2025-08-23,Email,North America,Technical Issue,15.8,4.0,False,False
+2025-03-01,Chat,LATAM,General Inquiry,5.0,3.9,False,False
+2024-09-05,Chat,North America,Billing,1.8,4.5,True,False
+2025-03-06,Self-Service,APAC,General Inquiry,0.7,3.8,False,False
+2024-07-20,Phone,EMEA,Feature Request,3.3,5.0,True,False
+2024-10-13,Email,EMEA,Billing,20.0,3.4,False,False
+2024-12-03,Self-Service,EMEA,Feature Request,0.7,4.6,True,False
+2025-05-31,Email,EMEA,Technical Issue,9.7,3.7,False,False
+2025-04-16,Self-Service,APAC,Billing,0.6,4.1,False,False
+2024-08-01,Chat,EMEA,General Inquiry,5.7,4.5,True,False
+2024-02-03,Self-Service,APAC,Billing,0.7,3.3,False,False
+2024-02-18,Email,EMEA,Technical Issue,32.1,2.9,False,False
+2024-02-08,Phone,APAC,General Inquiry,1.2,5.0,True,False
+2025-08-14,Self-Service,LATAM,General Inquiry,0.7,2.3,True,False
+2024-12-24,Email,North America,Feature Request,24.2,4.3,False,False
+2024-03-09,Phone,LATAM,Feature Request,1.6,4.6,False,False
+2025-12-24,Self-Service,North America,Feature Request,0.7,5.0,False,False
+2024-06-26,Self-Service,North America,Billing,0.4,3.6,False,False
+2025-08-18,Chat,EMEA,General Inquiry,3.6,4.1,True,False
+2024-02-03,Self-Service,EMEA,Technical Issue,0.3,3.3,False,False
+2025-03-28,Phone,LATAM,Billing,0.1,3.3,True,False
+2025-12-26,Phone,North America,General Inquiry,2.7,5.0,True,False
+2025-08-25,Chat,EMEA,General Inquiry,6.1,4.4,True,False
+2025-11-29,Self-Service,APAC,Technical Issue,0.4,4.4,False,True
+2024-03-26,Self-Service,APAC,General Inquiry,0.2,4.0,False,False
+2024-07-22,Chat,APAC,Billing,3.0,4.3,False,False
+2025-05-16,Phone,APAC,General Inquiry,1.0,4.3,True,False
+2024-03-21,Email,North America,Feature Request,23.0,4.5,True,False
+2024-08-06,Chat,EMEA,Technical Issue,4.1,4.8,True,False
+2025-12-03,Phone,North America,General Inquiry,0.6,4.5,False,False
+2024-01-19,Phone,North America,General Inquiry,2.5,3.5,True,False
+2024-11-03,Chat,EMEA,Technical Issue,4.6,4.4,False,False
+2024-09-19,Self-Service,LATAM,General Inquiry,0.1,4.1,True,False
+2025-01-27,Phone,North America,General Inquiry,2.1,4.3,True,False
+2025-10-24,Self-Service,North America,Feature Request,0.4,4.4,False,False
+2025-08-17,Phone,North America,Feature Request,2.8,4.3,True,False
+2024-08-26,Chat,EMEA,Feature Request,6.9,3.9,False,False
+2025-08-09,Email,LATAM,General Inquiry,23.5,3.3,True,False
+2025-12-03,Chat,North America,Billing,5.6,4.3,False,False
+2025-09-16,Chat,North America,Account Access,2.9,4.5,True,False
+2025-07-15,Email,APAC,Technical Issue,20.9,5.0,True,False
+2024-08-25,Email,APAC,Billing,22.1,2.6,True,True
+2024-11-09,Phone,North America,Account Access,2.9,4.5,True,False
+2025-02-22,Chat,LATAM,Feature Request,5.6,5.0,False,False
+2025-07-22,Chat,APAC,Billing,4.0,2.9,True,True
+2025-12-10,Chat,North America,General Inquiry,3.1,2.9,True,False
+2025-04-15,Email,APAC,Billing,14.2,3.5,True,False
+2024-04-17,Self-Service,EMEA,Technical Issue,0.5,4.9,False,False
+2025-03-20,Chat,North America,General Inquiry,5.1,3.3,False,False
+2024-09-14,Chat,North America,Technical Issue,3.7,4.2,False,False
+2024-01-14,Chat,EMEA,Billing,2.5,3.0,True,False
+2024-11-08,Self-Service,North America,General Inquiry,0.6,2.9,True,False
+2024-04-30,Phone,North America,Technical Issue,2.9,3.6,True,False
+2025-10-05,Chat,LATAM,General Inquiry,4.8,3.8,True,False
+2024-05-04,Self-Service,EMEA,Billing,0.2,5.0,False,False
+2025-04-28,Chat,APAC,Technical Issue,4.8,4.8,True,False
+2024-07-13,Email,EMEA,Feature Request,16.8,4.6,True,False
+2024-10-11,Self-Service,LATAM,Feature Request,0.7,4.2,True,False
+2025-01-23,Phone,LATAM,Technical Issue,3.3,3.6,True,False
+2024-07-07,Chat,North America,General Inquiry,3.9,3.3,False,False
+2025-02-01,Email,APAC,Billing,20.8,4.0,True,False
+2025-10-12,Email,North America,General Inquiry,26.1,4.4,False,False
+2024-10-17,Email,North America,Feature Request,25.4,2.8,False,False
+2024-04-22,Self-Service,LATAM,Feature Request,0.4,3.2,True,False
+2025-01-07,Self-Service,North America,Billing,0.5,3.2,False,False
+2025-11-06,Phone,EMEA,Account Access,2.3,4.7,True,False
+2024-06-14,Email,APAC,Billing,7.1,4.4,True,False
+2025-08-15,Phone,APAC,General Inquiry,3.0,3.6,True,False
+2025-01-23,Chat,EMEA,Technical Issue,5.1,4.0,False,False
+2024-01-30,Chat,EMEA,Technical Issue,2.8,4.3,True,False
+2024-12-05,Chat,North America,Account Access,3.8,5.0,False,True
+2025-07-20,Phone,LATAM,Account Access,2.4,5.0,True,False
+2024-01-02,Chat,LATAM,Feature Request,6.3,3.4,True,False
+2024-10-18,Chat,APAC,Account Access,3.2,4.0,True,False
+2025-05-27,Email,EMEA,Billing,11.7,3.7,False,True
+2025-10-17,Chat,EMEA,Billing,4.3,4.4,False,False
+2025-09-24,Chat,LATAM,Account Access,1.7,5.0,True,False
+2025-04-02,Phone,APAC,General Inquiry,1.3,3.9,True,False
+2025-07-26,Phone,APAC,Billing,3.1,5.0,True,False
+2025-11-05,Chat,North America,Technical Issue,1.8,2.9,True,False
+2024-06-01,Chat,North America,Feature Request,5.1,4.3,False,False
+2024-10-04,Chat,APAC,Technical Issue,3.2,4.2,False,False
+2024-06-05,Chat,LATAM,Account Access,3.2,2.9,False,False
+2024-10-07,Email,LATAM,Technical Issue,13.2,4.2,False,False
+2024-06-10,Email,LATAM,Technical Issue,15.4,4.7,True,False
+2024-01-07,Chat,APAC,General Inquiry,2.9,4.0,True,False
+2024-09-27,Chat,LATAM,Account Access,4.3,4.2,False,False
+2024-02-03,Chat,EMEA,Feature Request,1.2,4.4,False,False
+2024-03-02,Chat,APAC,Billing,4.7,3.8,False,False
+2024-10-08,Email,LATAM,Technical Issue,8.1,3.1,False,False
+2025-09-16,Phone,APAC,General Inquiry,1.8,3.6,False,False
+2025-06-12,Chat,LATAM,Technical Issue,2.8,4.1,False,False
+2024-10-13,Phone,APAC,Feature Request,1.5,4.6,True,False
+2024-09-18,Chat,LATAM,Billing,1.8,4.4,True,False
+2024-06-15,Self-Service,APAC,Feature Request,0.3,3.6,False,False
+2025-01-14,Self-Service,LATAM,Technical Issue,0.6,4.4,True,False
+2025-01-02,Self-Service,North America,General Inquiry,0.6,4.5,True,False
+2025-04-17,Email,APAC,Account Access,17.4,3.0,False,False
+2024-06-25,Email,North America,Technical Issue,20.4,3.3,False,False
+2025-06-27,Chat,North America,Billing,8.4,3.9,True,False
+2024-06-14,Chat,North America,General Inquiry,3.9,4.8,True,False
+2025-02-27,Email,North America,Feature Request,26.6,5.0,True,False
+2024-04-22,Chat,APAC,Technical Issue,2.2,3.7,True,False
+2024-07-11,Email,LATAM,Account Access,18.2,3.5,False,False
+2024-12-23,Self-Service,APAC,Feature Request,0.5,3.7,True,False
+2025-07-15,Chat,LATAM,Billing,1.1,4.0,True,False
+2025-04-17,Chat,LATAM,Technical Issue,3.1,5.0,False,False
+2024-01-31,Chat,APAC,Account Access,5.3,4.2,True,False
+2024-02-23,Chat,North America,Billing,4.6,4.6,False,False
+2024-06-13,Chat,LATAM,General Inquiry,4.6,4.7,False,False
+2024-04-26,Chat,APAC,Technical Issue,3.2,3.7,True,False
+2025-08-09,Chat,EMEA,Technical Issue,7.1,3.8,False,False
+2024-07-15,Email,LATAM,Account Access,14.5,3.9,False,False
+2024-09-06,Email,LATAM,General Inquiry,21.4,4.7,True,False
+2024-07-10,Email,EMEA,Feature Request,21.5,4.5,True,False
+2024-08-03,Chat,EMEA,Technical Issue,5.0,5.0,False,False
+2025-08-16,Chat,LATAM,Account Access,5.1,4.9,True,False
+2024-12-15,Self-Service,LATAM,Technical Issue,0.3,4.2,True,False
+2025-12-31,Chat,North America,General Inquiry,1.9,5.0,True,True
+2024-12-18,Chat,North America,Billing,3.1,5.0,True,False
+2025-06-26,Chat,EMEA,General Inquiry,5.6,4.1,False,False
+2025-01-02,Email,EMEA,Feature Request,28.0,3.4,False,False
+2025-02-21,Email,EMEA,Billing,11.2,4.0,True,False
+2025-10-24,Chat,EMEA,Account Access,5.6,4.4,True,False
+2024-08-15,Self-Service,LATAM,Technical Issue,0.2,3.7,False,False
+2024-05-11,Phone,APAC,General Inquiry,1.8,4.2,True,False
+2024-10-31,Chat,APAC,Account Access,1.1,3.9,True,False
+2025-06-21,Chat,APAC,Account Access,4.5,3.6,False,False
+2024-09-17,Chat,LATAM,Technical Issue,4.4,3.5,False,False
+2025-05-19,Phone,APAC,Technical Issue,2.5,3.9,False,False
+2025-05-17,Chat,EMEA,Technical Issue,4.6,4.3,False,False
+2024-05-31,Chat,APAC,Feature Request,5.3,4.6,True,False
+2024-12-16,Self-Service,APAC,Feature Request,0.4,3.1,True,False
+2024-11-15,Phone,North America,Feature Request,1.8,4.2,False,False
+2025-01-17,Chat,EMEA,Feature Request,1.9,4.1,False,False
+2024-12-07,Phone,EMEA,Billing,4.1,4.5,True,False
+2024-10-28,Chat,EMEA,General Inquiry,3.6,5.0,True,False
+2025-03-15,Chat,North America,Account Access,2.9,5.0,True,False
+2024-11-14,Self-Service,APAC,Technical Issue,0.1,3.7,True,False
+2024-12-25,Self-Service,LATAM,Account Access,0.5,3.7,False,False
+2025-09-01,Chat,LATAM,Technical Issue,6.9,3.8,False,False
+2025-10-25,Phone,APAC,Feature Request,1.9,4.9,False,False
+2025-07-10,Phone,North America,Account Access,1.7,5.0,True,False
+2024-03-09,Email,EMEA,Technical Issue,10.9,4.5,True,False
+2024-11-16,Email,North America,Account Access,13.3,3.8,True,False
+2025-07-19,Chat,EMEA,Feature Request,2.8,3.8,True,False
+2024-05-10,Chat,APAC,Account Access,4.9,3.9,False,False
+2024-03-17,Chat,EMEA,Technical Issue,3.3,4.1,False,False
+2024-07-07,Chat,EMEA,Feature Request,5.0,5.0,True,False
+2024-01-11,Phone,EMEA,Feature Request,1.8,4.5,True,False
+2025-05-07,Chat,North America,Feature Request,2.0,4.2,True,False
+2024-11-09,Phone,LATAM,Technical Issue,2.1,4.6,True,False
+2025-09-09,Self-Service,LATAM,Billing,0.3,2.3,False,False
+2024-02-07,Self-Service,EMEA,Technical Issue,0.4,4.9,True,False
+2024-11-05,Email,APAC,Technical Issue,19.2,4.1,True,False
+2025-01-15,Phone,APAC,Billing,1.0,3.2,True,False
+2025-09-21,Self-Service,APAC,Billing,0.5,4.2,False,False
+2025-08-11,Email,North America,General Inquiry,14.1,3.9,False,False
+2024-08-30,Chat,APAC,Account Access,3.4,4.8,True,False
+2025-02-27,Phone,LATAM,Billing,3.3,4.7,False,False
+2024-01-07,Chat,APAC,Billing,6.4,3.9,True,False
+2025-01-16,Email,EMEA,Account Access,7.5,3.7,True,False
+2025-11-28,Chat,EMEA,Feature Request,6.8,3.7,False,False
+2024-08-01,Phone,APAC,Billing,1.4,4.9,False,False
+2024-01-02,Email,APAC,Account Access,20.5,2.8,True,False
+2025-08-26,Self-Service,LATAM,Feature Request,0.5,3.9,False,False
+2024-03-30,Chat,EMEA,Technical Issue,4.1,3.2,True,False
+2025-05-04,Chat,North America,Account Access,4.6,3.2,True,False
+2024-07-14,Email,EMEA,General Inquiry,21.4,4.0,False,False
+2025-12-18,Phone,LATAM,Account Access,2.7,3.8,True,False
+2024-10-23,Phone,APAC,Account Access,1.5,4.2,True,False
+2025-03-02,Email,APAC,Billing,15.4,3.3,False,False
+2024-02-01,Email,APAC,General Inquiry,17.4,2.3,False,False
+2025-01-07,Self-Service,APAC,Account Access,0.4,2.8,False,False
+2025-12-19,Chat,LATAM,Billing,3.6,4.6,False,False
+2024-08-14,Chat,North America,Billing,3.6,3.2,False,False
+2025-02-11,Email,North America,Billing,6.3,3.2,True,False
+2025-03-05,Self-Service,APAC,Feature Request,0.1,4.4,False,False
+2024-04-25,Email,LATAM,General Inquiry,24.7,3.0,False,False
+2024-05-06,Chat,North America,Feature Request,5.7,4.6,False,False
+2025-12-02,Chat,EMEA,General Inquiry,4.6,5.0,True,False
+2024-12-06,Chat,APAC,Technical Issue,4.2,4.2,True,False
+2024-04-27,Email,LATAM,Account Access,29.9,3.6,False,False
+2024-10-29,Chat,APAC,Billing,5.4,5.0,False,False
+2025-09-20,Phone,North America,General Inquiry,1.1,4.1,True,False
+2024-10-14,Email,EMEA,General Inquiry,12.2,3.7,True,False
+2024-12-03,Email,EMEA,Account Access,26.3,3.2,False,False
+2025-07-08,Chat,EMEA,General Inquiry,4.2,3.4,False,False
+2025-10-22,Email,EMEA,Account Access,15.2,3.6,True,False
+2025-07-15,Chat,LATAM,Account Access,2.7,3.0,True,True
+2024-09-29,Email,EMEA,Billing,12.3,3.6,False,False
+2025-08-11,Email,EMEA,Account Access,31.1,3.0,True,False
+2024-12-22,Phone,APAC,Account Access,1.3,3.8,False,False
+2025-02-10,Email,APAC,General Inquiry,7.3,3.5,True,False
+2025-04-23,Phone,LATAM,Account Access,1.0,4.6,True,False
+2025-06-23,Self-Service,APAC,Account Access,0.8,4.0,False,False
+2025-05-05,Self-Service,North America,Technical Issue,0.1,3.8,True,False
+2025-12-04,Email,North America,Billing,21.1,4.6,True,False
+2024-02-11,Chat,North America,Billing,2.8,4.2,True,False
+2025-11-10,Phone,LATAM,Billing,1.2,4.2,True,False
+2025-12-11,Phone,North America,Account Access,3.6,4.8,True,False
+2025-08-23,Email,North America,Feature Request,21.0,4.5,False,False
+2024-12-05,Chat,LATAM,Technical Issue,5.3,3.9,False,False
+2024-02-14,Chat,LATAM,General Inquiry,3.5,4.3,True,False
+2024-08-05,Email,APAC,Account Access,23.0,4.7,True,False
+2024-03-20,Chat,EMEA,Account Access,5.4,5.0,False,False
+2024-08-02,Email,North America,Feature Request,19.8,3.6,False,False
+2024-03-11,Email,APAC,Billing,20.7,5.0,False,False
+2024-06-20,Chat,APAC,Billing,2.1,3.4,True,True
+2024-01-02,Phone,LATAM,Account Access,2.5,5.0,False,False
+2025-10-05,Email,North America,Feature Request,24.7,4.4,False,False
+2025-03-08,Chat,APAC,Account Access,4.3,4.6,False,False
+2024-10-24,Chat,LATAM,Technical Issue,8.9,4.1,False,False
+2025-02-26,Chat,LATAM,Technical Issue,3.6,4.3,False,False
+2025-03-20,Self-Service,EMEA,Technical Issue,0.1,3.5,False,False
+2024-11-18,Chat,North America,Account Access,4.7,5.0,False,False
+2024-03-18,Email,EMEA,Billing,15.3,5.0,False,False
+2025-05-28,Self-Service,LATAM,Account Access,1.0,4.7,True,False
+2025-11-23,Self-Service,APAC,Technical Issue,0.2,3.4,False,False
+2025-03-19,Chat,LATAM,Account Access,2.5,3.6,True,False
+2025-04-16,Chat,EMEA,Feature Request,2.4,4.6,False,False
+2024-06-06,Chat,North America,Account Access,4.1,4.9,False,False
+2024-04-11,Self-Service,North America,General Inquiry,0.6,3.0,False,True
+2024-07-18,Phone,LATAM,Billing,3.3,4.9,True,False
+2024-11-07,Email,APAC,Technical Issue,21.2,3.3,True,False
+2025-02-05,Phone,EMEA,Billing,1.5,5.0,False,False
+2024-12-30,Phone,APAC,Billing,1.9,3.7,True,False
+2024-10-09,Self-Service,North America,Technical Issue,0.6,4.4,True,False
+2025-10-10,Phone,APAC,Account Access,1.1,5.0,True,False
+2024-09-25,Self-Service,APAC,Account Access,0.5,4.3,False,False
+2025-06-18,Chat,EMEA,Feature Request,8.4,5.0,True,False
+2025-02-19,Email,APAC,General Inquiry,9.4,2.9,True,False
+2024-11-25,Self-Service,North America,Billing,0.3,2.7,True,False
+2025-08-21,Phone,APAC,Feature Request,0.9,4.9,True,False
+2025-04-10,Phone,APAC,Feature Request,0.8,4.3,False,False
+2025-04-21,Self-Service,APAC,Billing,0.9,4.0,False,False
+2025-11-18,Self-Service,EMEA,Account Access,0.6,3.9,True,True
+2025-12-16,Email,EMEA,Billing,11.5,3.4,True,True
+2024-06-30,Chat,EMEA,Technical Issue,5.6,4.8,False,False
+2025-03-20,Chat,APAC,Account Access,4.3,3.5,True,False
+2025-12-23,Self-Service,EMEA,General Inquiry,0.5,3.4,True,False
+2024-06-24,Email,LATAM,Feature Request,17.7,4.5,False,False
+2024-04-14,Email,EMEA,Feature Request,17.3,5.0,False,False
+2025-12-19,Chat,APAC,Billing,4.1,5.0,True,False
+2024-08-13,Chat,North America,General Inquiry,5.3,3.4,True,False
+2025-06-24,Email,APAC,General Inquiry,13.2,3.4,False,False
+2024-07-13,Chat,APAC,Technical Issue,3.8,3.7,True,False
+2024-02-09,Email,North America,Feature Request,20.5,4.3,True,False
+2024-05-12,Self-Service,North America,Technical Issue,0.8,4.0,False,False
+2025-11-05,Email,LATAM,Billing,9.4,4.1,False,False
+2024-01-02,Phone,EMEA,General Inquiry,2.2,4.6,True,False
+2025-09-21,Self-Service,EMEA,Account Access,0.5,3.9,True,False
+2024-05-02,Email,EMEA,Account Access,12.7,3.9,True,False
+2025-11-27,Chat,EMEA,Technical Issue,2.5,4.2,True,False
+2025-05-30,Phone,North America,Account Access,1.9,4.2,True,False
+2024-07-09,Email,EMEA,Account Access,28.0,4.3,True,False
+2024-07-19,Phone,LATAM,Feature Request,2.2,2.9,False,False
+2024-10-26,Self-Service,EMEA,Feature Request,0.6,5.0,True,False
+2025-06-08,Email,North America,Billing,20.3,3.3,True,False
+2025-05-27,Phone,EMEA,Technical Issue,2.7,5.0,True,False
+2025-06-17,Chat,North America,Feature Request,4.1,3.3,False,False
+2025-10-19,Email,APAC,Account Access,5.4,3.8,False,False
+2024-02-18,Chat,APAC,Billing,5.3,3.2,False,False
+2024-01-23,Chat,EMEA,Account Access,2.5,4.3,False,False
+2024-06-23,Email,EMEA,Technical Issue,22.7,3.5,False,False
+2025-04-10,Email,APAC,Technical Issue,15.7,3.7,True,False
+2025-12-20,Phone,North America,Account Access,2.3,4.6,False,False
+2024-11-14,Email,APAC,Technical Issue,14.1,3.2,False,False
+2024-04-26,Chat,APAC,Technical Issue,0.9,3.5,True,False
+2025-07-22,Email,APAC,Technical Issue,26.7,3.4,True,False
+2025-03-17,Chat,APAC,Feature Request,4.5,3.3,True,False
+2024-06-11,Email,EMEA,General Inquiry,20.8,3.6,True,False
+2025-10-16,Phone,EMEA,Technical Issue,1.5,4.1,True,False
+2025-04-08,Self-Service,North America,Technical Issue,0.6,3.6,True,False
+2025-10-15,Phone,EMEA,Technical Issue,2.5,3.8,True,True
+2025-09-25,Phone,APAC,Billing,2.6,3.5,True,False
+2024-11-04,Self-Service,North America,Feature Request,0.7,2.5,False,False
+2025-09-22,Chat,EMEA,Account Access,3.2,3.7,False,False
+2025-12-25,Email,APAC,General Inquiry,19.4,4.9,True,False
+2025-10-30,Chat,APAC,Feature Request,4.1,3.9,False,False
+2024-07-01,Chat,North America,Technical Issue,2.1,3.7,True,False
+2025-10-24,Email,LATAM,General Inquiry,19.6,4.5,False,False
+2025-07-03,Phone,APAC,Account Access,2.4,4.5,True,False
+2024-03-20,Phone,EMEA,General Inquiry,2.4,3.8,True,True
+2024-05-09,Phone,EMEA,Feature Request,2.4,4.9,False,False
+2025-09-05,Phone,LATAM,Technical Issue,2.1,5.0,True,False
+2025-09-19,Chat,North America,Account Access,5.2,3.9,False,False
+2025-11-09,Chat,APAC,Billing,5.4,4.1,False,False
+2024-10-31,Chat,North America,Billing,3.4,3.4,True,False
+2024-04-04,Email,LATAM,Technical Issue,8.1,4.6,True,False
+2024-08-24,Email,EMEA,General Inquiry,22.2,2.6,True,False
+2024-11-26,Chat,APAC,Technical Issue,4.9,4.6,False,False
+2024-11-16,Phone,North America,Feature Request,2.8,4.0,True,False
+2024-02-04,Email,North America,Feature Request,17.3,3.3,False,False
+2024-09-05,Self-Service,EMEA,Account Access,0.8,4.2,True,False
+2025-05-21,Self-Service,LATAM,Feature Request,0.6,3.3,True,False
+2024-05-01,Email,LATAM,Technical Issue,6.0,4.0,True,False
+2024-05-11,Self-Service,North America,General Inquiry,0.3,3.3,False,False
+2024-03-17,Chat,EMEA,Feature Request,5.6,5.0,True,True
+2025-01-13,Email,EMEA,Feature Request,14.7,3.0,True,False
+2024-09-27,Phone,LATAM,Technical Issue,1.4,5.0,True,False
+2025-06-21,Chat,APAC,Account Access,6.0,3.4,True,False
+2025-11-23,Self-Service,North America,Billing,0.5,5.0,True,False
+2025-10-23,Phone,APAC,Account Access,2.4,4.9,True,False
+2024-05-22,Email,EMEA,General Inquiry,9.9,3.1,False,False
+2025-01-05,Self-Service,EMEA,Account Access,0.6,3.8,True,False
+2025-07-08,Self-Service,North America,Technical Issue,0.8,4.9,True,False
+2025-03-10,Self-Service,APAC,Feature Request,0.2,5.0,True,True
+2025-06-22,Email,North America,Feature Request,18.3,3.8,True,False
+2025-12-05,Chat,EMEA,Feature Request,4.2,5.0,True,False
+2025-08-13,Self-Service,LATAM,General Inquiry,0.6,3.7,True,False
+2024-06-17,Self-Service,APAC,Account Access,0.5,4.9,False,False
+2024-09-29,Self-Service,North America,Technical Issue,0.2,4.2,False,False
+2025-01-15,Email,APAC,Billing,21.1,5.0,True,False
+2024-12-23,Phone,LATAM,Account Access,1.1,3.0,True,False
+2024-10-12,Chat,APAC,General Inquiry,4.3,4.3,False,False
+2024-08-13,Chat,EMEA,Account Access,5.4,4.2,False,False
+2024-07-02,Chat,APAC,Billing,7.6,4.5,False,True
+2024-09-12,Chat,LATAM,Account Access,7.1,3.5,False,False
+2024-11-11,Self-Service,LATAM,Technical Issue,0.8,3.7,False,False
+2025-11-28,Email,EMEA,Feature Request,38.3,4.4,True,False
+2024-12-21,Chat,APAC,Feature Request,5.4,4.5,True,False
+2025-11-16,Chat,EMEA,General Inquiry,4.6,4.4,True,False
+2024-08-26,Chat,North America,Feature Request,4.7,4.6,False,False
+2025-12-20,Phone,North America,Feature Request,2.4,4.3,False,False
+2024-03-04,Chat,North America,Billing,6.3,4.3,False,False
+2024-08-03,Phone,EMEA,Feature Request,2.6,4.0,True,False
+2025-04-22,Email,EMEA,Technical Issue,19.1,4.9,True,False
+2025-06-14,Phone,APAC,Technical Issue,2.3,4.1,True,False
+2025-09-21,Self-Service,APAC,Account Access,0.4,3.8,True,False
+2025-02-27,Email,APAC,Account Access,17.9,3.6,False,False
+2024-09-01,Email,APAC,General Inquiry,14.0,3.3,False,False
+2024-09-14,Email,North America,Account Access,24.1,2.5,True,False
+2024-03-10,Email,EMEA,Billing,8.9,4.3,False,False
+2024-04-20,Phone,LATAM,Billing,1.1,5.0,True,False
+2024-10-15,Email,North America,Billing,15.1,3.7,True,False
+2025-09-21,Chat,North America,Billing,3.2,4.2,False,False
+2025-09-10,Email,APAC,Technical Issue,22.7,3.5,True,False
+2025-11-25,Self-Service,EMEA,Technical Issue,0.4,5.0,False,False
+2024-05-12,Phone,North America,Feature Request,2.3,4.9,True,False
+2024-07-19,Email,EMEA,Account Access,11.6,3.2,True,False
+2024-03-12,Chat,North America,General Inquiry,6.2,4.1,False,False
+2025-09-10,Self-Service,LATAM,Account Access,0.6,4.8,True,False
+2024-09-17,Email,EMEA,Account Access,9.9,4.1,True,False
+2025-07-12,Email,LATAM,Feature Request,17.0,3.4,False,True
+2024-08-23,Chat,North America,Feature Request,5.0,3.4,True,False
+2024-04-04,Email,EMEA,Billing,12.9,3.7,False,False
+2024-09-13,Self-Service,LATAM,Account Access,0.4,3.1,True,False
+2025-06-28,Chat,APAC,Feature Request,4.1,4.5,True,False
+2025-05-23,Chat,LATAM,Technical Issue,2.4,3.2,False,False
+2025-11-16,Phone,EMEA,General Inquiry,2.8,4.2,False,False
+2025-09-29,Email,LATAM,Billing,16.5,4.5,True,False
+2024-06-25,Chat,LATAM,Billing,2.2,4.0,True,False
+2025-12-20,Email,APAC,Technical Issue,19.3,2.7,False,False
+2024-03-04,Self-Service,North America,General Inquiry,0.6,3.1,True,False
+2024-10-29,Chat,APAC,General Inquiry,5.9,4.3,False,False
+2025-06-28,Chat,LATAM,Technical Issue,3.7,4.9,True,False
+2025-04-03,Chat,APAC,Feature Request,3.7,4.5,False,False
+2025-12-03,Phone,LATAM,Account Access,2.4,5.0,True,True
+2024-07-09,Phone,North America,Feature Request,1.8,3.6,True,False
+2025-10-15,Email,APAC,General Inquiry,17.2,3.7,True,False
+2024-01-24,Self-Service,North America,Feature Request,0.3,3.8,True,False
+2025-09-08,Self-Service,LATAM,General Inquiry,0.5,3.5,False,False
+2025-07-21,Self-Service,North America,Technical Issue,0.8,3.6,True,False
+2025-11-26,Chat,EMEA,General Inquiry,5.1,2.9,True,False
+2025-05-02,Self-Service,North America,Account Access,0.4,4.5,False,False
+2024-08-09,Email,North America,Account Access,33.9,4.4,False,False
+2024-11-21,Email,APAC,Billing,7.1,3.8,True,False
+2025-04-01,Self-Service,North America,Billing,0.3,3.7,False,False
+2025-10-06,Chat,LATAM,Technical Issue,2.3,3.5,True,False
+2024-04-27,Chat,APAC,Feature Request,3.6,4.9,True,False
+2025-03-02,Phone,LATAM,Technical Issue,1.8,3.1,True,False
+2024-08-09,Self-Service,LATAM,Technical Issue,0.3,4.1,False,False
+2024-07-28,Email,EMEA,General Inquiry,29.2,3.3,True,False
+2025-06-18,Chat,APAC,Account Access,3.3,5.0,True,False
+2025-05-22,Phone,EMEA,Technical Issue,1.7,3.9,False,False
+2025-07-11,Phone,EMEA,Technical Issue,2.1,4.1,True,False
+2025-03-20,Chat,APAC,Account Access,3.0,3.8,False,False
+2025-08-15,Self-Service,EMEA,Account Access,0.6,3.9,True,False
+2024-01-16,Phone,LATAM,Billing,1.4,4.8,False,False
+2025-03-19,Self-Service,EMEA,Feature Request,0.2,4.1,True,False
+2024-12-29,Email,North America,Feature Request,13.7,4.3,False,False
+2025-04-30,Email,LATAM,Billing,26.5,3.6,True,False
+2024-07-22,Email,North America,General Inquiry,3.9,3.9,True,False
+2025-12-26,Self-Service,LATAM,General Inquiry,0.3,4.5,False,False
+2024-04-29,Chat,LATAM,Billing,5.8,4.3,False,False
+2025-10-11,Self-Service,APAC,General Inquiry,0.2,4.5,False,False
+2024-12-16,Self-Service,APAC,Account Access,0.4,5.0,True,False
+2025-10-15,Chat,APAC,Technical Issue,4.0,3.9,True,False
+2025-07-06,Self-Service,North America,Account Access,0.8,3.2,True,False
+2025-08-08,Chat,APAC,General Inquiry,4.0,2.4,False,False
+2024-07-13,Self-Service,LATAM,Billing,0.3,2.9,True,False
+2024-10-14,Self-Service,EMEA,Account Access,0.5,3.1,True,False
+2024-02-03,Self-Service,EMEA,Billing,0.4,4.2,True,False
+2025-04-17,Chat,LATAM,General Inquiry,3.9,4.2,False,False
+2025-03-26,Email,EMEA,Feature Request,19.4,1.8,True,False
+2025-02-27,Chat,North America,General Inquiry,5.5,3.8,False,False
+2025-03-09,Email,EMEA,Billing,16.3,3.7,False,False
+2024-03-08,Chat,EMEA,Account Access,2.4,5.0,True,False
+2024-08-11,Self-Service,APAC,Billing,0.6,4.8,False,False
+2025-05-22,Chat,APAC,Feature Request,4.6,3.5,False,False
+2024-06-26,Chat,EMEA,General Inquiry,2.3,4.4,False,False
+2024-02-02,Phone,North America,Account Access,2.3,3.2,True,False
+2025-07-13,Email,North America,Feature Request,30.4,3.8,False,False
+2025-02-09,Self-Service,LATAM,Technical Issue,0.3,3.7,True,False
+2024-12-11,Email,North America,Feature Request,29.1,4.0,False,False
+2024-11-22,Chat,EMEA,Account Access,3.8,4.3,True,False
+2024-03-30,Chat,EMEA,Billing,3.9,3.8,True,False
+2024-09-12,Email,APAC,General Inquiry,17.6,3.7,True,False
+2025-12-24,Chat,APAC,Billing,5.5,4.3,True,False
+2025-08-27,Email,North America,Technical Issue,21.9,4.0,True,False
+2025-03-05,Email,North America,Billing,6.6,2.9,True,False
+2024-01-16,Chat,North America,Billing,7.4,4.0,False,False
+2025-03-01,Phone,EMEA,Technical Issue,1.6,4.9,True,False
+2024-09-20,Chat,North America,Feature Request,6.2,4.3,True,False
+2024-09-05,Email,EMEA,Billing,15.6,3.3,True,False
+2024-02-22,Email,EMEA,Account Access,12.7,5.0,False,False
+2025-06-07,Phone,EMEA,Account Access,1.4,3.6,False,False
+2024-04-12,Email,LATAM,Technical Issue,25.6,3.3,True,False
+2024-06-29,Phone,LATAM,Feature Request,2.6,4.9,True,False
+2024-07-21,Phone,APAC,Technical Issue,1.7,4.4,True,False
+2024-02-07,Self-Service,LATAM,Feature Request,0.2,4.3,False,False
+2025-12-10,Self-Service,LATAM,Billing,0.8,3.0,True,False
+2025-07-10,Email,APAC,General Inquiry,14.0,4.4,False,False
+2024-04-24,Chat,EMEA,Billing,3.1,3.0,False,False
+2025-02-08,Email,EMEA,Feature Request,9.3,3.6,True,False
+2024-10-17,Self-Service,APAC,General Inquiry,0.6,4.5,False,False
+2025-02-20,Email,EMEA,Technical Issue,11.2,3.6,False,False
+2024-08-08,Self-Service,APAC,Technical Issue,0.6,4.1,True,False
+2024-12-14,Email,APAC,General Inquiry,22.5,3.7,True,False
+2024-07-15,Self-Service,LATAM,Technical Issue,0.6,3.9,True,False
+2025-05-01,Email,North America,Feature Request,17.4,3.8,True,False
+2024-12-04,Chat,EMEA,General Inquiry,2.0,4.3,True,False
+2024-03-15,Email,LATAM,Account Access,12.6,4.8,True,True
+2025-12-25,Self-Service,EMEA,Feature Request,0.2,5.0,True,False
+2025-09-15,Chat,APAC,Billing,1.7,3.6,False,False
+2024-01-04,Email,LATAM,Feature Request,9.7,4.2,True,False
+2025-02-20,Chat,APAC,Account Access,2.0,4.0,True,False
+2024-04-09,Self-Service,North America,Technical Issue,0.6,3.5,False,False
+2025-05-18,Self-Service,EMEA,Technical Issue,0.6,4.3,True,False
+2025-04-08,Phone,EMEA,Account Access,1.3,3.1,False,False
+2024-03-14,Phone,EMEA,Feature Request,2.3,4.9,True,False
+2025-12-29,Email,North America,Account Access,20.2,4.7,False,False
+2025-12-19,Chat,LATAM,Account Access,4.1,5.0,True,False
+2024-12-20,Self-Service,EMEA,Account Access,0.5,5.0,False,False
+2025-05-15,Email,LATAM,General Inquiry,21.4,3.9,True,False
+2024-09-18,Email,EMEA,Technical Issue,11.4,4.2,True,False
+2024-09-28,Chat,LATAM,Billing,4.7,4.2,False,False
+2025-09-26,Chat,North America,Technical Issue,5.0,4.9,False,False
+2024-09-23,Chat,LATAM,Billing,6.2,5.0,True,False
+2025-11-13,Chat,APAC,Account Access,5.8,4.2,True,False
+2024-02-03,Email,North America,Feature Request,21.1,4.1,False,False
+2025-11-08,Self-Service,EMEA,Feature Request,0.4,4.7,False,False
+2024-01-18,Self-Service,EMEA,General Inquiry,0.2,5.0,False,False
+2024-04-16,Email,North America,Account Access,14.0,3.6,False,False
+2024-10-08,Email,APAC,Billing,17.0,3.5,True,False
+2025-09-01,Self-Service,LATAM,Technical Issue,0.3,3.0,True,True
+2024-02-18,Self-Service,EMEA,Account Access,0.6,4.5,False,False
+2024-03-14,Chat,North America,Technical Issue,2.8,4.0,True,False
+2024-02-18,Chat,North America,Feature Request,2.7,3.6,True,True
+2024-01-08,Email,APAC,Technical Issue,20.8,3.0,False,False
+2025-11-28,Chat,APAC,Account Access,2.2,4.9,True,False
+2025-07-10,Phone,North America,Feature Request,1.3,3.7,True,False
+2024-03-27,Phone,LATAM,Account Access,1.6,4.4,True,False
+2025-10-26,Self-Service,EMEA,Account Access,0.3,1.6,False,False
+2025-05-11,Self-Service,EMEA,Technical Issue,0.5,4.8,True,False
+2024-11-02,Email,EMEA,Billing,9.0,3.7,False,False
+2025-10-04,Email,EMEA,Feature Request,18.3,4.2,True,False
+2024-12-09,Chat,North America,Billing,5.5,4.0,True,False
+2025-09-01,Phone,North America,Account Access,1.7,4.4,False,False
+2025-11-11,Email,APAC,Feature Request,13.8,3.7,False,False
+2025-07-01,Email,EMEA,Account Access,12.5,2.9,False,True
+2024-11-16,Chat,North America,Account Access,4.0,4.2,True,False
+2025-09-15,Self-Service,EMEA,Technical Issue,0.4,3.7,False,False
+2025-09-27,Email,LATAM,Feature Request,23.4,3.7,False,False
+2024-06-14,Self-Service,LATAM,Billing,0.6,4.4,True,False
+2024-01-13,Phone,APAC,Account Access,1.8,4.8,False,False
+2024-09-16,Chat,APAC,Account Access,2.6,4.8,True,False
+2024-02-27,Email,EMEA,Feature Request,11.1,4.3,True,False
+2025-05-02,Self-Service,LATAM,Feature Request,0.3,2.7,True,True
+2024-08-08,Chat,APAC,Feature Request,6.3,3.1,True,False
+2024-10-10,Email,EMEA,Feature Request,24.1,3.6,True,False
+2024-07-20,Chat,EMEA,General Inquiry,5.0,4.0,False,False
+2025-06-12,Self-Service,LATAM,Technical Issue,0.6,3.5,False,False
+2024-02-10,Chat,APAC,Account Access,3.5,4.3,False,False
+2025-04-05,Email,LATAM,Feature Request,3.1,3.0,False,False
+2025-08-04,Phone,APAC,Feature Request,1.3,4.8,True,False
+2024-12-24,Chat,North America,Billing,3.9,4.4,True,False
+2025-06-22,Email,EMEA,Billing,0.9,3.4,False,False
+2025-07-23,Email,LATAM,Technical Issue,24.8,4.2,False,False
+2025-04-13,Email,North America,Technical Issue,23.3,3.4,False,False
+2024-03-06,Phone,EMEA,General Inquiry,0.4,4.7,True,False
+2024-01-19,Email,APAC,Account Access,23.3,2.8,True,False
+2025-06-06,Self-Service,APAC,General Inquiry,0.2,4.4,True,False
+2025-05-21,Chat,APAC,General Inquiry,5.3,5.0,False,False
+2025-06-08,Phone,LATAM,Feature Request,3.0,5.0,True,False
+2024-03-05,Self-Service,North America,General Inquiry,0.8,3.6,False,False
+2024-08-07,Chat,North America,Account Access,4.6,3.1,False,False
+2025-04-24,Self-Service,EMEA,Technical Issue,0.3,4.2,True,False
+2025-12-11,Chat,EMEA,Account Access,2.5,3.9,False,False
+2024-10-31,Chat,North America,Feature Request,4.7,4.4,True,False
+2024-08-08,Self-Service,LATAM,Billing,0.4,4.0,False,False
+2024-06-18,Phone,EMEA,Technical Issue,2.5,4.9,False,False
+2025-01-20,Chat,LATAM,Account Access,3.3,4.1,False,False
+2024-09-09,Email,EMEA,Technical Issue,14.2,4.4,False,False
+2024-12-26,Chat,EMEA,Feature Request,7.2,4.7,False,False
+2024-09-19,Chat,APAC,General Inquiry,4.0,2.4,True,True
+2024-07-04,Chat,LATAM,Feature Request,1.9,3.6,False,False
+2024-12-28,Chat,APAC,General Inquiry,3.7,2.9,True,False
+2024-10-07,Phone,EMEA,General Inquiry,1.8,2.7,True,False
+2024-07-13,Chat,North America,Account Access,0.5,4.4,False,False
+2024-01-20,Self-Service,EMEA,General Inquiry,0.4,4.2,False,False
+2024-09-09,Email,LATAM,General Inquiry,27.1,4.0,True,True
+2025-01-31,Email,EMEA,Feature Request,21.9,4.5,True,False
+2024-10-03,Chat,EMEA,Feature Request,3.1,4.2,False,False
+2025-12-19,Self-Service,APAC,Feature Request,0.6,3.2,False,False
+2025-08-04,Chat,APAC,Feature Request,2.2,5.0,False,False
+2025-02-27,Chat,LATAM,Feature Request,3.1,4.2,True,False
+2025-01-14,Chat,APAC,Account Access,2.6,5.0,False,False
+2024-09-09,Chat,APAC,Account Access,4.3,5.0,True,False
+2024-08-27,Chat,APAC,General Inquiry,4.7,4.8,False,False
+2025-10-28,Chat,LATAM,Account Access,6.1,4.5,False,False
+2025-06-17,Phone,APAC,General Inquiry,0.8,4.1,True,False
+2025-06-24,Chat,EMEA,Feature Request,4.4,5.0,True,True
+2024-09-20,Chat,LATAM,Account Access,7.7,3.9,True,False
+2024-02-20,Email,North America,Feature Request,12.7,3.4,False,False
+2024-12-23,Self-Service,LATAM,Technical Issue,0.1,3.6,True,False
+2024-04-25,Phone,North America,Account Access,0.1,4.0,True,False
+2025-02-04,Chat,APAC,General Inquiry,4.1,3.8,False,False
+2024-06-12,Chat,LATAM,Billing,4.1,4.7,True,False
+2024-02-15,Chat,EMEA,Technical Issue,4.7,4.4,False,False
+2024-07-31,Chat,EMEA,General Inquiry,5.0,3.8,True,False
+2024-06-10,Self-Service,LATAM,Feature Request,0.3,4.6,True,True
+2025-10-08,Self-Service,LATAM,Feature Request,0.6,4.7,True,False
+2024-06-05,Phone,APAC,Billing,2.6,4.1,False,False
+2025-12-12,Email,APAC,Feature Request,6.6,3.2,False,False
+2024-01-20,Chat,EMEA,Feature Request,5.4,4.8,True,False
+2024-01-26,Phone,EMEA,Account Access,2.5,4.5,True,False
+2024-06-21,Email,North America,Technical Issue,23.0,4.1,False,False
+2025-07-21,Self-Service,LATAM,Account Access,0.9,2.7,True,True
+2024-05-22,Phone,APAC,Feature Request,2.3,3.7,True,False
+2024-09-17,Self-Service,LATAM,Account Access,0.3,3.5,False,False
+2025-02-22,Email,EMEA,Billing,9.7,5.0,False,False
+2024-01-16,Chat,North America,General Inquiry,3.6,3.5,True,False
+2024-01-31,Chat,LATAM,General Inquiry,6.2,3.4,True,False
+2024-09-23,Phone,North America,Technical Issue,2.0,5.0,False,False
+2025-03-06,Email,EMEA,Feature Request,19.4,4.3,True,False
+2024-07-22,Phone,North America,Technical Issue,2.8,4.6,False,False
+2024-05-29,Email,North America,Technical Issue,9.2,3.6,True,False
+2025-06-13,Email,North America,Feature Request,17.4,3.7,False,True
+2024-08-16,Chat,North America,Technical Issue,2.8,5.0,True,False
+2025-02-28,Chat,APAC,Account Access,6.9,5.0,False,False
+2024-03-18,Chat,LATAM,Billing,2.1,4.9,True,False
+2025-10-29,Self-Service,LATAM,Billing,0.4,5.0,False,False
+2025-09-09,Phone,APAC,Billing,1.6,4.0,True,False
+2024-04-16,Chat,LATAM,General Inquiry,2.2,4.0,False,False
+2024-08-13,Chat,North America,Account Access,3.0,4.6,True,False
+2024-03-02,Email,LATAM,Technical Issue,23.8,3.1,True,False
+2024-08-01,Email,North America,General Inquiry,26.5,3.9,False,False
+2024-12-30,Chat,LATAM,General Inquiry,5.5,3.2,True,False
+2025-12-24,Email,EMEA,Account Access,10.5,3.2,True,False
+2024-03-27,Email,APAC,General Inquiry,20.0,3.4,True,False
+2025-01-04,Self-Service,North America,General Inquiry,0.4,4.2,True,False
+2025-05-04,Chat,North America,Feature Request,3.3,4.4,False,False
+2024-05-07,Email,APAC,Technical Issue,26.4,4.1,True,False
+2024-03-13,Email,North America,Feature Request,20.8,2.9,False,False
+2024-10-15,Chat,LATAM,General Inquiry,4.4,4.3,True,False
+2024-08-28,Chat,LATAM,Billing,3.6,4.0,False,False
+2025-07-14,Email,APAC,Billing,21.9,4.4,False,False
+2025-03-19,Self-Service,APAC,Account Access,0.3,4.7,True,False
+2024-08-24,Chat,North America,Account Access,4.2,4.8,True,False
+2024-10-23,Email,APAC,General Inquiry,3.4,3.0,False,False
+2024-02-07,Self-Service,LATAM,Technical Issue,0.3,4.0,True,False
+2024-04-26,Phone,EMEA,Account Access,1.4,2.8,True,True
+2025-05-14,Self-Service,North America,Billing,0.5,4.7,True,False
+2025-05-25,Chat,North America,General Inquiry,3.0,5.0,False,False
+2025-04-30,Phone,North America,Technical Issue,2.5,4.4,True,False
+2025-02-11,Email,APAC,Feature Request,37.4,4.7,True,False
+2025-05-04,Phone,APAC,General Inquiry,2.6,4.9,False,False
+2025-08-26,Phone,LATAM,Billing,2.8,3.7,True,False
+2025-01-12,Chat,North America,Feature Request,4.2,5.0,False,False
+2025-04-24,Email,EMEA,Billing,16.1,3.8,True,False
+2025-07-15,Email,North America,Technical Issue,25.6,4.2,True,False
+2025-01-23,Email,LATAM,Feature Request,11.0,4.1,True,False
+2025-10-25,Chat,EMEA,Feature Request,3.8,4.3,False,False
+2024-02-14,Chat,APAC,General Inquiry,4.7,5.0,False,False
+2025-09-10,Self-Service,North America,Feature Request,0.8,4.2,False,False
+2024-01-20,Phone,APAC,General Inquiry,2.1,2.5,True,False
+2025-07-22,Chat,APAC,Billing,3.3,5.0,False,False
+2024-11-27,Self-Service,LATAM,Account Access,0.5,4.3,False,False
+2025-11-09,Self-Service,North America,Technical Issue,0.2,4.3,False,False
+2024-04-03,Self-Service,LATAM,Technical Issue,0.5,4.2,True,False
+2025-10-07,Phone,North America,Billing,2.3,5.0,True,False
+2024-10-19,Email,North America,Billing,7.3,4.3,True,False
+2024-12-27,Self-Service,LATAM,Technical Issue,0.5,4.1,False,False
+2025-09-12,Phone,EMEA,Feature Request,2.5,5.0,False,False
+2024-05-03,Chat,LATAM,General Inquiry,4.6,3.9,True,False
+2024-12-25,Email,LATAM,Technical Issue,23.7,3.5,False,False
+2024-08-30,Chat,EMEA,Feature Request,4.9,3.8,True,False
+2025-11-05,Chat,North America,Billing,4.9,4.1,False,False
+2024-04-28,Chat,North America,Technical Issue,5.4,5.0,True,False
+2024-02-12,Email,LATAM,Billing,6.3,4.2,False,False
+2025-04-24,Email,APAC,General Inquiry,13.9,3.9,True,False
+2025-10-04,Chat,APAC,Feature Request,5.4,4.8,False,False
+2024-08-13,Chat,APAC,Billing,6.6,4.0,False,False
+2025-10-14,Self-Service,North America,Account Access,0.7,5.0,False,False
+2024-08-05,Chat,APAC,Account Access,2.2,4.6,True,False
+2024-04-10,Self-Service,LATAM,Billing,0.5,4.9,False,False
+2025-08-24,Self-Service,EMEA,Technical Issue,0.6,3.1,False,False
+2025-01-20,Self-Service,LATAM,Feature Request,0.3,5.0,False,False
+2025-04-25,Chat,APAC,Account Access,4.5,4.1,False,False
+2024-01-21,Chat,North America,Technical Issue,3.2,3.8,False,False
+2025-01-02,Email,North America,General Inquiry,20.8,3.1,True,False
+2024-09-18,Chat,LATAM,Account Access,3.4,5.0,False,False
+2025-02-01,Chat,APAC,Technical Issue,5.2,4.4,True,False
+2024-12-20,Self-Service,EMEA,Technical Issue,0.7,2.4,True,False
+2024-04-07,Email,APAC,Account Access,20.9,4.3,True,False
+2024-02-15,Chat,EMEA,Billing,6.4,3.7,False,False
+2025-07-05,Email,North America,Feature Request,11.5,3.8,False,False
+2025-11-27,Self-Service,North America,Feature Request,0.5,2.7,True,False
+2024-07-22,Email,North America,Billing,23.0,3.2,False,False
+2025-06-25,Self-Service,LATAM,Billing,0.4,3.8,False,False
+2024-11-07,Chat,EMEA,Technical Issue,4.4,4.4,True,False
+2025-10-25,Email,EMEA,Account Access,16.4,2.1,False,False
+2024-10-22,Phone,LATAM,Billing,3.0,4.7,True,False
+2025-08-07,Phone,APAC,General Inquiry,3.3,4.5,True,False
+2025-06-04,Email,LATAM,General Inquiry,34.9,3.5,True,False
+2025-09-13,Email,APAC,Technical Issue,2.3,3.3,True,False
+2024-02-03,Email,North America,Account Access,15.0,3.2,True,False
+2024-08-06,Chat,North America,Feature Request,7.0,5.0,True,False
+2024-02-15,Phone,APAC,Billing,1.1,3.5,False,False
+2025-09-20,Email,North America,Account Access,18.4,3.1,True,False
+2024-01-22,Self-Service,APAC,Billing,0.8,4.4,True,False
+2024-03-30,Chat,North America,Feature Request,4.2,4.7,True,True
+2025-03-04,Chat,APAC,General Inquiry,2.8,3.2,False,False
+2025-06-21,Chat,APAC,General Inquiry,4.5,3.5,True,False
+2025-02-02,Chat,LATAM,General Inquiry,5.1,4.5,True,False
+2024-06-08,Self-Service,EMEA,Account Access,0.4,4.3,True,False
+2024-02-01,Phone,EMEA,General Inquiry,2.7,5.0,True,False
+2025-03-09,Email,LATAM,Account Access,12.4,4.0,False,False
+2025-05-24,Phone,North America,Technical Issue,0.8,3.9,False,False
+2025-11-03,Email,APAC,General Inquiry,18.8,4.1,False,False
+2025-02-05,Chat,North America,Technical Issue,6.1,5.0,False,False
+2024-03-12,Phone,EMEA,Feature Request,2.7,4.7,True,False
+2025-10-11,Phone,LATAM,General Inquiry,0.6,4.3,False,False
+2025-02-26,Self-Service,APAC,Technical Issue,0.1,3.9,True,False
+2025-02-03,Chat,North America,Feature Request,5.0,3.7,False,False
+2025-12-15,Email,LATAM,Feature Request,21.0,3.4,False,False
+2024-01-01,Phone,EMEA,Technical Issue,1.3,5.0,True,False
+2024-02-03,Self-Service,APAC,Account Access,0.6,4.2,True,False
+2024-10-22,Self-Service,North America,Feature Request,0.4,3.8,False,False
+2025-09-15,Chat,LATAM,Billing,3.2,2.8,False,False
+2024-07-24,Self-Service,EMEA,Account Access,0.5,4.4,False,True
+2025-01-07,Email,LATAM,Technical Issue,25.2,3.5,False,False
+2025-08-29,Phone,North America,Account Access,1.1,3.7,True,True
+2025-01-07,Email,LATAM,Billing,2.2,4.2,True,False
+2024-06-19,Phone,APAC,Account Access,1.2,3.8,True,False
+2025-12-05,Chat,APAC,General Inquiry,0.1,4.3,False,False
+2024-02-26,Email,EMEA,Technical Issue,18.9,3.8,True,False
+2025-05-18,Chat,APAC,Account Access,2.8,4.3,True,False
+2024-05-01,Chat,North America,Account Access,4.3,5.0,True,False
+2024-04-08,Chat,LATAM,Account Access,4.3,4.5,False,False
+2025-02-28,Email,LATAM,General Inquiry,11.6,4.2,True,False
+2025-09-28,Self-Service,North America,General Inquiry,0.4,3.2,True,False
+2024-06-30,Phone,North America,Feature Request,3.5,5.0,True,False
+2025-05-26,Phone,LATAM,General Inquiry,2.0,3.7,True,False
+2024-04-24,Email,North America,General Inquiry,14.1,4.0,False,False
+2025-06-03,Phone,North America,Billing,0.2,4.7,True,False
+2025-08-07,Self-Service,APAC,Feature Request,0.5,3.8,True,False
+2024-06-13,Phone,North America,Account Access,3.7,4.1,True,False
+2024-04-28,Phone,EMEA,Technical Issue,1.7,4.4,True,False
+2025-09-06,Email,LATAM,Billing,16.1,4.0,False,False
+2024-01-17,Email,LATAM,Feature Request,4.2,4.4,True,False
+2024-09-05,Email,North America,Feature Request,18.4,3.8,False,True
+2025-11-16,Self-Service,LATAM,General Inquiry,0.3,3.6,True,False
+2024-01-14,Chat,EMEA,Billing,6.2,4.3,False,False
+2025-07-17,Self-Service,APAC,Technical Issue,0.6,2.8,False,False
+2025-02-20,Chat,EMEA,Account Access,3.2,4.2,False,False
+2025-11-15,Chat,North America,Technical Issue,3.4,5.0,False,False
+2024-07-22,Chat,EMEA,Technical Issue,3.4,3.3,False,False
+2024-07-24,Chat,LATAM,Technical Issue,5.8,3.6,False,False
+2025-10-08,Self-Service,North America,Feature Request,0.4,3.9,True,False
+2025-04-09,Email,North America,Billing,20.4,5.0,True,False
+2024-11-25,Chat,EMEA,Technical Issue,1.4,4.8,False,False
+2025-08-21,Chat,North America,Technical Issue,3.4,2.9,False,False
+2024-11-16,Phone,APAC,Billing,2.4,4.7,True,False
+2025-05-12,Email,North America,Feature Request,6.9,3.9,True,False
+2024-07-10,Chat,LATAM,Feature Request,4.3,3.8,False,False
+2024-05-28,Self-Service,EMEA,Technical Issue,0.2,3.7,False,False
+2025-07-17,Phone,North America,General Inquiry,2.6,4.9,True,False
+2025-01-26,Self-Service,LATAM,Feature Request,0.4,3.1,False,False
+2024-11-03,Self-Service,APAC,Feature Request,0.3,3.8,False,False
+2024-05-19,Email,North America,Billing,15.2,4.3,True,False
+2025-04-27,Email,APAC,Account Access,24.3,3.5,True,False
+2024-06-24,Email,EMEA,Account Access,2.8,3.6,True,False
+2025-11-18,Chat,APAC,Account Access,5.3,4.8,True,False
+2024-08-24,Phone,North America,Feature Request,1.7,4.9,True,False
+2025-12-28,Self-Service,EMEA,Technical Issue,0.5,3.1,True,False
+2024-06-15,Self-Service,EMEA,Billing,0.3,3.9,True,True
+2025-12-19,Email,North America,Technical Issue,22.7,3.0,False,False
+2025-06-22,Chat,LATAM,Billing,3.3,4.2,True,False
+2025-06-28,Chat,EMEA,Billing,5.5,3.5,True,False
+2024-11-02,Chat,North America,Technical Issue,1.3,4.4,False,False
+2025-02-20,Self-Service,LATAM,Technical Issue,0.2,4.8,True,False
+2025-06-21,Chat,LATAM,Feature Request,4.8,4.7,False,False
+2025-12-07,Chat,North America,Account Access,3.6,4.1,True,False
+2025-06-03,Chat,North America,Technical Issue,5.6,5.0,False,False
+2024-06-02,Email,North America,General Inquiry,5.8,4.3,True,False
+2025-07-22,Self-Service,EMEA,Technical Issue,0.7,4.0,False,False
+2025-11-21,Email,LATAM,Account Access,18.4,3.8,False,False
+2024-11-29,Chat,EMEA,Technical Issue,3.7,3.0,False,False
+2024-11-09,Self-Service,LATAM,General Inquiry,0.6,4.3,True,False
+2024-04-02,Chat,LATAM,Billing,3.1,4.0,True,False
+2025-04-12,Phone,North America,Billing,1.1,4.7,False,False
+2025-09-30,Chat,APAC,Feature Request,2.7,5.0,True,True
+2025-11-26,Email,North America,General Inquiry,11.2,3.9,True,False
+2025-05-31,Email,North America,Feature Request,11.5,5.0,True,False
+2024-03-30,Chat,EMEA,Technical Issue,4.0,3.2,False,False
+2024-07-21,Chat,LATAM,Account Access,6.7,4.2,False,False
+2025-10-20,Chat,North America,Billing,4.6,4.5,True,False
+2025-06-24,Chat,EMEA,Account Access,4.8,4.5,False,False
+2024-10-18,Phone,APAC,Technical Issue,2.6,5.0,True,True
+2025-02-13,Email,LATAM,Account Access,16.9,4.7,False,False
+2025-09-27,Chat,LATAM,Account Access,4.9,3.1,True,False
+2025-12-09,Chat,APAC,Technical Issue,4.4,4.6,True,False
+2025-11-18,Self-Service,EMEA,Feature Request,0.3,4.6,False,False
+2025-02-17,Email,APAC,Billing,19.5,2.9,False,True
+2025-11-21,Email,EMEA,General Inquiry,22.7,3.9,False,False
+2025-02-06,Phone,North America,Technical Issue,1.8,3.8,True,False
+2024-08-01,Phone,APAC,General Inquiry,3.5,4.1,False,False
+2025-02-17,Chat,APAC,Account Access,3.7,3.5,False,False
+2025-02-08,Self-Service,North America,Technical Issue,0.9,3.9,True,False
+2024-03-13,Phone,APAC,Technical Issue,2.0,5.0,False,False
+2025-07-30,Chat,North America,Account Access,1.5,5.0,True,False
+2024-05-10,Chat,North America,Technical Issue,3.6,3.8,True,False
+2024-07-31,Chat,LATAM,Feature Request,5.8,4.9,True,False
+2024-11-03,Self-Service,LATAM,Technical Issue,0.6,3.4,False,False
+2025-07-12,Phone,APAC,Billing,2.4,5.0,True,False
+2024-06-30,Phone,North America,Feature Request,1.1,3.8,True,False
+2025-02-23,Phone,LATAM,Account Access,2.5,5.0,True,False
+2024-11-23,Email,APAC,Account Access,14.2,3.9,True,False
+2025-01-27,Self-Service,North America,Account Access,0.4,2.7,True,False
+2024-09-02,Email,LATAM,Billing,9.4,4.6,True,False
+2025-03-11,Self-Service,EMEA,Account Access,0.6,3.7,True,True
+2024-03-12,Self-Service,North America,General Inquiry,0.6,4.0,False,True
+2025-06-06,Self-Service,North America,Feature Request,0.2,3.8,True,False
+2024-02-04,Phone,LATAM,Feature Request,0.1,3.8,True,False
+2024-12-11,Email,EMEA,Technical Issue,23.6,4.1,True,False
+2024-05-05,Chat,APAC,Account Access,5.9,4.9,True,False
+2024-08-01,Chat,APAC,General Inquiry,6.3,5.0,True,False
+2025-07-23,Email,LATAM,General Inquiry,19.5,3.7,True,False
+2025-01-06,Email,LATAM,Billing,20.5,4.2,True,True
+2025-07-12,Email,LATAM,Feature Request,34.9,3.2,False,False
+2024-03-29,Email,APAC,General Inquiry,6.5,4.6,False,False
+2025-02-27,Chat,APAC,Feature Request,3.4,4.1,False,False
+2024-07-14,Self-Service,EMEA,General Inquiry,0.4,3.7,True,False
+2024-05-28,Self-Service,EMEA,Account Access,0.6,4.0,True,False
+2025-07-24,Chat,North America,General Inquiry,5.7,4.5,True,False
+2024-11-11,Chat,LATAM,General Inquiry,3.8,3.8,True,False
+2025-11-02,Self-Service,LATAM,Feature Request,0.6,3.2,True,False
+2025-10-26,Self-Service,APAC,Feature Request,0.6,5.0,True,False
+2024-12-29,Chat,LATAM,Technical Issue,4.9,4.6,False,False
+2025-11-10,Chat,LATAM,Account Access,3.8,3.7,False,False
+2025-05-05,Chat,APAC,Billing,4.2,4.2,False,False
+2025-06-14,Phone,APAC,Account Access,2.3,4.0,True,False
+2025-03-15,Chat,LATAM,Technical Issue,6.0,3.6,True,False
+2024-04-30,Self-Service,North America,Feature Request,0.6,4.0,True,False
+2025-02-14,Email,EMEA,Account Access,25.9,2.6,False,False
+2024-07-05,Self-Service,North America,Feature Request,0.9,3.6,False,False
+2024-08-23,Phone,North America,Technical Issue,2.0,4.6,True,False
+2025-12-11,Email,EMEA,General Inquiry,17.0,3.1,False,False
+2024-09-24,Phone,LATAM,Feature Request,1.6,3.2,True,False
+2024-01-13,Self-Service,North America,Billing,0.3,3.0,False,False
+2024-09-14,Chat,LATAM,Technical Issue,3.6,3.6,True,False
+2025-02-27,Self-Service,North America,General Inquiry,0.1,3.6,False,False
+2024-07-13,Chat,APAC,Technical Issue,4.1,4.9,True,False
+2025-06-17,Self-Service,EMEA,Account Access,0.5,3.5,False,False
+2024-03-09,Email,North America,Feature Request,22.6,3.9,True,False
+2025-06-28,Self-Service,APAC,Account Access,0.4,4.9,False,False
+2024-05-25,Chat,LATAM,Feature Request,2.9,4.3,True,False
+2024-06-28,Self-Service,APAC,Account Access,1.0,5.0,True,False
+2024-06-14,Phone,LATAM,Technical Issue,1.3,4.6,True,False
+2024-11-26,Self-Service,APAC,Account Access,0.2,3.4,False,False
+2024-04-11,Self-Service,North America,Feature Request,0.6,4.9,True,False
+2025-06-26,Chat,EMEA,General Inquiry,2.8,3.5,True,False
+2024-09-10,Phone,EMEA,Technical Issue,2.8,3.6,True,True
+2024-08-31,Email,APAC,Billing,16.0,3.4,True,False
+2024-01-25,Phone,EMEA,Account Access,1.2,4.0,True,False
+2024-08-01,Chat,LATAM,Technical Issue,4.3,3.9,True,False
+2025-09-01,Email,APAC,Account Access,20.4,3.7,True,False
+2024-07-22,Phone,EMEA,Billing,2.5,4.2,True,True
+2024-04-05,Self-Service,North America,Technical Issue,0.5,3.2,True,False
+2025-02-20,Chat,APAC,Billing,4.8,4.3,False,False
+2025-10-05,Phone,North America,Billing,1.5,4.6,True,False
+2025-02-27,Email,LATAM,General Inquiry,8.3,4.7,True,False
+2025-10-12,Self-Service,LATAM,Technical Issue,0.5,3.4,True,False
+2025-03-19,Email,LATAM,Account Access,20.2,3.0,True,False
+2024-01-13,Email,LATAM,Technical Issue,27.5,4.1,False,False
+2024-08-06,Phone,EMEA,Billing,2.1,5.0,False,False
+2025-02-04,Chat,APAC,Feature Request,5.0,4.5,False,False
+2024-08-20,Chat,LATAM,Technical Issue,1.5,4.7,False,False
+2024-05-22,Self-Service,EMEA,Technical Issue,0.3,2.6,False,True
+2024-06-27,Phone,North America,General Inquiry,1.0,3.8,True,False
+2024-02-23,Phone,LATAM,Billing,1.3,4.4,False,False
+2024-08-02,Self-Service,EMEA,Technical Issue,0.1,3.1,False,False
+2025-02-14,Email,North America,General Inquiry,2.4,3.8,False,False
+2025-10-31,Chat,APAC,Technical Issue,3.8,5.0,True,False
+2024-03-10,Phone,LATAM,General Inquiry,3.8,3.6,True,False
+2024-06-26,Email,North America,Billing,11.6,4.3,False,False
+2024-04-10,Self-Service,EMEA,Billing,1.0,4.7,True,False
+2024-11-23,Chat,APAC,Feature Request,3.7,4.2,False,False
+2024-11-19,Chat,EMEA,Account Access,4.9,4.2,True,False
+2025-07-20,Self-Service,APAC,Technical Issue,0.8,4.1,True,False
+2025-10-08,Chat,North America,General Inquiry,3.8,4.2,True,False
+2025-03-22,Phone,APAC,Account Access,1.6,3.7,True,False
+2024-08-19,Chat,North America,Feature Request,1.1,4.2,False,False
+2024-04-21,Email,EMEA,Account Access,16.8,4.0,False,False
+2025-03-18,Phone,North America,General Inquiry,1.3,4.9,True,False
+2024-02-07,Phone,LATAM,Billing,1.2,5.0,True,False
+2025-11-11,Chat,APAC,General Inquiry,2.7,5.0,False,False
+2025-08-17,Chat,LATAM,General Inquiry,2.1,4.8,True,False
+2025-08-12,Phone,North America,General Inquiry,2.9,4.4,True,False
+2025-07-19,Phone,LATAM,General Inquiry,1.9,3.5,True,False
+2025-08-07,Self-Service,EMEA,Account Access,0.6,4.3,True,False
+2025-12-28,Self-Service,EMEA,Technical Issue,0.3,3.9,False,False
+2024-03-07,Self-Service,APAC,General Inquiry,0.3,3.7,True,False
+2024-02-24,Phone,EMEA,Billing,1.6,4.9,True,False
+2025-11-27,Email,EMEA,Feature Request,8.8,4.0,False,False
+2024-09-19,Phone,LATAM,General Inquiry,2.4,4.3,False,False
+2025-02-23,Chat,EMEA,General Inquiry,4.6,4.2,True,False
+2025-11-05,Self-Service,North America,General Inquiry,0.5,3.6,False,False
+2024-05-17,Chat,APAC,Account Access,4.1,3.8,True,False
+2025-12-27,Phone,North America,General Inquiry,1.0,4.3,False,False
+2024-11-02,Email,EMEA,Feature Request,19.1,4.0,True,False
+2025-07-04,Self-Service,APAC,Feature Request,0.5,5.0,True,False
+2024-02-14,Phone,LATAM,General Inquiry,2.0,5.0,True,False
+2024-10-16,Chat,APAC,General Inquiry,3.7,3.7,False,False
+2024-02-11,Email,EMEA,Billing,11.4,1.6,True,False
+2024-02-23,Self-Service,APAC,Account Access,0.4,3.0,False,False
+2024-04-17,Chat,LATAM,Feature Request,3.3,3.7,True,False
+2025-11-20,Self-Service,EMEA,Technical Issue,0.3,3.6,False,False
+2025-08-17,Self-Service,APAC,General Inquiry,0.5,4.3,True,False
+2024-02-24,Self-Service,North America,Feature Request,0.2,4.9,True,True
+2024-03-28,Email,North America,Feature Request,21.4,3.8,True,False
+2025-06-30,Email,APAC,Technical Issue,17.7,3.5,False,False
+2024-07-11,Phone,APAC,Billing,1.4,4.7,False,False
+2024-04-23,Self-Service,EMEA,Account Access,1.0,3.4,False,False
+2025-02-27,Self-Service,LATAM,General Inquiry,0.9,4.4,True,False
+2024-10-19,Chat,APAC,General Inquiry,2.7,4.6,True,False
+2024-01-18,Phone,APAC,Billing,2.4,3.1,True,False
+2025-06-19,Phone,APAC,Account Access,2.2,4.9,False,False
+2025-07-25,Chat,EMEA,Feature Request,0.3,4.9,False,False
+2024-05-16,Chat,LATAM,Account Access,7.4,3.7,True,False
+2025-02-18,Chat,APAC,Technical Issue,3.2,3.9,True,False
+2024-07-08,Chat,North America,General Inquiry,2.5,4.0,False,False
+2024-09-09,Phone,APAC,Technical Issue,2.2,3.2,True,False
+2024-06-27,Chat,LATAM,Technical Issue,4.3,3.2,True,False
+2025-04-10,Email,North America,Technical Issue,21.2,2.5,True,False
+2025-09-06,Chat,EMEA,Feature Request,4.2,3.3,True,False
+2025-05-12,Chat,APAC,Billing,4.9,4.9,True,False
+2025-02-27,Chat,North America,General Inquiry,4.1,4.7,True,False
+2025-04-20,Chat,APAC,Feature Request,4.0,4.3,False,False
+2025-04-27,Email,LATAM,Feature Request,21.6,2.9,False,False
+2025-03-18,Chat,North America,Technical Issue,5.5,4.2,False,False
+2024-03-24,Chat,North America,Account Access,5.8,4.8,True,False
+2025-03-17,Chat,EMEA,Billing,7.4,4.2,True,False
+2025-12-28,Self-Service,North America,Feature Request,0.5,4.5,False,False
+2025-08-11,Email,North America,Feature Request,20.5,3.1,False,False
+2024-12-10,Chat,APAC,General Inquiry,1.4,5.0,True,False
+2025-05-12,Chat,LATAM,Billing,5.9,3.0,False,False
+2025-05-03,Email,EMEA,Billing,15.6,3.4,False,False
+2025-03-13,Chat,LATAM,Feature Request,4.3,4.0,False,False
+2024-11-12,Email,North America,Account Access,11.8,2.9,False,False
+2025-12-12,Phone,LATAM,Technical Issue,1.5,5.0,True,False
+2025-12-12,Phone,EMEA,Technical Issue,2.4,4.0,True,False
+2025-06-23,Self-Service,EMEA,Billing,0.2,4.3,True,False
+2025-09-09,Chat,EMEA,Feature Request,2.8,3.7,False,False
+2025-07-09,Chat,APAC,Account Access,3.6,2.7,True,True
+2025-10-10,Self-Service,EMEA,Account Access,0.7,2.9,True,True
+2024-01-01,Email,EMEA,Feature Request,18.9,3.9,True,False
+2025-03-09,Email,LATAM,Feature Request,19.1,3.1,False,False
+2025-11-13,Email,North America,Billing,27.0,4.2,False,False
+2025-10-30,Self-Service,LATAM,Feature Request,0.5,5.0,True,False
+2025-04-27,Chat,APAC,Feature Request,5.5,5.0,False,False
+2024-05-12,Email,North America,Billing,22.7,4.4,False,False
+2025-03-10,Chat,EMEA,Feature Request,4.9,3.6,True,False
+2025-09-30,Chat,LATAM,General Inquiry,4.3,3.9,True,False
+2025-12-16,Chat,LATAM,Technical Issue,4.6,4.5,True,False
+2024-04-27,Self-Service,APAC,Account Access,0.2,4.8,False,False
+2025-04-14,Chat,LATAM,Technical Issue,5.3,4.4,False,False
+2025-02-13,Chat,APAC,Billing,3.5,5.0,True,False
+2025-01-10,Email,LATAM,Account Access,12.1,4.1,False,False
+2024-11-16,Chat,North America,General Inquiry,3.8,3.0,False,False
+2025-11-14,Phone,EMEA,Billing,0.9,4.7,False,False
+2025-10-27,Chat,LATAM,Account Access,2.2,5.0,True,False
+2025-05-24,Self-Service,LATAM,Feature Request,0.6,3.1,False,False
+2025-07-01,Chat,North America,Technical Issue,5.7,3.7,False,False
+2025-11-17,Email,APAC,General Inquiry,9.6,2.9,True,False
+2024-02-08,Email,North America,Billing,24.7,3.6,True,False
+2024-04-04,Chat,APAC,Billing,3.6,3.8,True,False
+2024-08-21,Email,EMEA,Technical Issue,12.8,4.3,False,False
+2025-10-23,Self-Service,LATAM,Account Access,0.6,3.9,False,False
+2024-07-25,Phone,APAC,Feature Request,2.7,4.3,False,False
+2024-05-28,Email,LATAM,Feature Request,3.8,3.6,True,False
+2024-07-13,Email,North America,General Inquiry,23.6,2.8,True,False
+2024-02-02,Phone,LATAM,Technical Issue,3.2,5.0,True,False
+2025-07-20,Chat,EMEA,Technical Issue,5.2,5.0,False,False
+2024-03-06,Chat,North America,Technical Issue,7.2,5.0,False,False
+2025-11-23,Email,LATAM,Technical Issue,23.5,3.5,False,False
+2025-03-18,Chat,APAC,Account Access,3.7,4.5,True,False
+2024-01-13,Self-Service,APAC,Feature Request,0.3,3.7,True,False
+2025-01-23,Chat,LATAM,General Inquiry,3.2,4.7,False,False
+2024-08-04,Chat,APAC,Account Access,6.1,4.0,False,False
+2025-03-25,Chat,LATAM,Billing,5.1,3.7,False,False
+2025-12-15,Phone,North America,General Inquiry,1.6,4.2,True,False
+2024-09-20,Email,North America,General Inquiry,16.8,4.1,False,True
+2025-12-03,Chat,EMEA,Technical Issue,3.5,5.0,False,False
+2025-02-09,Phone,APAC,Feature Request,2.5,5.0,True,False
+2025-04-12,Chat,North America,General Inquiry,4.5,4.2,True,False
+2025-01-21,Email,EMEA,Billing,22.2,5.0,True,False
+2025-12-07,Email,LATAM,Feature Request,18.1,4.6,False,False
+2025-05-20,Email,APAC,Technical Issue,9.6,3.4,True,False
+2024-12-23,Email,APAC,Feature Request,19.6,3.5,True,False
+2025-09-11,Chat,LATAM,General Inquiry,2.6,3.4,True,False
+2025-01-20,Self-Service,EMEA,Account Access,0.5,3.8,False,False
+2025-04-04,Chat,North America,Billing,2.4,4.2,True,False
+2025-09-07,Phone,APAC,General Inquiry,2.7,4.0,True,False
+2025-05-16,Chat,EMEA,General Inquiry,3.3,4.1,True,False
+2025-08-24,Self-Service,EMEA,Account Access,0.6,4.2,True,False
+2025-03-29,Self-Service,LATAM,Feature Request,0.6,3.9,True,True
+2024-10-15,Email,North America,General Inquiry,5.0,2.4,False,False
+2025-02-03,Email,LATAM,Feature Request,22.8,4.8,False,True
+2025-08-22,Self-Service,LATAM,General Inquiry,0.5,2.7,True,False
+2025-11-16,Self-Service,APAC,Billing,0.9,4.5,False,False
+2024-10-02,Self-Service,LATAM,Account Access,0.4,3.7,False,False
+2025-08-05,Email,North America,General Inquiry,22.0,3.5,True,False
+2024-08-09,Chat,APAC,General Inquiry,0.1,3.7,True,False
+2025-05-13,Phone,EMEA,Technical Issue,1.8,4.2,True,False
+2024-10-04,Email,EMEA,Feature Request,21.0,4.1,False,False
+2025-10-07,Email,EMEA,General Inquiry,10.4,3.4,False,False
+2025-07-13,Phone,APAC,Feature Request,2.4,4.3,True,False
+2025-07-31,Email,EMEA,Billing,11.7,4.6,True,False
+2025-11-29,Chat,APAC,General Inquiry,3.0,5.0,False,False
+2024-11-02,Chat,LATAM,Billing,4.8,4.1,False,False
+2024-07-09,Chat,EMEA,Technical Issue,4.3,3.5,False,False
+2025-10-04,Phone,North America,General Inquiry,1.2,5.0,True,False
+2024-06-11,Chat,EMEA,General Inquiry,4.0,5.0,True,False
+2024-01-31,Self-Service,North America,Technical Issue,0.2,2.6,True,False
+2025-08-02,Chat,EMEA,Billing,5.2,5.0,True,False
+2025-07-09,Phone,EMEA,General Inquiry,1.6,4.7,True,False
+2025-07-01,Chat,North America,Technical Issue,2.2,3.5,False,False
+2024-09-05,Self-Service,North America,Feature Request,0.2,5.0,True,False
+2025-08-17,Phone,EMEA,General Inquiry,1.7,3.7,True,False
+2024-09-13,Email,LATAM,Technical Issue,21.6,3.6,False,False
+2024-10-27,Self-Service,North America,Billing,0.3,3.8,False,False
+2024-10-05,Chat,LATAM,Feature Request,4.7,2.9,True,False
+2024-01-03,Chat,EMEA,Feature Request,4.0,4.3,True,False
+2024-05-25,Chat,LATAM,General Inquiry,2.6,4.0,False,True
+2024-02-07,Chat,LATAM,General Inquiry,2.7,4.2,False,False
+2025-01-28,Chat,LATAM,Account Access,2.7,2.9,False,False
+2024-09-25,Chat,EMEA,Billing,5.9,2.8,True,False
+2025-09-06,Phone,LATAM,Account Access,1.6,5.0,True,False
+2024-01-27,Email,LATAM,Feature Request,27.2,4.4,True,False
+2024-01-24,Chat,EMEA,Account Access,1.7,5.0,True,False
+2025-11-03,Self-Service,LATAM,Billing,0.5,2.5,False,False
+2024-05-20,Email,North America,General Inquiry,32.2,4.7,True,False
+2024-04-09,Chat,LATAM,General Inquiry,5.5,3.6,False,False
+2024-05-22,Phone,EMEA,Feature Request,0.6,4.3,True,False
+2024-07-11,Chat,APAC,Account Access,5.4,4.2,False,False
+2025-10-21,Self-Service,APAC,Feature Request,0.5,3.5,True,False
+2024-02-13,Chat,EMEA,General Inquiry,4.5,4.3,False,False
+2025-04-07,Chat,EMEA,General Inquiry,6.6,3.0,True,False
+2025-10-20,Chat,LATAM,Billing,4.8,4.5,False,False
+2024-09-25,Self-Service,North America,Technical Issue,0.6,3.9,True,False
+2025-12-25,Chat,APAC,Account Access,6.0,5.0,True,False
+2024-04-15,Phone,APAC,General Inquiry,2.3,4.7,False,False
+2025-12-19,Self-Service,APAC,Account Access,0.4,3.3,False,False
+2025-10-10,Email,North America,General Inquiry,35.3,5.0,True,False
+2024-03-20,Self-Service,North America,General Inquiry,0.5,3.9,True,False
+2025-03-04,Chat,APAC,General Inquiry,2.7,3.6,True,False
+2025-09-20,Email,LATAM,Feature Request,10.9,4.3,False,False
+2024-02-23,Self-Service,APAC,Technical Issue,0.1,3.8,True,False
+2024-11-22,Chat,EMEA,Account Access,2.2,4.5,True,False
+2024-10-09,Self-Service,North America,Technical Issue,0.6,3.9,True,False
+2025-09-11,Phone,APAC,Account Access,0.4,5.0,True,False
+2025-06-27,Chat,North America,Feature Request,4.7,3.6,True,False
+2025-12-01,Chat,EMEA,General Inquiry,6.4,4.5,True,False
+2024-04-02,Chat,LATAM,Account Access,3.5,4.6,True,False
+2025-12-16,Chat,LATAM,Account Access,4.0,4.6,True,False
+2025-03-05,Self-Service,APAC,Feature Request,0.5,3.0,False,False
+2025-07-02,Phone,APAC,Technical Issue,0.7,4.2,False,False
+2025-11-16,Self-Service,LATAM,Technical Issue,0.8,5.0,False,False
+2025-05-21,Phone,North America,Feature Request,1.8,3.7,True,False
+2024-08-02,Chat,EMEA,General Inquiry,2.2,4.4,True,False
+2024-11-20,Email,EMEA,Account Access,14.5,3.6,True,False
+2024-08-23,Chat,APAC,Feature Request,3.0,4.0,True,False
+2024-05-01,Phone,EMEA,Feature Request,2.4,2.7,True,False
+2025-05-18,Chat,North America,Billing,5.3,4.9,False,False
+2024-01-11,Email,LATAM,Feature Request,19.5,4.2,True,False
+2025-11-18,Chat,LATAM,General Inquiry,5.2,4.5,True,False
+2025-12-07,Phone,APAC,Account Access,2.3,3.0,True,False
+2024-05-27,Phone,APAC,Billing,1.2,4.1,True,False
+2024-05-28,Phone,North America,General Inquiry,1.8,5.0,True,False
+2025-07-10,Email,EMEA,Feature Request,13.0,3.9,False,False
+2024-10-10,Phone,LATAM,Account Access,2.1,4.9,False,False
+2024-11-01,Phone,EMEA,Billing,2.0,4.0,True,False
+2024-02-13,Email,EMEA,Feature Request,21.1,4.3,False,False
+2025-10-13,Phone,APAC,Technical Issue,0.5,3.7,True,False
+2024-06-12,Chat,APAC,Feature Request,5.2,3.1,True,False
+2024-06-22,Chat,APAC,Feature Request,4.3,5.0,False,False
+2024-09-20,Email,North America,Billing,19.0,3.8,True,False
+2025-09-15,Email,EMEA,Feature Request,19.0,3.6,True,False
+2025-09-01,Phone,APAC,Technical Issue,2.6,4.7,True,False
+2024-11-10,Self-Service,North America,Billing,0.4,4.5,True,False
+2024-08-04,Chat,North America,Feature Request,4.1,4.8,True,False
+2025-11-22,Email,North America,Account Access,20.8,3.1,True,False
+2024-12-15,Email,North America,Account Access,19.2,3.9,False,False
+2025-10-08,Chat,EMEA,Billing,4.9,4.4,True,False
+2025-11-28,Email,North America,Feature Request,10.1,3.3,True,False
+2025-04-12,Self-Service,LATAM,Technical Issue,0.8,3.8,False,False
+2024-02-04,Email,APAC,Billing,17.5,3.4,False,False
+2024-04-23,Email,EMEA,Technical Issue,13.5,4.8,True,False
+2024-01-31,Self-Service,EMEA,Billing,0.4,4.8,True,False
+2024-10-12,Email,APAC,General Inquiry,21.3,4.2,True,False
+2025-08-09,Chat,North America,Technical Issue,7.4,3.4,True,False
+2024-04-07,Phone,LATAM,Feature Request,2.1,4.5,False,False
+2025-01-09,Chat,EMEA,Billing,2.5,4.4,True,False
+2024-02-09,Self-Service,North America,General Inquiry,0.5,5.0,True,False
+2024-11-27,Self-Service,North America,Technical Issue,0.1,2.4,False,False
+2024-12-12,Chat,North America,Technical Issue,2.6,4.1,True,False
+2024-07-24,Email,APAC,Billing,23.8,3.6,True,False
+2024-07-11,Chat,EMEA,General Inquiry,3.4,4.6,False,False
+2025-07-23,Email,LATAM,Account Access,9.7,2.9,True,False
+2025-03-24,Email,EMEA,Feature Request,32.2,3.1,True,False
+2024-03-14,Phone,EMEA,Technical Issue,2.6,4.0,True,False
+2024-05-16,Email,EMEA,Account Access,19.8,3.9,True,False
+2025-11-19,Chat,EMEA,Technical Issue,5.2,4.7,True,False
+2024-11-21,Chat,EMEA,Account Access,2.8,4.4,True,False
+2024-11-09,Self-Service,LATAM,Billing,0.6,4.2,True,False
+2025-06-06,Self-Service,North America,Technical Issue,0.4,5.0,False,False
+2025-04-27,Chat,North America,Technical Issue,2.5,4.1,True,False
+2024-01-18,Email,North America,Feature Request,30.2,3.9,False,False
+2024-03-05,Email,APAC,Feature Request,32.2,3.1,True,False
+2025-08-23,Phone,EMEA,Technical Issue,1.4,5.0,True,False
+2025-12-31,Phone,EMEA,Billing,1.6,4.7,True,False
+2025-03-07,Self-Service,LATAM,Account Access,0.4,4.2,True,False
+2025-09-13,Self-Service,EMEA,Technical Issue,0.2,4.3,False,False
+2024-11-17,Email,APAC,Feature Request,14.7,3.2,True,False
+2024-08-16,Self-Service,EMEA,General Inquiry,0.3,3.3,True,False
+2025-01-08,Email,EMEA,Technical Issue,7.1,3.8,True,False
+2024-09-16,Phone,EMEA,Feature Request,1.7,4.5,False,False
+2024-10-12,Self-Service,LATAM,General Inquiry,0.8,4.2,False,False
+2024-04-09,Chat,LATAM,General Inquiry,2.2,4.1,False,False
+2025-04-09,Phone,LATAM,Technical Issue,2.4,4.5,True,False
+2025-12-05,Email,North America,General Inquiry,20.6,4.2,False,False
+2024-08-19,Phone,North America,General Inquiry,3.0,3.0,False,False
+2025-11-04,Self-Service,EMEA,Account Access,0.3,3.2,True,False
+2024-08-10,Chat,LATAM,Billing,4.6,3.9,True,False
+2024-09-23,Chat,EMEA,Account Access,6.0,4.4,False,False
+2024-08-09,Chat,LATAM,Feature Request,2.3,4.0,True,False
+2025-07-07,Email,North America,General Inquiry,0.1,4.2,True,False
+2024-01-02,Chat,LATAM,General Inquiry,4.9,4.4,True,True
+2024-06-17,Self-Service,North America,Billing,0.7,3.2,False,False
+2024-01-28,Phone,APAC,Billing,2.5,5.0,True,False
+2024-02-14,Email,APAC,General Inquiry,13.9,3.7,True,False
+2025-03-08,Chat,EMEA,Technical Issue,5.4,4.4,False,False
+2024-09-06,Self-Service,APAC,Account Access,0.4,4.7,False,False
+2025-08-31,Chat,LATAM,Account Access,3.9,4.5,False,False
+2025-08-19,Phone,APAC,General Inquiry,2.6,3.6,True,False
+2025-05-25,Chat,APAC,Technical Issue,3.7,4.9,True,False
+2024-10-21,Chat,APAC,Account Access,5.3,4.1,True,False
+2025-08-05,Chat,LATAM,Billing,4.0,3.9,False,False
+2024-01-08,Self-Service,LATAM,Account Access,0.6,4.3,False,True
+2025-02-13,Chat,EMEA,Feature Request,1.4,3.2,False,False
+2025-08-08,Self-Service,North America,Account Access,0.5,3.2,True,False
+2025-05-29,Email,EMEA,Billing,19.0,3.1,False,False
+2024-02-16,Chat,North America,Billing,4.3,4.0,False,False
+2024-09-04,Chat,EMEA,Feature Request,4.7,4.5,False,False
+2024-02-25,Email,EMEA,Billing,23.2,3.9,True,False
+2025-09-09,Chat,North America,General Inquiry,4.4,5.0,True,False
+2025-09-26,Chat,EMEA,General Inquiry,2.5,3.5,True,False
+2025-12-10,Chat,EMEA,Feature Request,5.6,3.5,True,False
+2024-11-19,Email,LATAM,General Inquiry,11.6,4.0,True,False
+2025-05-07,Email,EMEA,Account Access,31.8,3.7,False,False
+2025-03-10,Chat,North America,Technical Issue,4.1,4.4,False,False
+2024-06-03,Email,EMEA,Technical Issue,32.1,3.3,True,False
+2024-08-23,Phone,North America,Account Access,0.9,4.3,True,False
+2024-04-21,Email,EMEA,Billing,13.3,4.9,True,False
+2024-09-18,Self-Service,APAC,Account Access,0.4,3.6,True,False
+2024-08-29,Chat,EMEA,Account Access,6.0,3.8,True,False
+2024-01-11,Chat,APAC,Technical Issue,5.4,5.0,True,False
+2025-11-29,Phone,EMEA,Billing,2.7,4.4,True,False
+2025-01-09,Chat,APAC,Technical Issue,3.0,4.2,False,False
+2024-12-15,Chat,LATAM,General Inquiry,5.8,3.9,False,False
+2025-12-22,Self-Service,APAC,Technical Issue,0.9,5.0,True,False
+2024-06-11,Email,APAC,Billing,8.3,3.6,False,False
+2025-04-03,Email,APAC,General Inquiry,14.8,2.9,False,False
+2024-03-06,Email,North America,Billing,14.7,4.7,False,False
+2025-04-29,Email,North America,Billing,18.2,4.5,False,False
+2024-10-18,Self-Service,North America,General Inquiry,0.5,4.7,False,False
+2025-11-10,Chat,APAC,General Inquiry,2.9,4.5,True,False
+2025-11-10,Email,EMEA,General Inquiry,12.9,3.4,True,False
+2025-08-11,Phone,EMEA,General Inquiry,1.8,3.8,True,False
+2025-01-09,Self-Service,EMEA,Feature Request,0.7,3.5,True,False
+2025-02-01,Chat,EMEA,Account Access,6.9,3.7,True,False
+2024-02-25,Email,EMEA,General Inquiry,19.4,3.8,False,False
+2024-10-07,Self-Service,North America,General Inquiry,0.5,3.0,False,False
+2024-04-18,Email,EMEA,Feature Request,8.5,4.1,True,False
+2024-10-24,Chat,North America,General Inquiry,2.9,2.7,False,False
+2025-12-21,Chat,EMEA,Technical Issue,5.3,5.0,True,False
+2024-04-19,Phone,APAC,Technical Issue,1.3,4.8,True,False
+2025-05-20,Chat,North America,Technical Issue,4.1,3.8,True,False
+2024-08-15,Chat,APAC,Technical Issue,3.9,4.7,False,False
+2025-10-25,Self-Service,EMEA,Technical Issue,0.6,2.7,False,False
+2025-12-03,Chat,North America,General Inquiry,2.5,4.0,True,False
+2025-10-23,Chat,North America,Billing,4.2,4.0,True,False
+2025-06-18,Email,North America,Feature Request,19.3,4.8,True,False
+2024-04-02,Chat,North America,Technical Issue,7.1,3.6,True,False
+2025-11-07,Phone,EMEA,Feature Request,0.9,3.5,False,False
+2024-11-09,Self-Service,LATAM,Account Access,0.3,3.0,False,False
+2024-09-22,Self-Service,EMEA,Technical Issue,0.5,3.9,True,False
+2024-02-17,Chat,APAC,General Inquiry,6.5,3.9,True,False
+2024-12-28,Phone,EMEA,Account Access,1.1,4.5,True,False
+2024-12-29,Self-Service,EMEA,Account Access,0.7,3.9,True,False
+2025-04-24,Chat,APAC,Account Access,4.7,3.9,False,False
+2025-09-24,Chat,APAC,Feature Request,0.1,4.0,False,False
+2024-01-21,Phone,APAC,Technical Issue,3.2,4.0,True,False
+2025-03-18,Chat,North America,Billing,4.0,4.2,True,False
+2024-06-20,Chat,LATAM,Account Access,2.5,4.3,False,False
+2025-01-27,Self-Service,APAC,General Inquiry,0.5,4.9,True,False
+2025-06-21,Self-Service,EMEA,Account Access,0.7,3.4,True,False
+2025-07-12,Chat,North America,General Inquiry,3.9,4.1,False,False
+2025-05-07,Self-Service,EMEA,Billing,0.6,3.2,False,False
+2024-06-26,Self-Service,APAC,Billing,0.4,3.7,True,False
+2024-05-15,Chat,North America,General Inquiry,5.5,4.3,True,False
+2024-08-16,Phone,LATAM,Billing,2.8,4.1,True,False
+2025-09-10,Phone,LATAM,Account Access,0.8,4.1,False,False
+2024-02-13,Chat,EMEA,Account Access,4.1,5.0,True,False
+2025-02-27,Chat,LATAM,Feature Request,5.9,4.9,True,False
+2025-09-12,Email,EMEA,Billing,9.5,3.8,True,False
+2025-07-25,Email,EMEA,Feature Request,18.9,4.6,False,False
+2025-02-07,Email,LATAM,Feature Request,20.3,2.8,True,False
+2025-05-16,Chat,North America,Feature Request,3.9,3.7,False,False
+2025-07-18,Self-Service,EMEA,General Inquiry,0.3,4.4,False,False
+2024-01-03,Self-Service,LATAM,Billing,0.9,4.0,True,False
+2025-11-21,Self-Service,North America,Billing,0.6,4.8,False,False
+2025-03-27,Self-Service,EMEA,Account Access,0.8,4.2,False,False
+2025-03-08,Self-Service,LATAM,Feature Request,0.5,3.6,True,False
+2024-02-19,Chat,North America,Account Access,3.8,4.9,True,False
+2024-12-12,Email,APAC,Billing,17.3,4.4,True,False
+2024-12-02,Email,North America,Technical Issue,8.2,3.9,False,False
+2024-06-10,Email,EMEA,General Inquiry,18.2,3.6,False,False
+2024-01-10,Email,APAC,General Inquiry,15.8,4.0,True,False
+2024-11-27,Self-Service,North America,Feature Request,0.5,4.0,True,False
+2024-03-26,Email,North America,Feature Request,0.1,3.6,False,False
+2025-11-27,Chat,LATAM,Billing,3.7,4.9,False,False
+2024-06-25,Self-Service,APAC,General Inquiry,0.8,5.0,True,False
+2025-09-30,Chat,LATAM,Account Access,6.0,5.0,False,False
+2025-10-03,Chat,EMEA,Account Access,6.0,2.1,False,False
+2025-09-22,Email,LATAM,General Inquiry,27.5,3.7,True,False
+2024-09-20,Self-Service,North America,General Inquiry,0.7,2.8,True,False
+2024-07-11,Phone,North America,Account Access,1.9,5.0,True,False
+2024-01-05,Phone,APAC,Feature Request,0.5,4.4,True,False
+2025-01-10,Chat,LATAM,Feature Request,4.1,4.7,False,False
+2024-05-19,Chat,APAC,Feature Request,5.0,2.8,False,False
+2025-09-09,Phone,North America,Billing,0.9,4.4,True,False
+2024-01-03,Email,LATAM,General Inquiry,25.0,3.6,True,False
+2025-01-26,Chat,APAC,Technical Issue,4.0,4.5,False,False
+2024-03-03,Phone,North America,Feature Request,1.0,3.2,True,False
+2025-07-21,Chat,APAC,General Inquiry,5.8,4.2,False,False
+2025-08-03,Self-Service,North America,Billing,0.3,3.8,True,False
+2024-09-15,Email,LATAM,Account Access,25.7,3.2,True,False
+2025-02-23,Self-Service,EMEA,Technical Issue,0.3,3.0,True,False
+2024-09-07,Email,APAC,Technical Issue,18.8,4.2,False,False
+2024-12-11,Phone,North America,Technical Issue,1.2,4.7,True,False
+2024-12-28,Chat,LATAM,Technical Issue,2.7,4.5,True,False
+2024-08-22,Email,LATAM,General Inquiry,2.4,2.6,True,False
+2025-06-22,Email,LATAM,Billing,18.6,4.5,False,False
+2025-04-19,Email,EMEA,Account Access,22.9,4.2,True,False
+2025-04-06,Email,APAC,Account Access,16.7,2.0,True,False
+2024-09-27,Self-Service,APAC,Billing,0.3,4.3,False,False
+2024-06-25,Self-Service,APAC,Account Access,0.8,3.9,True,False
+2025-05-10,Chat,EMEA,Account Access,5.1,2.5,True,False
+2024-10-27,Phone,EMEA,Account Access,2.0,3.7,True,False
+2025-07-20,Chat,APAC,Feature Request,4.4,4.2,False,False
+2025-11-25,Email,EMEA,Feature Request,23.8,4.7,True,False
+2024-02-06,Phone,North America,Account Access,3.2,5.0,True,False
+2025-07-04,Email,EMEA,Billing,17.5,3.3,False,False
+2025-12-20,Chat,North America,Technical Issue,3.6,4.9,False,False
+2025-06-03,Email,EMEA,General Inquiry,0.1,4.9,False,False
+2024-06-27,Email,North America,Feature Request,25.9,2.8,True,False
+2025-10-19,Phone,LATAM,Feature Request,2.2,4.9,False,False
+2024-05-23,Chat,LATAM,Technical Issue,6.7,4.1,True,False
+2024-10-16,Self-Service,EMEA,Feature Request,0.5,4.1,True,False
+2025-01-21,Self-Service,North America,General Inquiry,0.6,3.7,True,True
+2024-08-07,Phone,LATAM,Technical Issue,2.0,4.0,True,False
+2024-05-19,Phone,North America,Technical Issue,0.5,4.0,False,False
+2024-04-11,Email,LATAM,Account Access,21.6,3.9,True,False
+2024-09-30,Phone,North America,Account Access,1.8,3.6,False,False
+2025-04-20,Chat,EMEA,Account Access,5.2,5.0,True,False
+2025-07-01,Email,North America,Billing,19.2,3.8,False,False
+2024-07-12,Phone,APAC,Billing,1.4,4.4,True,False
+2024-03-05,Chat,North America,Feature Request,4.2,4.3,False,False
+2025-08-07,Self-Service,APAC,General Inquiry,0.2,4.5,True,False
+2024-06-22,Phone,APAC,Feature Request,2.6,4.9,True,False
+2025-03-15,Chat,EMEA,Feature Request,2.1,4.8,True,False
+2024-05-08,Phone,LATAM,Feature Request,1.5,3.9,True,False
+2024-02-20,Self-Service,APAC,Feature Request,0.7,4.0,False,False
+2025-06-08,Email,North America,Feature Request,25.1,3.8,True,True
+2025-04-30,Phone,APAC,Feature Request,1.1,5.0,True,False
+2025-11-15,Self-Service,APAC,Feature Request,0.3,2.6,False,False
+2025-08-10,Self-Service,North America,Technical Issue,0.4,3.6,True,False
+2024-03-31,Chat,LATAM,General Inquiry,4.9,5.0,True,False
+2024-04-11,Email,EMEA,General Inquiry,8.5,3.9,False,False
+2024-06-15,Email,APAC,Technical Issue,11.9,3.8,True,False
+2025-11-16,Email,North America,Feature Request,10.9,3.2,True,False
+2025-07-03,Chat,LATAM,General Inquiry,5.8,3.5,False,False
+2025-07-10,Email,LATAM,Account Access,20.0,3.9,True,False
+2024-11-05,Email,North America,General Inquiry,20.6,4.7,True,False
+2025-07-25,Chat,APAC,Billing,1.1,3.2,False,False
+2024-11-23,Chat,LATAM,Billing,4.0,3.7,False,False
+2025-08-30,Phone,North America,Technical Issue,2.8,4.8,True,False
+2024-05-12,Email,North America,Technical Issue,15.4,3.3,True,False
+2024-03-03,Chat,North America,Billing,1.7,3.8,False,False
+2024-11-13,Chat,APAC,Account Access,4.8,4.6,False,False
+2024-04-14,Chat,LATAM,General Inquiry,3.4,3.8,False,False
+2024-10-03,Self-Service,EMEA,Billing,0.3,3.2,False,False
+2024-05-27,Phone,EMEA,Account Access,1.5,5.0,True,False
+2024-05-18,Phone,North America,Technical Issue,1.5,2.9,True,False
+2025-06-13,Self-Service,LATAM,General Inquiry,0.4,4.2,True,False
+2025-12-23,Email,APAC,General Inquiry,20.5,2.5,False,False
+2024-08-01,Chat,EMEA,Account Access,5.2,4.7,True,False
+2024-04-18,Chat,EMEA,Technical Issue,0.7,4.5,True,False
+2024-12-13,Chat,EMEA,Feature Request,1.5,4.7,True,False
+2024-04-15,Email,EMEA,General Inquiry,12.4,4.8,True,False
+2024-05-21,Chat,North America,Feature Request,5.7,3.6,False,False
+2024-12-05,Chat,LATAM,Feature Request,2.7,3.5,True,False
+2025-10-17,Email,LATAM,Account Access,28.6,3.4,False,True
+2024-05-12,Email,LATAM,Feature Request,10.8,3.8,False,True
+2024-12-31,Chat,APAC,General Inquiry,3.5,3.4,True,False
+2024-05-27,Phone,APAC,General Inquiry,1.2,5.0,True,False
+2025-09-30,Phone,APAC,Billing,1.0,4.0,True,False
+2024-04-03,Chat,APAC,Billing,6.1,4.2,True,False
+2024-05-05,Chat,North America,Billing,4.6,3.7,True,False
+2025-01-12,Phone,EMEA,General Inquiry,3.4,3.7,False,False
+2024-07-25,Chat,APAC,General Inquiry,4.5,4.6,True,False
+2025-08-20,Chat,APAC,Billing,2.8,4.1,True,False
+2025-06-18,Chat,APAC,Billing,1.9,5.0,False,False
+2024-09-28,Email,APAC,Technical Issue,13.9,3.5,False,False
+2024-09-24,Chat,APAC,Billing,4.8,4.5,False,False
+2025-06-17,Self-Service,North America,Account Access,0.5,4.8,False,False
+2025-12-29,Phone,EMEA,Feature Request,1.5,5.0,False,False
+2024-09-23,Phone,EMEA,Technical Issue,3.0,4.5,True,False
+2025-10-18,Email,EMEA,General Inquiry,23.2,3.1,False,False
+2025-08-12,Phone,EMEA,General Inquiry,2.4,4.2,True,False
+2024-03-26,Chat,APAC,Billing,2.3,3.9,True,False
+2024-10-09,Chat,LATAM,Technical Issue,7.2,3.8,True,False
+2024-04-05,Self-Service,EMEA,Account Access,0.6,3.5,True,False
+2025-06-01,Chat,North America,Account Access,4.7,3.6,True,False
+2025-08-25,Phone,APAC,General Inquiry,0.9,5.0,True,False
+2024-06-21,Self-Service,APAC,Technical Issue,0.9,3.5,True,False
+2024-03-28,Self-Service,APAC,General Inquiry,0.5,3.5,True,False
+2024-06-09,Email,EMEA,Technical Issue,7.8,4.1,True,False
+2024-01-11,Chat,LATAM,Technical Issue,3.9,3.5,True,False
+2024-05-20,Email,APAC,Technical Issue,29.7,3.2,False,False
+2024-06-09,Email,LATAM,Feature Request,19.1,4.1,False,False
+2024-12-21,Chat,North America,Billing,10.1,4.7,False,False
+2025-06-02,Email,APAC,Technical Issue,6.0,4.7,True,False
+2025-04-12,Email,LATAM,Billing,28.6,4.1,False,False
+2025-01-30,Chat,APAC,Technical Issue,3.8,4.2,False,False
+2025-11-27,Self-Service,North America,Billing,0.6,5.0,False,False
+2024-12-18,Email,APAC,Account Access,18.5,3.8,True,False
+2024-06-13,Email,LATAM,Billing,19.4,4.3,False,False
+2025-04-30,Self-Service,North America,General Inquiry,0.6,4.6,True,False
+2025-06-13,Phone,EMEA,Technical Issue,2.2,4.3,False,False
+2024-01-09,Self-Service,LATAM,Account Access,0.4,3.5,False,False
+2024-07-25,Phone,LATAM,Feature Request,0.6,4.9,True,False
+2024-01-07,Self-Service,EMEA,Account Access,0.5,3.7,False,False
+2024-08-08,Chat,LATAM,General Inquiry,3.2,3.2,True,False
+2024-02-02,Phone,EMEA,Technical Issue,1.9,4.8,False,False
+2025-06-19,Phone,EMEA,Account Access,3.0,3.8,True,False
+2025-06-04,Phone,North America,Billing,2.1,5.0,True,False
+2024-12-25,Phone,EMEA,Billing,2.0,3.9,True,False
+2024-04-11,Email,APAC,Feature Request,15.8,2.5,False,False
+2025-12-26,Chat,North America,General Inquiry,2.4,4.5,False,False
+2024-04-11,Phone,North America,Billing,2.1,3.8,True,False
+2025-08-13,Chat,LATAM,Account Access,5.4,4.3,True,False
+2025-02-19,Email,APAC,Account Access,12.9,4.6,True,False
+2024-04-13,Self-Service,North America,Feature Request,0.8,4.5,False,False
+2024-02-10,Chat,EMEA,General Inquiry,5.5,4.1,False,False
+2025-09-26,Phone,North America,General Inquiry,2.6,4.8,True,False
+2025-02-24,Chat,LATAM,Account Access,3.6,4.1,True,False
+2025-08-03,Chat,EMEA,Feature Request,1.2,2.2,True,False
+2025-10-05,Email,EMEA,General Inquiry,21.0,3.0,True,False
+2025-04-09,Phone,EMEA,Billing,2.2,4.7,True,False
+2024-08-30,Phone,LATAM,Billing,2.3,5.0,True,False
+2024-12-12,Chat,APAC,Technical Issue,6.1,4.3,True,False
+2025-07-30,Phone,North America,Technical Issue,0.5,4.1,True,False
+2025-02-20,Phone,EMEA,Technical Issue,2.0,5.0,True,False
+2025-06-21,Phone,EMEA,Technical Issue,2.7,3.9,True,False
+2024-12-13,Chat,APAC,Feature Request,2.0,5.0,False,False
+2024-09-09,Chat,EMEA,Technical Issue,3.3,3.7,True,False
+2024-04-18,Self-Service,APAC,Billing,0.3,4.6,True,False
+2025-05-10,Phone,North America,Account Access,1.4,4.6,True,False
+2024-01-16,Email,LATAM,Account Access,12.7,3.7,False,False
+2025-03-30,Phone,LATAM,Account Access,3.1,3.8,True,False
+2025-04-21,Email,APAC,General Inquiry,28.6,5.0,False,False
+2025-06-28,Self-Service,LATAM,Feature Request,0.6,3.4,False,False
+2024-12-26,Phone,EMEA,Feature Request,1.3,3.2,True,False
+2024-03-03,Self-Service,North America,Technical Issue,0.5,4.1,False,False
+2025-01-29,Chat,APAC,General Inquiry,3.4,4.1,False,False
+2025-12-05,Self-Service,LATAM,Account Access,0.3,3.0,True,False
+2024-12-09,Email,North America,Technical Issue,5.6,3.7,True,False
+2024-08-19,Email,APAC,Account Access,8.2,3.3,False,False
+2024-04-25,Self-Service,North America,Billing,0.6,3.8,True,False
+2024-03-07,Chat,LATAM,Account Access,3.9,4.3,True,False
+2025-12-20,Phone,North America,Technical Issue,0.8,5.0,True,False
+2025-09-09,Chat,LATAM,Technical Issue,4.9,5.0,True,False
+2024-09-01,Chat,EMEA,Billing,3.8,3.0,True,False
+2025-10-25,Chat,APAC,General Inquiry,4.9,3.2,False,False
+2025-02-01,Self-Service,EMEA,Technical Issue,0.8,3.3,True,False
+2024-05-14,Self-Service,LATAM,Feature Request,1.1,4.1,False,False
+2025-04-28,Email,North America,General Inquiry,23.7,4.4,False,False
+2024-11-02,Chat,LATAM,Account Access,2.0,3.9,False,False
+2024-10-17,Chat,LATAM,Technical Issue,3.5,5.0,True,False
+2024-03-10,Email,LATAM,Billing,27.1,2.9,True,False
+2024-10-20,Self-Service,LATAM,Feature Request,0.6,3.5,True,False
+2025-07-20,Self-Service,LATAM,Technical Issue,0.5,3.0,True,False
+2025-10-17,Phone,North America,Technical Issue,2.8,3.3,True,False
+2024-02-06,Self-Service,LATAM,Feature Request,0.5,5.0,False,False
+2024-07-23,Phone,EMEA,General Inquiry,2.3,5.0,True,False
+2025-10-17,Phone,LATAM,Account Access,1.8,4.0,True,False
+2024-06-17,Chat,LATAM,Billing,2.9,4.7,True,False
+2025-04-05,Self-Service,North America,Account Access,0.5,4.0,True,False
+2025-01-31,Chat,North America,Feature Request,5.0,3.6,False,False
+2024-05-29,Chat,EMEA,Billing,2.8,4.4,False,False
+2025-10-05,Phone,LATAM,Feature Request,2.8,5.0,True,False
+2025-03-17,Email,North America,Account Access,21.2,3.0,False,False
+2025-02-21,Self-Service,LATAM,Technical Issue,0.2,4.3,True,True
+2024-03-25,Email,North America,General Inquiry,5.9,3.3,False,False
+2024-10-10,Chat,North America,Technical Issue,4.5,3.8,False,False
+2024-07-25,Email,APAC,General Inquiry,17.2,3.9,False,False
+2024-02-16,Phone,LATAM,Account Access,1.4,5.0,True,False
+2024-04-18,Chat,EMEA,Account Access,1.2,4.8,True,False
+2024-08-27,Email,LATAM,Billing,23.4,4.4,False,False
+2025-12-25,Chat,APAC,Billing,4.1,4.0,True,False
+2025-05-24,Phone,EMEA,Billing,2.2,4.0,True,False
+2024-03-06,Self-Service,EMEA,Technical Issue,0.7,4.1,False,False
+2024-04-30,Email,APAC,General Inquiry,32.3,3.6,True,False
+2025-08-09,Chat,APAC,Billing,7.2,3.6,False,False
+2024-01-04,Self-Service,LATAM,Account Access,0.7,3.7,False,False
+2025-04-06,Phone,LATAM,Technical Issue,3.6,4.3,True,False
+2025-11-22,Chat,North America,Billing,4.5,4.0,True,False
+2024-08-01,Email,North America,Account Access,25.4,3.0,False,False
+2024-05-12,Email,North America,Billing,12.9,3.9,True,False
+2024-05-31,Chat,EMEA,Billing,4.0,3.2,True,False
+2024-06-01,Chat,North America,General Inquiry,3.2,4.6,False,False
+2025-01-31,Email,APAC,Billing,7.8,4.1,False,False
+2024-09-08,Phone,LATAM,Feature Request,2.2,4.9,True,False
+2025-06-28,Self-Service,APAC,Feature Request,0.9,4.1,False,False
+2025-08-17,Email,North America,Account Access,9.2,4.0,False,False
+2024-09-01,Chat,North America,Feature Request,2.4,4.5,False,False
+2025-04-18,Self-Service,North America,Billing,0.4,3.6,False,False
+2024-12-12,Email,North America,General Inquiry,25.2,4.5,False,False
+2024-04-29,Self-Service,North America,Technical Issue,0.5,4.2,False,True
+2024-11-26,Phone,APAC,Account Access,4.1,3.9,True,False
+2024-12-27,Self-Service,LATAM,Account Access,0.6,4.2,True,False
+2024-02-22,Chat,LATAM,Billing,0.6,3.7,False,False
+2025-03-23,Email,LATAM,Technical Issue,16.9,4.0,True,True
+2024-12-21,Phone,EMEA,Technical Issue,1.7,4.3,True,False
+2024-07-10,Self-Service,EMEA,Account Access,0.1,4.4,True,False
+2024-11-23,Email,North America,General Inquiry,13.6,3.5,True,False
+2024-03-11,Phone,APAC,Account Access,2.8,4.2,True,False
+2025-04-18,Email,North America,Account Access,14.2,4.4,True,False
+2025-08-23,Chat,LATAM,Technical Issue,5.1,5.0,False,False
+2025-05-05,Phone,APAC,General Inquiry,1.2,3.8,True,False
+2025-01-24,Phone,APAC,Technical Issue,1.2,5.0,True,True
+2025-09-28,Chat,LATAM,General Inquiry,3.1,4.7,False,False
+2024-06-28,Phone,North America,Billing,2.0,4.6,False,False
+2024-05-17,Chat,North America,Account Access,3.3,3.6,False,False
+2024-02-01,Chat,APAC,Billing,4.2,4.0,False,False
+2025-05-05,Chat,North America,Account Access,4.0,4.1,False,False
+2024-02-12,Phone,APAC,Technical Issue,2.6,4.0,True,False
+2025-02-15,Email,EMEA,Billing,20.1,3.7,False,False
+2025-05-26,Phone,APAC,Account Access,2.7,4.3,True,False
+2024-04-08,Chat,EMEA,Technical Issue,3.9,4.5,True,False
+2024-02-02,Self-Service,EMEA,General Inquiry,0.3,4.2,True,False
+2025-08-02,Email,North America,General Inquiry,21.8,2.5,True,False
+2025-06-22,Chat,EMEA,Technical Issue,4.3,5.0,True,False
+2024-07-27,Email,North America,Feature Request,27.4,3.8,False,False
+2024-07-06,Phone,EMEA,General Inquiry,2.4,4.6,True,False
+2024-03-24,Email,APAC,Billing,28.1,3.3,False,False
+2024-07-29,Self-Service,North America,General Inquiry,0.6,4.7,False,False
+2024-12-24,Phone,APAC,Account Access,3.0,5.0,True,False
+2025-09-19,Chat,LATAM,Feature Request,3.8,5.0,True,False
+2024-02-09,Chat,EMEA,Account Access,5.0,3.5,False,False
+2024-11-13,Self-Service,APAC,Billing,0.6,2.9,False,False
+2024-06-22,Phone,North America,Account Access,3.2,4.6,True,False
+2025-04-08,Phone,North America,Account Access,1.3,3.4,True,False
+2025-02-28,Chat,APAC,Technical Issue,4.6,5.0,False,False
+2024-09-09,Self-Service,LATAM,Billing,0.6,5.0,False,False
+2024-05-27,Phone,LATAM,Billing,2.2,4.7,True,False
+2025-07-31,Email,APAC,Feature Request,26.6,3.5,False,False
+2025-10-02,Email,EMEA,Technical Issue,12.6,4.7,True,False
+2024-12-27,Phone,EMEA,Feature Request,0.2,4.4,True,False
+2024-01-04,Chat,North America,Billing,4.3,3.7,False,False
+2024-01-02,Phone,EMEA,Billing,1.8,2.7,True,False
+2025-11-23,Chat,North America,Billing,4.6,4.4,True,False
+2024-09-19,Chat,North America,Account Access,8.7,5.0,True,False
+2024-04-29,Phone,LATAM,Billing,0.9,4.5,True,False
+2024-06-06,Chat,APAC,Feature Request,2.8,3.9,True,False
+2024-09-29,Phone,North America,Technical Issue,1.3,5.0,True,False
+2025-06-08,Self-Service,North America,Technical Issue,0.9,4.9,False,False
+2024-02-20,Self-Service,North America,Billing,0.9,5.0,False,False
+2024-12-13,Phone,APAC,Feature Request,0.1,3.0,True,False
+2024-04-24,Email,North America,Technical Issue,15.8,3.8,True,False
+2024-10-24,Email,APAC,Technical Issue,23.2,3.7,False,False
+2024-07-30,Chat,APAC,Billing,0.4,5.0,True,False
+2024-02-04,Phone,APAC,General Inquiry,3.3,4.7,False,False
+2025-04-27,Phone,APAC,Technical Issue,2.6,4.1,True,False
+2025-11-23,Phone,EMEA,General Inquiry,0.4,4.6,True,False
+2024-03-08,Chat,APAC,Technical Issue,0.8,4.1,True,False
+2024-08-10,Chat,LATAM,Billing,5.4,3.3,True,False
+2024-09-06,Email,APAC,Account Access,13.9,4.8,True,False
+2024-03-02,Email,EMEA,Feature Request,4.0,4.2,True,False
+2024-04-10,Phone,EMEA,Billing,0.4,4.0,True,False
+2024-02-22,Chat,EMEA,Technical Issue,7.6,5.0,True,False
+2025-02-17,Chat,North America,Billing,2.3,4.2,False,False
+2024-04-15,Chat,EMEA,Account Access,2.8,3.1,False,False
+2024-09-30,Chat,EMEA,General Inquiry,4.3,4.4,False,False
+2025-04-06,Chat,EMEA,Billing,3.2,4.3,False,False
+2024-07-22,Email,EMEA,Account Access,9.6,3.6,True,False
+2024-06-15,Phone,LATAM,Technical Issue,1.3,3.9,True,False
+2025-07-25,Chat,LATAM,Technical Issue,2.1,4.1,True,False
+2024-10-11,Email,North America,Feature Request,15.8,4.7,False,False
+2025-01-02,Self-Service,APAC,Account Access,0.6,4.8,True,False
+2025-10-30,Self-Service,North America,Technical Issue,0.5,3.3,False,False
+2024-10-28,Chat,APAC,Feature Request,4.5,3.5,False,False
+2025-11-21,Email,LATAM,Billing,18.8,3.6,True,False
+2025-12-15,Chat,APAC,Account Access,3.5,3.5,True,True
+2025-05-15,Phone,EMEA,Feature Request,1.5,4.6,True,False
+2025-01-22,Phone,EMEA,General Inquiry,3.2,4.9,True,False
+2024-02-29,Email,APAC,Account Access,32.7,3.5,True,False
+2024-01-15,Chat,LATAM,Billing,4.0,3.4,True,False
+2025-09-16,Chat,LATAM,Billing,5.6,4.5,False,False
+2024-06-17,Self-Service,North America,Billing,0.4,3.3,True,False
+2025-10-01,Phone,LATAM,Account Access,2.8,4.1,True,False
+2024-10-03,Email,EMEA,Billing,27.9,2.9,True,True
+2025-08-23,Self-Service,LATAM,Billing,0.2,4.6,True,False
+2024-10-01,Phone,EMEA,Account Access,0.5,3.5,True,False
+2025-01-04,Self-Service,EMEA,Technical Issue,0.4,3.4,True,False
+2024-11-24,Chat,North America,Technical Issue,4.5,5.0,False,True
+2025-04-07,Chat,LATAM,Technical Issue,4.0,3.7,True,False
+2024-07-15,Chat,APAC,General Inquiry,3.2,5.0,False,False
+2025-07-30,Self-Service,North America,Account Access,0.4,4.3,True,False
+2024-03-13,Chat,APAC,Feature Request,6.5,3.7,False,False
+2025-03-10,Phone,LATAM,General Inquiry,1.9,3.4,True,False
+2025-12-21,Chat,EMEA,General Inquiry,4.7,4.5,False,False
+2025-10-27,Phone,APAC,Billing,1.8,3.3,True,False
+2025-12-01,Phone,EMEA,General Inquiry,1.7,3.9,True,True
+2025-01-11,Chat,LATAM,Technical Issue,6.5,4.1,False,False
+2024-08-02,Chat,APAC,Feature Request,3.7,5.0,False,False
+2024-05-03,Chat,LATAM,Account Access,4.4,4.0,False,False
+2025-12-17,Chat,LATAM,Feature Request,4.2,3.4,True,False
+2024-02-03,Self-Service,LATAM,General Inquiry,0.6,3.2,True,False
+2025-10-09,Chat,EMEA,Technical Issue,3.9,4.2,False,False
+2025-02-19,Email,APAC,Account Access,23.6,4.7,False,False
+2024-02-09,Chat,North America,Feature Request,5.7,3.7,False,False
+2024-04-14,Phone,North America,Billing,1.5,3.7,True,False
+2025-09-03,Self-Service,APAC,Account Access,0.9,2.5,False,False
+2024-07-19,Phone,LATAM,Technical Issue,1.0,3.5,False,False
+2024-09-22,Chat,North America,Technical Issue,5.1,3.5,True,False
+2025-12-03,Chat,North America,Account Access,3.1,3.9,True,False
+2025-07-12,Email,APAC,General Inquiry,24.6,3.6,False,False
+2025-05-10,Email,LATAM,Technical Issue,11.8,3.6,False,False
+2025-09-15,Self-Service,APAC,Billing,1.1,5.0,True,False
+2024-03-05,Self-Service,North America,Billing,0.4,3.8,True,False
+2024-02-10,Self-Service,LATAM,Feature Request,1.0,3.1,False,False
+2025-09-23,Phone,North America,General Inquiry,1.5,4.6,False,False
+2024-08-31,Chat,EMEA,General Inquiry,1.9,5.0,False,False
+2025-02-01,Phone,LATAM,Technical Issue,2.4,4.8,True,False
+2025-09-25,Chat,EMEA,Billing,5.5,3.7,True,False
+2025-12-15,Self-Service,LATAM,Feature Request,0.5,3.6,True,False
+2025-11-22,Email,EMEA,Billing,14.4,2.0,True,False
+2024-01-28,Self-Service,North America,Billing,0.6,4.5,False,False
+2024-05-17,Chat,APAC,Billing,5.5,5.0,False,True
+2025-10-02,Chat,North America,Technical Issue,4.4,3.9,True,False
+2025-07-11,Email,EMEA,Feature Request,11.1,4.3,True,False
+2024-05-10,Chat,APAC,Feature Request,5.2,4.3,True,False
+2024-12-21,Self-Service,EMEA,General Inquiry,0.8,3.1,True,False
+2024-03-06,Chat,APAC,General Inquiry,2.0,4.6,True,False
+2025-02-28,Chat,APAC,Account Access,1.9,2.6,True,False
+2024-05-21,Phone,LATAM,Technical Issue,2.1,4.7,True,False
+2025-01-20,Chat,EMEA,General Inquiry,4.7,4.7,False,False
+2024-09-21,Chat,North America,Billing,7.3,3.7,True,False
+2025-07-23,Self-Service,APAC,Billing,0.8,4.0,True,False
+2024-07-03,Chat,EMEA,General Inquiry,4.1,5.0,True,False
+2024-03-10,Chat,EMEA,General Inquiry,1.5,4.5,False,False
+2024-10-10,Phone,LATAM,Feature Request,1.5,5.0,True,False
+2025-10-18,Chat,North America,Billing,4.5,4.3,True,False
+2025-05-10,Email,LATAM,Feature Request,8.3,4.3,True,False
+2024-08-24,Chat,North America,Billing,5.4,3.9,True,False
+2024-11-18,Chat,LATAM,Account Access,3.4,4.7,True,False
+2024-04-21,Phone,EMEA,Billing,3.0,3.7,True,False
+2025-08-31,Self-Service,EMEA,Technical Issue,0.3,5.0,True,False
+2024-05-15,Phone,EMEA,Technical Issue,1.6,3.7,True,False
+2025-09-15,Phone,EMEA,General Inquiry,2.6,4.0,True,False
+2025-11-24,Self-Service,APAC,Account Access,0.4,3.1,True,False
+2025-10-02,Phone,LATAM,Feature Request,2.7,4.3,False,False
+2024-03-15,Phone,EMEA,Technical Issue,1.9,5.0,False,False
+2025-12-03,Chat,LATAM,General Inquiry,1.2,4.8,False,False
+2024-06-23,Chat,North America,General Inquiry,4.1,5.0,True,False
+2025-09-09,Chat,APAC,Billing,5.9,3.0,False,False
+2024-01-09,Chat,APAC,Billing,2.1,2.9,True,False
+2025-01-21,Self-Service,LATAM,Billing,0.8,4.2,True,False
+2025-08-20,Self-Service,LATAM,Feature Request,0.6,3.5,True,False
+2024-10-23,Email,LATAM,Feature Request,18.2,3.9,False,False
+2024-05-30,Email,North America,General Inquiry,15.5,3.9,True,False
+2024-05-25,Phone,North America,Account Access,3.0,4.6,True,False
+2024-03-07,Phone,North America,Account Access,1.9,5.0,True,False
+2024-07-15,Chat,EMEA,Account Access,5.9,4.4,True,False
+2024-04-14,Email,LATAM,Billing,24.7,4.6,True,False
+2025-09-28,Self-Service,LATAM,Account Access,0.6,4.7,False,False
+2025-01-18,Email,EMEA,Account Access,15.4,4.2,False,False
+2024-12-21,Self-Service,APAC,Account Access,0.3,3.3,True,False
+2025-08-21,Email,LATAM,Feature Request,11.3,4.0,True,False
+2025-10-17,Email,North America,Technical Issue,21.3,4.3,False,False
+2024-10-25,Email,APAC,Account Access,9.5,3.5,True,False
+2024-06-20,Chat,APAC,Feature Request,6.3,3.7,True,False
+2025-12-03,Chat,North America,General Inquiry,4.4,4.3,True,False
+2024-04-11,Phone,LATAM,Feature Request,2.2,4.9,True,False
+2024-05-15,Phone,LATAM,Feature Request,2.6,4.7,True,True
+2024-06-17,Chat,EMEA,Feature Request,1.6,3.5,True,False
+2025-12-07,Self-Service,APAC,Account Access,0.8,3.5,False,False
+2024-03-30,Chat,LATAM,Billing,1.8,4.4,True,False
+2024-02-25,Chat,APAC,Billing,3.1,5.0,True,False
+2024-03-28,Chat,EMEA,General Inquiry,5.4,4.1,False,False
+2024-09-22,Email,APAC,Technical Issue,24.0,2.9,True,False
+2024-09-22,Chat,EMEA,Feature Request,4.0,4.1,False,False
+2025-04-22,Phone,APAC,General Inquiry,3.2,4.4,True,False
+2025-03-02,Self-Service,LATAM,Technical Issue,0.5,4.7,True,False
+2025-10-09,Chat,North America,Technical Issue,5.9,5.0,True,False
+2024-03-03,Chat,LATAM,General Inquiry,5.5,4.3,False,False
+2025-09-06,Phone,North America,Feature Request,0.6,5.0,True,False
+2025-05-05,Phone,EMEA,General Inquiry,2.5,4.1,True,False
+2025-01-01,Chat,North America,Technical Issue,5.0,2.8,False,False
+2025-10-16,Email,LATAM,Technical Issue,13.8,4.2,True,False
+2024-01-10,Chat,EMEA,Account Access,5.9,4.1,True,False
+2024-04-16,Self-Service,LATAM,Feature Request,0.6,3.6,True,False
+2025-03-06,Chat,North America,Billing,4.6,4.5,True,False
+2024-03-18,Self-Service,North America,Billing,0.8,4.3,False,False
+2024-10-24,Chat,APAC,Technical Issue,6.8,4.6,True,False
+2025-09-19,Chat,LATAM,Billing,4.9,3.2,False,False
+2025-08-25,Phone,LATAM,Feature Request,2.0,3.5,True,False
+2025-08-09,Email,APAC,Technical Issue,21.6,4.1,True,False
+2024-12-13,Email,North America,Account Access,18.2,4.0,False,False
+2025-10-26,Chat,EMEA,Billing,6.4,3.7,False,False
+2025-08-04,Chat,APAC,General Inquiry,4.4,5.0,True,False
+2025-04-22,Email,EMEA,Technical Issue,14.7,4.6,True,False
+2024-05-15,Chat,North America,General Inquiry,5.6,3.4,True,False
+2024-06-09,Self-Service,LATAM,Account Access,0.6,3.7,True,False
+2025-08-27,Email,APAC,Account Access,12.5,3.8,True,False
+2025-08-28,Chat,LATAM,Feature Request,1.8,3.7,True,False
+2025-06-06,Self-Service,LATAM,Technical Issue,0.5,4.0,True,False
+2025-02-01,Self-Service,North America,Account Access,0.5,5.0,False,False
+2025-02-04,Email,North America,Feature Request,6.4,4.8,False,False
+2025-11-30,Email,EMEA,General Inquiry,11.2,4.1,True,False
+2024-03-07,Self-Service,EMEA,Feature Request,0.1,3.4,True,False
+2024-05-06,Chat,EMEA,Feature Request,1.8,3.6,False,False
+2024-09-12,Self-Service,North America,Technical Issue,0.7,3.3,True,False
+2025-04-20,Chat,North America,Technical Issue,4.4,5.0,True,True
+2025-04-21,Chat,EMEA,Account Access,3.3,3.1,True,False
+2024-05-13,Email,LATAM,Account Access,8.9,2.9,False,True
+2024-01-21,Chat,LATAM,Billing,3.9,4.3,True,False
+2025-09-28,Phone,EMEA,Billing,2.8,3.7,True,False
+2025-05-14,Phone,LATAM,Billing,1.4,4.9,True,False
+2024-07-10,Self-Service,APAC,Technical Issue,0.6,3.9,False,False
+2024-11-17,Chat,EMEA,Billing,3.8,3.8,False,False
+2024-09-05,Email,LATAM,Technical Issue,14.3,3.7,True,False
+2025-11-13,Self-Service,LATAM,Billing,0.6,4.5,False,False
+2024-08-22,Phone,LATAM,General Inquiry,2.0,2.3,True,False
+2024-06-04,Phone,EMEA,Account Access,2.1,5.0,True,False
+2024-09-15,Chat,North America,Feature Request,1.9,4.1,True,False
+2025-06-10,Chat,EMEA,Feature Request,3.9,4.0,False,False
+2025-08-19,Chat,EMEA,Account Access,5.1,4.2,True,False
+2025-03-30,Chat,North America,General Inquiry,4.2,4.0,True,False
+2024-06-21,Chat,LATAM,General Inquiry,3.2,4.1,True,False
+2025-03-07,Email,APAC,Technical Issue,11.0,3.4,True,False
+2024-06-17,Chat,North America,General Inquiry,5.3,4.2,False,False
+2025-04-24,Chat,LATAM,General Inquiry,5.9,3.4,False,True
+2025-03-13,Chat,APAC,Billing,4.0,3.8,True,False
+2024-05-14,Self-Service,APAC,Feature Request,0.7,5.0,False,True
+2025-06-25,Chat,APAC,Account Access,5.9,5.0,False,False
+2024-05-28,Chat,APAC,Account Access,5.4,3.6,True,False
+2024-01-28,Chat,LATAM,Account Access,2.1,3.8,True,False
+2024-06-22,Email,North America,Feature Request,6.2,3.0,False,False
+2025-01-28,Phone,APAC,Billing,2.3,5.0,True,False
+2025-06-04,Self-Service,LATAM,Account Access,0.4,3.1,False,False
+2024-12-18,Chat,EMEA,Billing,7.5,4.1,True,True
+2024-05-20,Email,North America,Account Access,12.5,4.2,True,False
+2024-11-03,Chat,North America,Billing,4.0,3.9,False,False
+2025-02-04,Phone,APAC,Billing,2.3,4.2,False,False
+2025-05-14,Email,North America,Technical Issue,8.5,3.5,False,False
+2025-02-23,Chat,EMEA,Account Access,3.9,4.4,True,False
+2024-06-11,Phone,LATAM,Feature Request,2.5,4.7,True,False
+2024-05-03,Email,North America,General Inquiry,26.9,3.1,True,False
+2024-05-14,Email,EMEA,General Inquiry,20.3,4.2,False,False
+2024-04-10,Phone,North America,Technical Issue,2.9,4.7,False,False
+2024-04-11,Email,EMEA,General Inquiry,15.4,3.3,False,False
+2024-04-17,Chat,APAC,General Inquiry,3.7,3.8,False,False
+2025-01-27,Email,APAC,General Inquiry,16.5,2.3,False,False
+2025-12-19,Email,LATAM,General Inquiry,21.5,4.8,True,False
+2025-12-13,Self-Service,LATAM,Billing,0.2,3.8,False,False
+2025-10-17,Self-Service,APAC,General Inquiry,0.9,4.4,True,False
+2025-06-19,Chat,APAC,Billing,5.4,4.0,True,False
+2025-04-19,Chat,APAC,Technical Issue,2.8,4.7,False,False
+2024-12-05,Self-Service,APAC,Account Access,0.7,2.6,True,False
+2024-12-03,Phone,EMEA,Technical Issue,0.1,4.6,True,False
+2025-04-03,Chat,EMEA,Billing,1.5,3.7,True,False
+2025-04-03,Chat,LATAM,Feature Request,3.3,4.8,False,False
+2024-10-27,Self-Service,North America,Billing,0.6,4.0,True,False
+2024-05-08,Chat,APAC,Technical Issue,4.8,3.0,True,False
+2024-01-14,Self-Service,North America,General Inquiry,0.9,3.4,False,False
+2025-08-05,Phone,LATAM,General Inquiry,2.1,3.3,True,False
+2024-09-04,Phone,North America,Billing,0.6,5.0,True,False
+2025-08-13,Self-Service,APAC,Billing,0.5,4.4,True,False
+2025-07-20,Phone,LATAM,Feature Request,1.9,4.6,True,False
+2024-04-11,Email,APAC,General Inquiry,19.9,4.0,True,False
+2025-09-05,Email,EMEA,Technical Issue,9.7,3.5,True,False
+2024-11-13,Chat,APAC,Feature Request,5.1,3.9,True,False
+2024-10-01,Email,APAC,Technical Issue,19.5,3.8,False,False
+2024-08-29,Phone,APAC,General Inquiry,2.2,4.2,True,False
+2024-12-10,Phone,LATAM,Technical Issue,1.4,4.7,False,False
+2025-08-10,Chat,LATAM,Technical Issue,4.2,4.2,True,False
+2024-02-12,Chat,EMEA,Billing,2.7,3.9,True,False
+2025-03-16,Email,North America,Feature Request,16.0,4.0,True,False
+2025-10-29,Self-Service,North America,Feature Request,0.3,5.0,False,False
+2024-05-27,Email,APAC,General Inquiry,20.9,3.3,True,False
+2024-04-30,Chat,EMEA,General Inquiry,4.3,3.4,False,False
+2025-09-18,Chat,EMEA,Feature Request,4.4,5.0,True,False
+2024-03-25,Phone,North America,Billing,1.6,5.0,True,False
+2024-01-02,Chat,EMEA,Technical Issue,4.2,3.6,False,False
+2024-03-21,Chat,LATAM,Technical Issue,4.5,4.2,True,False
+2025-07-18,Chat,LATAM,Technical Issue,2.1,4.5,True,False
+2025-03-14,Chat,North America,General Inquiry,6.1,2.8,False,False
+2025-11-13,Self-Service,EMEA,Feature Request,0.3,2.8,True,False
+2025-11-04,Phone,EMEA,Billing,2.0,4.0,True,False
+2025-05-26,Chat,LATAM,Feature Request,3.4,4.3,False,False
+2025-11-25,Phone,North America,Billing,1.2,5.0,True,False
+2025-03-20,Chat,LATAM,Technical Issue,4.5,3.3,True,False
+2025-02-24,Chat,APAC,Billing,2.7,4.6,False,False
+2025-12-05,Email,APAC,General Inquiry,14.4,4.4,False,False
+2024-07-21,Self-Service,APAC,General Inquiry,0.6,4.1,True,False
+2024-08-23,Email,LATAM,Technical Issue,27.3,4.0,False,False
+2024-03-27,Self-Service,APAC,Billing,0.2,5.0,False,False
+2025-03-24,Email,APAC,General Inquiry,11.5,3.4,True,True
+2025-06-04,Email,LATAM,General Inquiry,28.8,2.6,False,True
+2025-02-16,Chat,EMEA,Technical Issue,4.5,3.3,True,False
+2025-03-05,Phone,North America,Feature Request,0.7,4.0,True,False
+2024-12-07,Phone,APAC,Feature Request,3.4,3.2,False,False
+2025-10-19,Email,EMEA,General Inquiry,10.4,4.0,False,True
+2024-06-02,Phone,North America,General Inquiry,3.9,2.9,False,False
+2025-02-23,Phone,LATAM,Technical Issue,2.1,4.8,True,False
+2024-12-22,Chat,LATAM,Technical Issue,5.7,4.6,True,True
+2024-07-25,Email,EMEA,Feature Request,22.9,3.9,True,False
+2024-06-13,Chat,APAC,Technical Issue,2.8,3.9,True,False
+2024-02-28,Email,APAC,Billing,27.2,3.8,True,False
+2024-03-18,Self-Service,EMEA,General Inquiry,0.9,3.2,False,False
+2025-04-05,Email,LATAM,Billing,25.7,3.8,True,False
+2025-06-26,Chat,LATAM,Feature Request,2.2,3.9,True,False
+2024-04-15,Self-Service,APAC,Billing,0.1,5.0,False,False
+2024-10-09,Email,LATAM,Feature Request,7.7,3.5,False,False
+2025-07-01,Email,APAC,Feature Request,25.7,4.6,False,False
+2025-08-19,Chat,North America,Technical Issue,6.7,4.3,True,False
+2025-09-18,Chat,EMEA,Account Access,6.1,4.2,True,False
+2025-09-30,Phone,APAC,Account Access,0.6,5.0,True,False
+2024-03-22,Self-Service,EMEA,Feature Request,0.8,4.5,True,False
+2024-07-04,Phone,APAC,Technical Issue,3.4,3.5,True,False
+2025-02-04,Phone,LATAM,Technical Issue,3.2,4.1,True,False
+2025-01-02,Phone,APAC,General Inquiry,1.4,4.7,True,False
+2024-04-21,Email,EMEA,General Inquiry,14.6,4.8,True,False
+2024-04-22,Self-Service,North America,Feature Request,0.4,4.2,True,False
+2025-11-15,Self-Service,EMEA,General Inquiry,0.2,3.7,True,True
+2024-12-02,Email,North America,General Inquiry,23.1,4.3,True,False
+2024-03-21,Email,EMEA,General Inquiry,21.8,5.0,True,False
+2025-06-30,Chat,LATAM,Technical Issue,5.3,4.7,False,False
+2024-01-06,Chat,LATAM,Technical Issue,7.2,4.2,True,False
+2024-12-13,Phone,EMEA,General Inquiry,1.9,3.5,True,False
+2024-01-05,Chat,LATAM,Feature Request,2.3,3.4,True,False
+2025-03-14,Chat,EMEA,Account Access,3.8,3.6,True,False
+2024-03-17,Self-Service,North America,Account Access,0.7,4.8,True,False
+2024-12-03,Email,EMEA,Account Access,24.5,3.8,True,False
+2024-02-29,Self-Service,APAC,General Inquiry,0.2,4.4,False,False
+2025-08-18,Self-Service,North America,Feature Request,0.6,3.5,True,False
+2025-04-07,Email,North America,Account Access,36.8,4.2,True,False
+2024-10-21,Chat,APAC,General Inquiry,3.5,4.4,False,False
+2024-05-30,Chat,LATAM,Feature Request,3.1,3.6,False,False
+2024-12-23,Chat,EMEA,Billing,4.6,4.2,True,False
+2024-02-14,Chat,North America,General Inquiry,3.5,3.8,False,False
+2024-12-03,Email,North America,Technical Issue,25.8,4.0,True,False
+2025-10-12,Email,APAC,General Inquiry,14.6,3.6,True,False
+2024-02-20,Phone,EMEA,Account Access,1.6,4.0,True,False
+2024-04-30,Email,LATAM,Feature Request,19.3,3.5,True,False
+2025-07-11,Phone,EMEA,Feature Request,3.2,3.1,True,False
+2024-11-04,Email,North America,Technical Issue,16.6,3.7,True,False
+2025-02-24,Chat,LATAM,Technical Issue,4.5,4.3,False,False
+2024-04-23,Chat,APAC,Technical Issue,2.1,3.0,True,False
+2024-01-07,Email,APAC,Billing,22.3,3.7,False,True
+2024-08-29,Self-Service,EMEA,Technical Issue,0.5,3.8,True,False
+2025-01-04,Email,North America,Feature Request,20.6,3.3,True,False
+2024-12-17,Email,EMEA,Feature Request,4.8,3.6,False,False
+2024-05-24,Chat,LATAM,Feature Request,6.5,4.2,True,False
+2025-08-28,Self-Service,LATAM,Technical Issue,0.2,4.7,True,False
+2025-05-13,Phone,EMEA,Account Access,2.1,3.3,True,False
+2025-07-27,Self-Service,North America,General Inquiry,0.1,3.1,True,False
+2024-09-12,Phone,LATAM,Technical Issue,2.2,4.0,True,False
+2025-06-21,Email,EMEA,General Inquiry,16.1,3.7,True,False
+2025-12-11,Self-Service,APAC,Technical Issue,0.2,4.1,True,False
+2025-10-01,Chat,North America,Technical Issue,4.3,4.4,False,False
+2025-03-17,Chat,APAC,Feature Request,1.3,4.0,True,False
+2024-01-10,Email,EMEA,Technical Issue,14.9,3.0,True,True
+2025-01-14,Self-Service,APAC,Feature Request,0.4,4.8,False,False
+2025-07-27,Chat,APAC,Feature Request,6.5,4.1,False,False
+2024-07-01,Email,EMEA,General Inquiry,20.2,4.8,True,False
+2024-12-22,Chat,LATAM,Feature Request,6.0,4.7,True,False
+2024-08-30,Self-Service,North America,Feature Request,0.6,4.6,False,False
+2024-12-27,Email,EMEA,Feature Request,18.6,3.1,False,False
+2024-06-17,Chat,LATAM,Account Access,6.5,4.9,True,False
+2024-11-13,Email,LATAM,Feature Request,21.8,4.0,False,False
+2025-09-07,Chat,APAC,Billing,2.7,4.2,True,False
+2025-07-01,Phone,APAC,General Inquiry,3.4,4.3,True,False
+2024-09-17,Email,North America,Technical Issue,29.9,3.0,False,False
+2024-01-12,Chat,LATAM,Technical Issue,4.2,4.9,True,False
+2025-05-14,Email,North America,Billing,11.0,4.0,False,False
+2025-03-22,Email,EMEA,Account Access,11.8,3.6,True,False
+2024-11-19,Phone,LATAM,Technical Issue,3.0,4.6,True,False
+2024-07-27,Email,North America,Technical Issue,16.7,3.2,False,False
+2025-05-18,Self-Service,North America,Technical Issue,0.2,3.8,True,False
+2025-12-13,Chat,APAC,General Inquiry,3.7,4.2,True,False
+2025-08-25,Chat,APAC,Account Access,5.6,3.7,False,False
+2024-03-10,Chat,North America,General Inquiry,5.7,3.9,False,False
+2024-11-09,Self-Service,North America,Feature Request,0.8,3.8,True,False
+2025-03-09,Self-Service,North America,Account Access,0.4,3.5,False,False
+2024-02-05,Email,EMEA,Account Access,15.9,4.7,False,False
+2025-02-28,Chat,APAC,Billing,6.1,4.0,False,False
+2025-09-29,Self-Service,North America,Billing,0.9,4.0,True,False
+2025-05-20,Email,North America,Billing,13.9,2.5,False,False
+2025-06-16,Chat,North America,General Inquiry,5.3,5.0,True,False
+2025-12-10,Self-Service,EMEA,Account Access,0.5,3.6,False,False
+2024-02-29,Chat,North America,Billing,3.3,4.9,True,False
+2025-02-22,Self-Service,APAC,Account Access,0.4,3.2,False,False
+2025-04-03,Email,APAC,General Inquiry,32.3,4.5,True,False
+2024-12-24,Phone,EMEA,Feature Request,0.6,4.2,True,False
+2025-12-30,Email,EMEA,Billing,19.0,4.4,False,False
+2024-11-24,Email,APAC,Billing,21.8,4.9,True,False
+2024-08-24,Chat,EMEA,Account Access,6.9,5.0,False,False
+2025-03-03,Self-Service,EMEA,General Inquiry,0.5,2.9,True,False
+2024-05-14,Chat,LATAM,Technical Issue,3.6,3.4,True,False
+2025-12-10,Phone,North America,General Inquiry,2.6,5.0,True,False
+2024-03-29,Email,North America,Technical Issue,8.5,4.0,False,False
+2025-12-03,Email,APAC,General Inquiry,25.0,4.1,False,False
+2024-05-30,Chat,APAC,Feature Request,4.4,4.8,True,False
+2024-11-29,Chat,North America,Billing,4.8,3.8,False,False
+2024-06-20,Email,North America,Account Access,20.9,3.0,True,False
+2024-01-05,Phone,North America,Technical Issue,1.7,4.8,False,False
+2024-11-28,Phone,North America,Billing,2.0,4.9,True,False
+2024-05-06,Chat,LATAM,Account Access,6.6,5.0,True,False
+2024-07-09,Chat,APAC,General Inquiry,7.0,4.3,False,False
+2024-09-06,Chat,EMEA,Billing,2.6,4.8,False,False
+2024-01-12,Chat,APAC,Feature Request,1.8,4.1,True,False
+2025-10-09,Chat,North America,Feature Request,1.4,4.1,True,False
+2025-12-01,Chat,EMEA,Feature Request,5.2,3.7,True,False
+2024-04-19,Chat,LATAM,General Inquiry,4.5,5.0,True,False
+2024-06-09,Chat,LATAM,Billing,2.0,3.5,False,False
+2024-10-25,Phone,North America,Account Access,1.3,5.0,True,False
+2025-06-07,Chat,EMEA,Feature Request,2.9,4.9,False,False
+2024-04-11,Email,LATAM,Account Access,29.9,4.8,False,False
+2024-02-16,Chat,LATAM,Account Access,0.1,3.7,True,False
+2025-02-10,Phone,North America,General Inquiry,2.1,4.3,True,False
+2024-07-21,Email,EMEA,General Inquiry,18.1,3.2,True,False
+2024-01-26,Email,APAC,Billing,13.2,3.4,True,False
+2025-12-30,Email,EMEA,Feature Request,13.9,4.0,False,False
+2025-04-11,Email,EMEA,Feature Request,23.8,3.4,True,False
+2024-06-12,Chat,APAC,Technical Issue,2.1,3.5,False,False
+2024-08-13,Phone,APAC,Billing,0.8,5.0,True,False
+2024-06-27,Self-Service,North America,Billing,0.5,4.9,False,False
+2025-02-13,Phone,LATAM,Feature Request,2.5,5.0,True,False
+2024-08-28,Self-Service,APAC,General Inquiry,0.6,2.1,True,False
+2024-04-10,Chat,APAC,General Inquiry,1.4,4.8,True,False
+2024-09-30,Self-Service,APAC,Feature Request,0.3,4.0,False,False
+2024-06-07,Chat,EMEA,Account Access,3.0,4.1,False,False
+2024-05-24,Email,LATAM,Billing,6.1,3.9,True,False
+2024-04-05,Chat,EMEA,General Inquiry,3.7,4.8,True,False
+2025-09-16,Chat,North America,Feature Request,3.9,4.5,False,False
+2024-03-01,Chat,North America,Technical Issue,4.1,4.6,False,False
+2024-01-10,Phone,LATAM,General Inquiry,2.4,3.5,True,False
+2024-05-12,Self-Service,North America,Feature Request,0.5,4.8,True,False
+2025-03-26,Chat,North America,Technical Issue,2.3,5.0,False,False
+2024-09-22,Self-Service,APAC,General Inquiry,0.5,4.0,False,False
+2024-07-14,Chat,LATAM,General Inquiry,8.1,4.4,True,False
+2025-05-25,Phone,North America,Account Access,0.3,4.9,True,False
+2024-07-26,Chat,LATAM,Billing,4.6,3.7,False,False
+2025-02-11,Self-Service,APAC,Account Access,0.3,4.7,True,False
+2025-09-15,Chat,EMEA,Feature Request,2.2,4.8,False,False
+2025-07-27,Self-Service,LATAM,Feature Request,1.1,3.9,True,False
+2024-04-22,Email,APAC,Billing,11.8,3.2,True,False
+2025-06-19,Chat,LATAM,Technical Issue,5.8,3.5,True,False
+2025-12-23,Chat,North America,Account Access,3.1,4.8,False,False
+2025-10-24,Phone,LATAM,Technical Issue,2.3,5.0,True,False
+2024-11-29,Email,North America,General Inquiry,21.7,3.1,False,False
+2024-08-07,Phone,North America,Feature Request,1.9,4.3,False,False
+2025-03-01,Chat,LATAM,Technical Issue,4.3,3.7,True,False
+2025-09-04,Self-Service,LATAM,Feature Request,0.6,3.5,False,True
+2024-08-15,Chat,EMEA,Technical Issue,5.2,5.0,False,False
+2024-10-20,Email,APAC,General Inquiry,17.5,3.7,False,False
+2025-02-10,Chat,APAC,Account Access,3.4,3.8,True,False
+2025-11-21,Chat,APAC,Feature Request,3.1,4.5,True,False
+2025-01-26,Chat,North America,Feature Request,3.6,4.8,True,False
+2024-02-23,Email,APAC,General Inquiry,7.9,4.0,True,False
+2025-06-09,Email,APAC,Technical Issue,27.5,3.3,True,True
+2025-11-20,Self-Service,EMEA,Technical Issue,0.3,3.2,True,False
+2024-01-19,Chat,North America,General Inquiry,4.1,5.0,True,False
+2024-02-21,Self-Service,LATAM,Account Access,0.4,4.0,True,False
+2025-05-23,Chat,APAC,Billing,3.1,3.5,False,True
+2024-06-29,Phone,North America,Technical Issue,2.9,5.0,True,False
+2025-05-05,Chat,EMEA,Technical Issue,5.2,4.6,True,False
+2025-03-02,Chat,LATAM,Account Access,6.0,4.7,True,False
+2025-11-08,Email,APAC,Billing,9.3,3.7,True,False
+2024-06-25,Chat,APAC,Feature Request,1.8,3.8,False,False
+2025-07-27,Chat,EMEA,Account Access,4.7,4.8,True,False
+2024-09-19,Phone,North America,Billing,2.3,4.1,True,False
+2024-03-23,Chat,APAC,Feature Request,3.7,4.5,False,False
+2024-05-27,Phone,EMEA,Billing,2.6,4.0,True,True
+2024-12-21,Self-Service,EMEA,General Inquiry,0.6,3.9,True,False
+2024-11-29,Phone,APAC,Billing,1.9,4.6,True,False
+2025-09-10,Chat,LATAM,General Inquiry,4.9,3.4,True,False
+2024-06-12,Self-Service,APAC,Account Access,0.4,3.7,False,False
+2025-07-04,Phone,EMEA,Technical Issue,2.2,5.0,True,False
+2025-02-06,Chat,EMEA,Technical Issue,2.6,4.1,True,False
+2025-08-19,Email,North America,General Inquiry,29.0,4.6,True,False
+2024-04-18,Email,APAC,Billing,13.5,3.4,True,False
+2024-12-26,Chat,EMEA,General Inquiry,8.4,4.0,True,False
+2024-01-16,Email,APAC,General Inquiry,9.0,5.0,False,False
+2025-05-30,Self-Service,APAC,Technical Issue,0.3,3.6,True,False
+2024-09-22,Chat,EMEA,Technical Issue,1.2,3.7,True,False
+2024-07-18,Email,EMEA,Account Access,27.7,3.9,False,False
+2025-01-14,Self-Service,EMEA,General Inquiry,0.6,3.9,False,False
+2025-01-09,Email,North America,Feature Request,25.4,2.6,True,False
+2025-06-04,Phone,LATAM,Feature Request,4.0,4.9,True,False
+2025-04-24,Email,APAC,Account Access,15.3,3.8,True,False
+2025-02-01,Chat,APAC,Technical Issue,3.4,3.8,True,False
+2025-05-18,Phone,EMEA,General Inquiry,1.5,4.4,True,False
+2025-05-14,Chat,North America,Technical Issue,5.9,3.2,False,False
+2025-08-21,Phone,North America,Account Access,1.7,3.7,False,False
+2024-01-01,Chat,North America,Feature Request,5.0,5.0,True,False
+2025-02-02,Email,LATAM,Technical Issue,27.7,4.4,False,False
+2025-08-03,Email,LATAM,Account Access,12.5,4.6,False,False
+2024-11-18,Chat,APAC,Billing,3.7,3.9,True,False
+2025-01-05,Chat,EMEA,Account Access,4.7,4.3,False,False
+2025-05-01,Phone,EMEA,Feature Request,3.9,4.4,False,False
+2024-04-29,Email,North America,Technical Issue,9.7,2.8,True,False
+2024-09-19,Phone,LATAM,General Inquiry,2.4,4.6,True,False
+2025-05-20,Email,North America,Account Access,17.2,4.7,False,True
+2025-06-19,Self-Service,LATAM,Account Access,0.1,3.6,True,False
+2025-07-14,Chat,APAC,Billing,7.0,4.0,True,False
+2024-07-30,Email,EMEA,Billing,15.4,2.9,True,False
+2024-02-05,Chat,EMEA,Billing,8.2,4.6,True,False
+2024-07-02,Email,EMEA,Account Access,15.1,3.5,False,False
+2025-12-04,Chat,North America,General Inquiry,3.5,3.6,True,False
+2024-07-05,Self-Service,EMEA,General Inquiry,0.3,4.6,False,False
+2025-01-19,Chat,LATAM,Account Access,5.5,4.0,True,False
+2025-12-29,Email,LATAM,General Inquiry,15.8,3.8,False,False
+2024-05-15,Chat,North America,Technical Issue,5.8,3.2,True,False
+2024-06-07,Email,APAC,General Inquiry,34.7,4.7,False,False
+2025-11-27,Chat,North America,Account Access,4.4,4.1,False,False
+2024-01-19,Self-Service,North America,Account Access,0.5,4.6,True,False
+2025-10-02,Email,EMEA,Billing,21.1,3.6,True,True
+2025-09-06,Chat,APAC,Technical Issue,2.6,4.8,False,False
+2024-06-10,Phone,North America,Account Access,1.2,4.1,True,False
+2024-07-30,Self-Service,APAC,General Inquiry,0.5,5.0,True,False
+2024-03-06,Email,APAC,Technical Issue,22.9,4.1,True,False
+2025-07-14,Chat,EMEA,Account Access,4.1,4.2,True,False
+2024-10-29,Email,North America,Technical Issue,2.2,3.4,True,False
+2025-06-16,Self-Service,North America,Technical Issue,0.7,4.4,True,False
+2025-07-30,Chat,EMEA,Billing,3.4,5.0,True,False
+2024-12-28,Self-Service,EMEA,Feature Request,0.5,4.2,False,False
+2025-03-02,Chat,APAC,Technical Issue,3.3,2.9,False,False
+2024-12-16,Chat,APAC,General Inquiry,3.4,3.0,False,False
+2025-02-15,Email,EMEA,Billing,21.0,2.8,True,False
+2025-12-18,Chat,APAC,Billing,2.1,4.0,True,False
+2024-01-09,Email,LATAM,Technical Issue,22.0,3.4,True,False
+2024-10-20,Chat,North America,General Inquiry,3.2,4.1,False,False
+2024-09-04,Email,APAC,Billing,22.3,3.5,False,False
+2025-07-05,Chat,APAC,Feature Request,2.9,3.9,False,False
+2024-08-10,Chat,APAC,Account Access,2.9,4.2,False,False
+2025-01-07,Email,EMEA,Feature Request,31.2,4.6,True,False
+2024-05-11,Chat,LATAM,General Inquiry,2.8,3.2,True,False
+2025-11-30,Chat,EMEA,Feature Request,4.4,5.0,False,False
+2024-02-10,Phone,APAC,Account Access,2.0,3.9,True,False
+2025-02-08,Self-Service,APAC,Feature Request,0.6,3.8,True,False
+2024-07-01,Chat,EMEA,Account Access,4.1,5.0,True,False
+2024-07-17,Email,EMEA,General Inquiry,8.8,3.7,True,False
+2025-05-09,Email,EMEA,Account Access,21.2,3.7,False,False
+2025-11-16,Phone,EMEA,Account Access,1.3,4.8,False,False
+2025-06-28,Email,LATAM,General Inquiry,16.2,2.7,True,False
+2025-08-14,Self-Service,APAC,Technical Issue,0.7,4.1,True,False
+2025-10-05,Chat,LATAM,General Inquiry,3.8,3.9,True,False
+2024-09-07,Chat,APAC,Account Access,3.3,4.6,False,False
+2025-01-17,Chat,LATAM,General Inquiry,3.1,4.0,True,False
+2025-05-02,Email,APAC,General Inquiry,17.9,4.7,True,False
+2025-03-24,Phone,APAC,General Inquiry,2.9,4.6,True,False
+2024-12-10,Chat,APAC,Billing,1.7,3.7,False,False
+2024-12-17,Phone,LATAM,Feature Request,2.4,4.3,True,False
+2024-10-20,Chat,North America,Technical Issue,4.6,3.3,False,False
+2024-07-19,Chat,LATAM,General Inquiry,5.1,5.0,True,False
+2025-02-11,Chat,LATAM,Feature Request,5.4,4.2,False,False
+2025-10-03,Phone,EMEA,General Inquiry,2.2,4.5,True,False
+2024-03-13,Chat,LATAM,Account Access,6.3,4.6,True,False
+2025-05-13,Email,LATAM,Account Access,11.6,3.8,True,False
+2025-11-25,Phone,LATAM,Billing,1.6,4.3,False,False
+2025-07-31,Chat,APAC,Billing,5.1,3.7,True,False
+2025-04-06,Email,North America,Feature Request,12.8,4.4,True,False
+2025-05-05,Email,EMEA,Feature Request,7.7,3.1,False,False
+2024-03-07,Email,EMEA,Billing,19.8,5.0,False,False
+2024-06-22,Email,APAC,Account Access,29.0,3.8,True,False
+2025-09-05,Chat,LATAM,Feature Request,3.2,3.7,False,False
+2024-08-09,Email,LATAM,Technical Issue,16.9,3.6,False,False
+2025-06-27,Email,North America,Account Access,16.6,5.0,False,False
+2025-02-14,Chat,EMEA,Account Access,5.9,3.4,True,False
+2024-02-15,Phone,EMEA,Billing,1.8,4.2,True,False
+2025-07-22,Email,EMEA,General Inquiry,17.3,3.3,True,False
+2024-11-06,Chat,LATAM,Feature Request,7.8,4.2,False,False
+2025-01-02,Email,EMEA,General Inquiry,26.2,4.4,False,False
+2025-02-22,Chat,LATAM,Billing,3.6,3.9,False,True
+2025-09-24,Email,North America,Feature Request,16.2,3.7,True,False
+2024-06-27,Phone,LATAM,General Inquiry,1.9,4.4,False,False
+2025-06-28,Self-Service,LATAM,General Inquiry,0.8,4.0,False,False
+2025-10-09,Chat,LATAM,Account Access,4.8,5.0,True,False
+2024-12-19,Chat,North America,Feature Request,1.5,3.1,False,True
+2024-09-22,Email,APAC,General Inquiry,15.9,3.5,True,True
+2024-09-20,Phone,LATAM,Account Access,2.0,4.1,True,False
+2025-06-10,Self-Service,LATAM,Account Access,0.5,3.3,False,False
+2025-01-16,Email,APAC,Feature Request,23.0,4.1,False,False
+2024-07-31,Phone,North America,Account Access,2.1,3.7,True,False
+2024-04-10,Chat,EMEA,Technical Issue,4.4,3.1,False,False
+2024-01-24,Phone,APAC,Account Access,2.3,3.4,False,True
+2024-01-09,Chat,APAC,Technical Issue,7.3,2.8,True,False
+2024-06-02,Self-Service,EMEA,Account Access,0.6,3.9,False,False
+2024-10-07,Chat,APAC,Technical Issue,5.6,3.7,False,False
+2024-05-12,Email,North America,Technical Issue,15.6,4.0,False,False
+2025-09-20,Chat,APAC,General Inquiry,4.2,3.5,True,False
+2025-09-02,Email,EMEA,Technical Issue,6.6,4.8,True,False
+2024-09-18,Email,APAC,General Inquiry,11.7,2.8,True,True
+2025-02-20,Email,LATAM,Account Access,10.5,4.1,True,False
+2025-03-25,Email,North America,Billing,22.0,3.0,True,False
+2025-05-07,Chat,APAC,Feature Request,3.8,5.0,True,False
+2025-12-08,Phone,EMEA,Feature Request,0.1,3.2,True,False
+2025-10-19,Email,APAC,Account Access,15.8,3.8,False,False
+2024-02-18,Email,LATAM,Account Access,23.8,3.9,False,False
+2024-01-18,Phone,EMEA,General Inquiry,1.9,5.0,True,False
+2025-06-16,Chat,North America,General Inquiry,3.9,3.9,True,False
+2025-09-05,Email,North America,Technical Issue,19.3,2.8,True,True
+2025-08-04,Phone,North America,Technical Issue,2.8,3.7,True,False
+2025-08-24,Email,North America,General Inquiry,0.1,3.7,True,False
+2025-05-05,Self-Service,EMEA,Technical Issue,0.7,4.4,True,False
+2024-10-04,Phone,LATAM,General Inquiry,3.2,4.2,False,False
+2025-08-16,Chat,North America,Technical Issue,6.1,5.0,True,True
+2025-06-20,Phone,North America,General Inquiry,2.9,3.8,True,False
+2025-02-08,Phone,North America,Billing,0.7,4.3,True,False
+2024-12-17,Self-Service,LATAM,Account Access,0.3,5.0,False,False
+2025-12-06,Phone,LATAM,Billing,0.5,5.0,True,False
+2025-04-16,Chat,EMEA,Feature Request,4.0,4.3,True,False
+2025-04-14,Self-Service,LATAM,General Inquiry,0.3,4.1,False,False
+2024-05-07,Email,LATAM,Feature Request,4.7,4.5,False,False
+2025-10-12,Email,APAC,Billing,19.1,4.1,False,False
+2024-03-19,Chat,North America,Feature Request,2.5,2.8,True,False
+2024-11-17,Phone,North America,Technical Issue,2.0,4.4,True,False
+2024-02-11,Chat,LATAM,Billing,6.0,1.7,True,False
+2025-10-19,Self-Service,North America,Feature Request,0.5,3.5,True,False
+2025-01-31,Email,LATAM,Account Access,17.1,3.9,False,False
+2024-10-22,Phone,EMEA,General Inquiry,2.2,3.7,True,False
+2024-12-04,Self-Service,North America,Feature Request,0.1,5.0,True,False
+2025-03-04,Email,LATAM,Feature Request,9.1,3.8,True,False
+2024-10-19,Chat,LATAM,Billing,4.1,3.1,True,False
+2025-02-17,Self-Service,APAC,Account Access,0.7,3.7,False,False
+2024-09-16,Phone,APAC,Account Access,2.3,4.5,True,False
+2025-11-04,Email,EMEA,Technical Issue,24.2,3.5,True,False
+2025-11-30,Chat,EMEA,Account Access,2.0,3.6,True,False
+2024-11-16,Phone,EMEA,Account Access,2.1,4.0,True,False
+2025-06-10,Self-Service,EMEA,Technical Issue,0.6,3.8,True,False
+2024-08-15,Email,EMEA,General Inquiry,14.7,4.4,False,False
+2025-04-08,Email,EMEA,Technical Issue,14.5,4.2,True,False
+2025-09-06,Chat,North America,General Inquiry,3.8,4.9,True,False
+2025-01-17,Chat,North America,General Inquiry,2.9,4.6,True,False
+2025-03-09,Self-Service,LATAM,Technical Issue,0.5,3.6,True,False
+2024-12-29,Chat,North America,Account Access,2.0,2.9,True,False
+2025-11-28,Chat,EMEA,General Inquiry,2.5,3.7,False,False
+2024-12-12,Email,North America,Technical Issue,20.9,3.6,False,False
+2025-01-17,Self-Service,APAC,Account Access,0.5,3.6,True,False
+2025-08-01,Chat,APAC,General Inquiry,3.3,4.1,False,False
+2025-05-19,Self-Service,EMEA,Feature Request,0.4,2.7,False,False
+2024-07-07,Phone,EMEA,General Inquiry,1.8,5.0,True,False
+2024-08-12,Chat,APAC,Feature Request,2.2,4.4,False,False
+2024-06-05,Chat,LATAM,Billing,4.5,4.1,False,False
+2025-01-17,Email,EMEA,Technical Issue,20.1,4.2,True,False
+2025-07-28,Chat,EMEA,Account Access,1.9,4.3,False,False
+2024-07-03,Email,EMEA,Billing,25.2,4.2,False,False
+2024-06-28,Self-Service,EMEA,General Inquiry,0.4,5.0,False,False
+2024-01-28,Chat,LATAM,Technical Issue,2.3,5.0,True,False
+2025-06-02,Email,North America,Technical Issue,16.8,3.6,True,False
+2024-09-09,Email,LATAM,Technical Issue,15.4,4.1,True,True
+2025-04-14,Self-Service,EMEA,Account Access,0.4,3.3,False,False
+2024-12-17,Chat,APAC,Account Access,1.7,4.5,False,False
+2025-11-06,Email,EMEA,Account Access,26.3,5.0,True,False
+2025-05-06,Chat,North America,General Inquiry,3.7,4.9,True,False
+2024-08-11,Email,EMEA,Billing,31.2,5.0,True,False
+2024-02-09,Chat,EMEA,Account Access,5.0,4.2,False,False
+2025-07-07,Chat,EMEA,General Inquiry,4.2,5.0,False,False
+2025-11-20,Email,APAC,General Inquiry,12.1,2.8,True,False
+2024-08-10,Chat,EMEA,Billing,2.1,4.5,False,False
+2025-11-03,Phone,EMEA,General Inquiry,2.6,4.3,False,False
+2025-07-10,Email,North America,Account Access,10.9,1.6,False,False
+2024-09-26,Phone,North America,Feature Request,2.6,3.3,True,False
+2024-10-03,Chat,North America,Technical Issue,5.1,4.6,True,False
+2025-07-11,Chat,North America,Account Access,5.1,5.0,False,False
+2025-06-08,Chat,LATAM,Technical Issue,4.0,3.4,True,False
+2024-11-12,Phone,LATAM,Billing,1.7,3.4,False,False
+2024-06-13,Email,APAC,General Inquiry,15.2,3.2,True,False
+2024-03-31,Chat,APAC,Technical Issue,7.0,2.3,True,False
+2024-12-22,Chat,APAC,General Inquiry,2.7,5.0,False,False
+2025-03-20,Phone,LATAM,Billing,1.8,5.0,True,False
+2025-01-31,Chat,APAC,Technical Issue,4.6,4.3,False,False
+2024-11-15,Chat,LATAM,Account Access,3.6,4.3,True,False
+2024-02-29,Email,North America,Technical Issue,23.2,3.7,True,False
+2024-03-04,Self-Service,North America,Technical Issue,0.5,3.7,True,False
+2024-08-05,Phone,APAC,Billing,2.0,5.0,True,False
+2024-05-27,Phone,APAC,General Inquiry,3.6,5.0,True,False
+2025-01-27,Self-Service,EMEA,Billing,0.8,3.2,True,False
+2025-05-17,Self-Service,APAC,Account Access,0.7,4.6,True,True
+2025-02-02,Chat,EMEA,Technical Issue,0.7,4.4,True,False
+2024-12-01,Phone,North America,Account Access,2.7,3.9,True,False
+2025-10-16,Email,North America,Account Access,29.2,3.4,True,False
+2024-08-16,Self-Service,North America,Technical Issue,0.6,2.3,False,False
+2024-05-18,Chat,EMEA,Billing,3.5,4.0,False,False
+2024-09-25,Email,APAC,Account Access,16.1,3.5,False,False
+2024-07-26,Email,North America,General Inquiry,13.1,4.8,False,False
+2025-06-27,Email,APAC,General Inquiry,14.5,4.0,False,False
+2025-08-10,Phone,APAC,Account Access,1.1,4.5,False,False
+2025-12-18,Phone,APAC,Account Access,1.5,4.1,True,False
+2024-11-24,Self-Service,APAC,Billing,0.5,4.7,False,False
+2025-07-18,Chat,LATAM,General Inquiry,2.1,4.5,True,False
+2025-10-20,Chat,LATAM,Account Access,3.8,4.2,True,False
+2025-09-19,Phone,North America,Feature Request,2.4,4.7,True,False
+2025-09-03,Self-Service,EMEA,General Inquiry,0.5,3.4,False,False
+2025-10-06,Phone,EMEA,Account Access,0.4,4.6,True,False
+2025-12-14,Email,EMEA,General Inquiry,15.2,4.1,True,False
+2024-10-25,Chat,APAC,Feature Request,1.6,4.4,False,True
+2025-01-11,Email,North America,General Inquiry,15.8,4.3,True,False
+2024-12-24,Self-Service,EMEA,General Inquiry,0.7,2.9,False,True
+2024-07-13,Phone,EMEA,Account Access,0.3,4.7,True,False
+2024-03-19,Phone,North America,Account Access,2.6,4.0,True,False
+2024-12-14,Chat,EMEA,General Inquiry,6.3,4.4,False,False
+2024-11-30,Email,North America,Account Access,11.6,3.5,False,False
+2024-06-08,Phone,LATAM,Technical Issue,2.0,4.3,True,False
+2024-02-22,Chat,North America,Feature Request,4.6,4.8,True,False
+2024-07-06,Chat,EMEA,Technical Issue,6.3,4.3,True,False
+2024-08-13,Email,LATAM,General Inquiry,17.1,3.4,True,False
+2025-05-13,Chat,LATAM,General Inquiry,5.4,5.0,False,True
+2025-11-03,Phone,LATAM,Billing,1.7,5.0,False,False
+2025-04-15,Phone,North America,Technical Issue,1.8,4.6,True,False
+2025-12-16,Self-Service,EMEA,Billing,0.3,3.9,False,False
+2024-10-15,Self-Service,LATAM,Feature Request,0.6,3.5,True,False
+2024-05-06,Chat,LATAM,Feature Request,6.6,3.8,True,False
+2025-12-04,Self-Service,EMEA,Billing,0.5,3.7,False,False
+2025-03-28,Email,LATAM,Technical Issue,12.9,4.8,False,False
+2024-02-18,Chat,APAC,Billing,5.1,3.3,True,False
+2024-03-18,Phone,APAC,Technical Issue,1.9,4.0,True,False
+2025-06-04,Chat,North America,Technical Issue,3.9,5.0,False,False
+2025-05-27,Phone,LATAM,Feature Request,2.6,4.0,False,False
+2025-10-13,Phone,LATAM,General Inquiry,2.2,3.8,False,False
+2025-09-05,Chat,EMEA,Technical Issue,5.9,4.6,True,False
+2025-01-31,Chat,LATAM,General Inquiry,4.9,4.5,True,False
+2024-06-29,Chat,North America,Feature Request,2.6,4.4,True,False
+2025-12-12,Phone,LATAM,Technical Issue,2.6,4.2,True,False
+2024-03-21,Chat,EMEA,General Inquiry,5.9,4.0,True,False
+2024-02-15,Chat,APAC,Technical Issue,5.2,5.0,True,False
+2024-07-27,Chat,North America,Account Access,4.8,4.6,False,False
+2025-06-28,Phone,APAC,Technical Issue,1.3,5.0,True,False
+2024-04-24,Self-Service,EMEA,Account Access,0.3,3.8,False,False
+2025-05-14,Chat,APAC,Feature Request,1.4,2.6,True,False
+2025-12-19,Email,EMEA,Account Access,5.9,3.6,True,False
+2025-04-19,Email,APAC,Billing,20.1,3.7,False,False
+2025-08-08,Email,North America,Billing,12.8,4.0,True,False
+2025-09-29,Chat,APAC,General Inquiry,4.0,3.9,False,False
+2024-06-14,Email,North America,Billing,23.7,4.0,False,False
+2025-03-06,Self-Service,North America,Account Access,0.2,3.3,True,False
+2024-09-28,Chat,North America,General Inquiry,3.0,3.5,True,False
+2024-02-07,Phone,LATAM,Technical Issue,0.8,4.7,True,False
+2025-02-04,Chat,APAC,General Inquiry,8.0,3.3,True,False
+2024-11-17,Chat,APAC,Feature Request,5.8,3.5,True,False
+2025-03-18,Email,North America,Feature Request,18.2,4.1,True,False
+2024-03-12,Self-Service,North America,Account Access,0.5,3.1,True,False
+2024-04-06,Email,APAC,Feature Request,19.4,3.7,True,False
+2024-08-18,Email,North America,Technical Issue,16.8,3.6,True,False
+2024-11-20,Self-Service,North America,General Inquiry,0.7,3.9,True,False
+2025-01-31,Email,LATAM,Billing,13.3,3.9,False,False
+2024-12-26,Email,North America,General Inquiry,19.9,3.1,False,False
+2024-11-30,Chat,EMEA,Feature Request,3.3,4.0,True,False
+2024-04-26,Email,North America,General Inquiry,10.4,3.5,True,False
+2024-06-01,Chat,North America,Billing,0.1,2.2,False,True
+2024-10-15,Self-Service,LATAM,Account Access,0.2,3.8,True,False
+2025-01-23,Chat,North America,Account Access,6.8,4.8,False,False
+2025-02-23,Email,APAC,Account Access,26.1,3.5,True,False
+2024-05-05,Email,North America,Account Access,15.6,3.9,True,False
+2024-12-11,Email,LATAM,Account Access,19.8,4.2,True,False
+2025-02-24,Email,EMEA,Feature Request,17.5,4.2,True,False
+2024-10-13,Chat,APAC,Technical Issue,4.5,4.0,False,False
+2025-10-26,Self-Service,APAC,General Inquiry,0.5,4.7,False,False
+2024-04-23,Email,APAC,General Inquiry,28.8,4.2,False,False
+2025-06-17,Phone,North America,Account Access,1.8,4.6,False,False
+2025-09-02,Phone,APAC,Feature Request,2.2,4.8,True,True
+2024-12-04,Email,EMEA,General Inquiry,3.8,3.7,True,False
+2025-02-25,Email,EMEA,Feature Request,15.9,3.2,False,False
+2025-11-10,Email,North America,General Inquiry,18.4,3.4,True,False
+2025-02-14,Self-Service,EMEA,General Inquiry,0.6,3.2,False,False
+2024-11-05,Email,North America,Technical Issue,15.3,3.5,True,False
+2025-11-12,Chat,North America,Feature Request,6.7,2.8,True,False
+2025-06-09,Email,APAC,Feature Request,24.0,3.7,True,False
+2024-01-01,Email,EMEA,General Inquiry,25.4,2.1,False,False
+2025-08-17,Self-Service,LATAM,Technical Issue,0.6,3.9,True,False
+2024-02-14,Phone,LATAM,General Inquiry,3.2,3.3,True,False
+2024-07-27,Chat,EMEA,General Inquiry,5.7,3.7,False,False
+2025-09-13,Self-Service,EMEA,General Inquiry,0.2,4.0,False,False
+2025-11-30,Chat,EMEA,Technical Issue,3.8,3.2,True,False
+2025-01-06,Self-Service,EMEA,Account Access,0.9,4.9,False,False
+2024-03-11,Email,LATAM,General Inquiry,25.6,2.0,False,False
+2025-02-03,Email,EMEA,Account Access,20.3,4.3,False,False
+2024-03-28,Phone,LATAM,Billing,2.4,5.0,True,False
+2024-06-20,Email,North America,Feature Request,9.0,3.7,False,False
+2025-07-31,Email,LATAM,Account Access,9.1,3.5,False,False
+2025-03-06,Email,EMEA,General Inquiry,21.6,4.4,True,False
+2024-04-24,Email,EMEA,General Inquiry,17.1,3.5,True,False
+2025-07-12,Chat,EMEA,Feature Request,5.6,4.9,True,False
+2024-06-07,Phone,EMEA,General Inquiry,1.7,4.3,True,False
+2025-09-10,Chat,APAC,Feature Request,4.3,3.0,False,False
+2025-06-28,Email,North America,Feature Request,31.8,3.5,False,False
+2025-09-20,Email,APAC,Technical Issue,8.8,2.2,False,False
+2024-03-30,Email,North America,General Inquiry,10.1,3.3,False,False
+2025-06-05,Phone,EMEA,Billing,2.8,4.4,False,False
+2024-12-21,Email,APAC,Technical Issue,19.9,3.3,True,False
+2024-09-29,Email,LATAM,Billing,23.8,4.0,True,False
+2025-02-26,Self-Service,LATAM,Feature Request,0.1,3.7,True,False
+2024-10-16,Email,EMEA,Account Access,8.6,2.3,True,False
+2025-11-24,Chat,APAC,Feature Request,3.2,4.0,True,False
+2024-09-12,Email,North America,General Inquiry,9.4,3.8,True,False
+2024-01-24,Chat,LATAM,General Inquiry,2.2,3.7,False,False
+2024-10-21,Email,LATAM,Billing,14.8,4.2,False,False
+2025-09-15,Self-Service,LATAM,Billing,0.2,4.3,False,False
+2025-08-02,Phone,EMEA,Technical Issue,1.3,4.9,True,False
+2024-08-03,Chat,LATAM,Account Access,4.1,4.7,True,False
+2024-03-11,Chat,North America,Account Access,5.5,4.7,False,False
+2025-08-13,Email,APAC,General Inquiry,26.7,2.6,True,False
+2024-02-14,Chat,North America,Account Access,3.8,5.0,True,False
+2024-05-05,Self-Service,North America,Feature Request,0.2,3.8,True,False
+2025-12-03,Chat,North America,Technical Issue,5.4,3.7,True,False
+2025-11-02,Chat,North America,Technical Issue,5.5,4.7,True,False
+2024-12-06,Email,APAC,Feature Request,17.2,4.1,False,False
+2024-03-09,Chat,North America,Feature Request,4.7,4.7,True,False
+2024-12-18,Phone,LATAM,Billing,1.2,4.7,True,False
+2024-03-31,Phone,North America,Technical Issue,3.2,4.7,True,False
+2024-05-27,Self-Service,LATAM,Feature Request,0.5,3.4,True,False
+2025-12-09,Chat,North America,Technical Issue,2.2,3.6,False,False
+2025-10-30,Phone,North America,Account Access,2.6,4.3,True,False
+2025-10-21,Self-Service,North America,Billing,0.6,3.0,False,True
+2025-04-28,Self-Service,LATAM,Technical Issue,0.4,2.9,True,False
+2024-05-04,Self-Service,LATAM,Billing,0.6,4.0,True,False
+2025-03-12,Chat,APAC,Account Access,2.8,4.9,True,False
+2024-01-19,Chat,APAC,Feature Request,6.1,4.0,True,False
+2025-03-11,Phone,EMEA,Technical Issue,1.9,4.5,True,False
+2025-04-28,Chat,APAC,Billing,3.3,3.8,False,False
+2025-03-25,Email,EMEA,General Inquiry,33.4,3.7,True,False
+2024-10-31,Chat,LATAM,Feature Request,4.3,4.1,False,False
+2024-06-30,Chat,North America,Technical Issue,8.0,4.3,True,False
+2025-12-11,Phone,EMEA,Feature Request,3.2,4.9,False,False
+2025-11-14,Chat,EMEA,Technical Issue,7.5,5.0,True,False
+2025-09-10,Chat,North America,Technical Issue,2.7,3.6,False,True
+2025-04-30,Email,EMEA,Account Access,9.3,4.2,False,False
+2025-10-25,Self-Service,LATAM,Feature Request,0.6,4.7,True,False
+2024-11-17,Self-Service,North America,General Inquiry,0.4,3.8,True,False
+2024-02-12,Chat,North America,Account Access,6.4,5.0,False,False
+2024-03-23,Email,APAC,General Inquiry,11.2,3.3,False,False
+2025-05-11,Email,APAC,Account Access,7.0,2.5,True,False
+2024-10-10,Phone,LATAM,Account Access,1.6,4.6,True,True
+2024-07-28,Chat,APAC,Feature Request,1.3,3.7,False,False
+2025-03-16,Email,North America,Feature Request,7.0,2.2,True,False
+2025-09-17,Phone,EMEA,Billing,1.5,5.0,True,False
+2025-10-05,Self-Service,APAC,Account Access,0.4,4.5,False,False
+2025-05-18,Email,North America,Technical Issue,15.9,4.1,True,False
+2025-01-08,Email,EMEA,General Inquiry,8.7,4.9,True,False
+2024-06-16,Chat,LATAM,Technical Issue,2.4,2.9,True,False
+2025-02-17,Self-Service,LATAM,Technical Issue,0.5,3.7,True,False
+2025-03-11,Email,EMEA,Account Access,7.9,2.8,True,False
+2024-11-25,Chat,LATAM,General Inquiry,4.8,4.5,True,False
+2024-06-08,Email,North America,Feature Request,25.2,3.0,True,False
+2025-03-06,Email,North America,Feature Request,29.6,3.8,True,True
+2024-06-22,Self-Service,APAC,General Inquiry,0.2,4.0,True,False
+2025-02-28,Self-Service,LATAM,General Inquiry,0.7,4.3,True,False
+2024-06-28,Phone,LATAM,Account Access,1.5,4.8,True,False
+2024-08-08,Self-Service,EMEA,Billing,0.6,4.3,True,False
+2025-09-29,Chat,APAC,General Inquiry,4.7,4.6,False,False
+2025-04-30,Chat,EMEA,Feature Request,4.2,4.2,False,False
+2025-11-23,Self-Service,North America,General Inquiry,0.4,4.7,False,False
+2024-08-28,Chat,LATAM,Billing,3.7,3.1,True,False
+2025-06-11,Email,LATAM,Billing,15.4,5.0,False,False
+2025-11-06,Chat,LATAM,Feature Request,2.9,4.7,False,False
+2024-04-06,Email,North America,Feature Request,18.7,3.9,True,False
+2025-09-08,Self-Service,LATAM,Technical Issue,0.5,5.0,False,False
+2025-04-16,Chat,LATAM,Billing,2.8,3.5,False,False
+2025-02-02,Phone,North America,Feature Request,1.5,4.4,True,False
+2024-03-02,Email,North America,Account Access,18.3,3.2,True,False
+2024-11-08,Chat,APAC,Account Access,2.5,3.5,True,False
+2025-04-06,Phone,APAC,Feature Request,3.1,4.6,True,False
+2024-02-02,Chat,APAC,Billing,2.0,4.1,True,False
+2025-07-22,Email,LATAM,Feature Request,13.6,4.3,True,False
+2024-12-16,Email,APAC,Billing,24.3,5.0,True,False
+2024-02-27,Self-Service,LATAM,Billing,0.2,3.6,True,False
+2025-12-25,Chat,LATAM,Billing,3.5,4.5,True,False
+2024-03-30,Email,North America,Billing,18.1,4.4,False,False
+2025-02-25,Chat,North America,Billing,6.2,4.3,True,False
+2024-03-09,Self-Service,North America,General Inquiry,0.7,4.6,True,False
+2025-09-15,Phone,North America,General Inquiry,2.3,5.0,True,False
+2025-03-26,Email,APAC,Billing,29.9,3.0,True,False
+2025-12-21,Chat,LATAM,Account Access,1.4,4.1,False,False
+2025-07-28,Phone,EMEA,Feature Request,2.8,4.9,True,False
+2024-03-07,Phone,APAC,Account Access,2.1,5.0,False,False
+2024-03-13,Phone,LATAM,General Inquiry,1.3,4.6,True,False
+2025-11-14,Chat,EMEA,General Inquiry,4.2,3.8,True,False
+2024-02-17,Chat,LATAM,General Inquiry,4.7,4.0,False,False
+2025-12-08,Email,EMEA,Feature Request,25.8,3.7,True,False
+2024-04-15,Phone,LATAM,Account Access,2.1,4.3,True,False
+2025-02-07,Chat,APAC,Account Access,0.1,5.0,False,False
+2025-06-30,Chat,North America,Account Access,3.9,4.6,True,False
+2024-07-01,Chat,APAC,General Inquiry,1.8,3.2,False,False
+2025-03-02,Phone,North America,Account Access,2.0,5.0,True,False
+2025-02-06,Self-Service,North America,Technical Issue,0.9,3.5,True,False
+2024-09-17,Email,APAC,Account Access,19.9,3.5,False,False
+2024-07-23,Self-Service,EMEA,Billing,0.5,3.6,False,False
+2024-06-24,Chat,APAC,Feature Request,3.4,4.3,False,False
+2025-05-22,Email,LATAM,General Inquiry,23.1,4.3,True,True
+2024-12-18,Email,North America,General Inquiry,15.3,3.7,True,False
+2024-04-17,Phone,LATAM,Billing,0.6,4.2,True,False
+2025-05-07,Chat,EMEA,Feature Request,5.8,4.1,False,False
+2024-06-06,Email,North America,Feature Request,14.8,5.0,True,False
+2024-04-28,Self-Service,LATAM,Feature Request,0.7,3.0,True,False
+2024-01-03,Chat,APAC,Billing,2.7,4.2,True,False
+2024-01-22,Chat,North America,Technical Issue,3.2,3.6,False,False
+2025-04-17,Email,LATAM,Feature Request,8.4,2.9,True,False
+2024-02-02,Chat,North America,Technical Issue,4.2,4.3,False,False
+2025-03-15,Phone,North America,Technical Issue,1.4,4.6,True,False
+2024-03-25,Phone,APAC,Technical Issue,2.6,5.0,True,False
+2024-08-25,Phone,LATAM,General Inquiry,1.6,3.5,True,False
+2025-01-01,Self-Service,North America,Technical Issue,0.8,3.6,True,False
+2025-07-28,Chat,EMEA,Technical Issue,3.7,4.0,True,False
+2025-03-08,Phone,EMEA,Account Access,2.0,4.9,True,False
+2025-11-14,Chat,LATAM,Account Access,4.0,4.4,True,False
+2025-11-02,Chat,EMEA,Account Access,3.3,3.5,True,False
+2024-06-16,Chat,North America,Billing,1.3,4.5,False,False
+2024-03-30,Self-Service,APAC,General Inquiry,0.5,4.3,False,False
+2025-09-08,Self-Service,North America,Account Access,0.5,5.0,True,False
+2025-11-14,Email,LATAM,Feature Request,8.9,2.9,True,True
+2025-04-12,Chat,North America,Technical Issue,3.0,3.4,True,False
+2024-01-17,Phone,EMEA,Feature Request,2.3,5.0,True,False
+2024-03-15,Email,LATAM,General Inquiry,14.0,4.1,True,False
+2024-11-05,Email,LATAM,Billing,2.3,3.6,True,False
+2024-05-16,Chat,EMEA,Account Access,4.9,5.0,True,False
+2025-12-12,Chat,APAC,Technical Issue,4.3,4.0,True,False
+2025-04-20,Self-Service,APAC,Account Access,0.4,3.8,False,False
+2024-11-25,Chat,North America,Technical Issue,4.3,3.2,True,False
+2025-12-05,Phone,APAC,Feature Request,1.4,5.0,True,False
+2025-03-24,Email,EMEA,Technical Issue,15.7,4.2,True,False
+2025-03-28,Self-Service,North America,Billing,0.7,4.2,True,False
+2025-04-05,Self-Service,APAC,General Inquiry,0.5,3.3,False,False
+2024-02-10,Chat,North America,General Inquiry,2.8,4.4,True,False
+2024-09-15,Self-Service,LATAM,Account Access,0.5,3.2,True,False
+2024-05-15,Phone,EMEA,Account Access,3.4,5.0,False,False
+2025-11-06,Self-Service,APAC,Technical Issue,0.8,4.4,False,False
+2025-04-30,Email,LATAM,Feature Request,12.8,3.5,True,False
+2025-05-03,Email,EMEA,Technical Issue,14.9,3.2,True,False
+2024-06-02,Email,North America,General Inquiry,20.7,3.7,True,False
+2024-10-07,Email,EMEA,Account Access,12.4,3.5,True,False
+2025-05-03,Chat,APAC,Account Access,3.9,3.6,True,False
+2025-08-01,Phone,LATAM,General Inquiry,1.9,5.0,False,False
+2024-02-26,Chat,APAC,Feature Request,2.0,4.0,False,False
+2025-09-05,Phone,LATAM,Account Access,2.8,3.8,True,False
+2024-09-15,Email,LATAM,Feature Request,22.8,4.4,True,False
+2024-06-05,Phone,North America,Account Access,0.5,4.7,True,False
+2024-01-21,Self-Service,APAC,General Inquiry,0.3,2.8,True,False
+2025-08-23,Chat,EMEA,Feature Request,3.0,4.0,False,True
+2025-01-29,Self-Service,LATAM,Technical Issue,0.3,3.4,True,False
+2024-08-27,Phone,LATAM,Account Access,3.1,3.5,True,False
+2024-11-08,Chat,APAC,Account Access,4.3,4.7,True,False
+2025-01-27,Phone,APAC,Billing,2.7,5.0,False,False
+2025-08-30,Email,APAC,Feature Request,14.1,5.0,True,False
+2025-04-23,Phone,EMEA,Technical Issue,2.4,4.6,True,True
+2025-04-19,Self-Service,APAC,Account Access,0.4,4.9,True,False
+2025-03-25,Self-Service,LATAM,General Inquiry,0.6,2.2,True,False
+2025-09-20,Phone,LATAM,General Inquiry,2.1,4.4,False,False
+2025-02-20,Self-Service,APAC,Account Access,0.7,3.6,True,False
+2024-04-30,Phone,EMEA,General Inquiry,2.1,4.2,True,False
+2025-03-20,Chat,EMEA,General Inquiry,1.4,5.0,True,False
+2025-04-15,Email,LATAM,Feature Request,15.8,3.6,False,False
+2025-10-26,Self-Service,EMEA,Billing,0.2,4.1,False,False
+2025-08-08,Self-Service,LATAM,General Inquiry,0.1,3.6,True,False
+2024-11-29,Self-Service,APAC,Billing,0.7,3.3,False,False
+2024-09-17,Chat,North America,General Inquiry,4.7,5.0,True,False
